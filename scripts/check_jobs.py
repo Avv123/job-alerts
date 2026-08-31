@@ -20,7 +20,7 @@ KEYWORDS_FILE = ROOT / "keywords.json"
 STATE_DIR = ROOT / "state"
 
 RESEND_API_KEY = os.environ.get("RESEND_API_KEY")
-ALERT_TO = os.environ.get("ALERT_TO")
+ALERT_TO = [e.strip() for e in (os.environ.get("ALERT_TO") or "").split(",") if e.strip()]
 ALERT_FROM = os.environ.get("ALERT_FROM") or "onboarding@resend.dev"
 
 session = requests.Session()
@@ -292,7 +292,7 @@ def send_email(subject, html_body):
     r = session.post(
         "https://api.resend.com/emails",
         headers={"Authorization": f"Bearer {RESEND_API_KEY}"},
-        json={"from": ALERT_FROM, "to": [ALERT_TO], "subject": subject, "html": html_body},
+        json={"from": ALERT_FROM, "to": ALERT_TO, "subject": subject, "html": html_body},
         timeout=30,
     )
     if r.status_code >= 300:
