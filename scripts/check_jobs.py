@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Check company career pages for new openings matching keywords, email on new matches."""
+import html
 import json
 import os
 import re
 import sys
 import hashlib
+from collections import OrderedDict
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -222,6 +225,66 @@ FETCHERS = {
 }
 
 
+def build_email_html(all_new):
+    by_company = OrderedDict()
+    for j in all_new:
+        by_company.setdefault(j["company"], []).append(j)
+
+    company_blocks = []
+    for company, jobs in by_company.items():
+        job_links = "".join(
+            f'''<a href="{html.escape(j['url'], quote=True)}"
+                  style="display:block;padding:12px 14px;margin-bottom:8px;background:#f9fafb;
+                         border:1px solid #eef0f3;border-radius:8px;text-decoration:none;
+                         color:#1d4ed8;font-size:14px;font-weight:500;line-height:1.4;">
+                {html.escape(j['title'])}
+                <span style="color:#9ca3af;font-weight:400;">&nbsp;&rarr;</span>
+              </a>'''
+            for j in jobs
+        )
+        company_blocks.append(f'''
+          <div style="margin-bottom:22px;">
+            <div style="font-size:15px;font-weight:700;color:#111827;
+                        border-bottom:1px solid #e5e7eb;padding-bottom:6px;margin-bottom:10px;">
+              {html.escape(company)}
+              <span style="color:#6b7280;font-weight:400;">({len(jobs)})</span>
+            </div>
+            {job_links}
+          </div>''')
+
+    n_companies = len(by_company)
+    company_word = "company" if n_companies == 1 else "companies"
+    opening_word = "opening" if len(all_new) == 1 else "openings"
+    checked_at = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
+
+    return f'''<table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+      style="background:#f4f5f7;padding:32px 16px;font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0"
+          style="background:#ffffff;border-radius:12px;overflow:hidden;max-width:600px;width:100%;">
+          <tr>
+            <td style="background:#111827;padding:24px 32px;">
+              <div style="color:#ffffff;font-size:20px;font-weight:700;">Job Alerts</div>
+              <div style="color:#9ca3af;font-size:13px;margin-top:4px;">
+                {len(all_new)} new {opening_word} across {n_companies} {company_word}
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:24px 32px;">
+              {''.join(company_blocks)}
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:16px 32px;background:#f9fafb;color:#9ca3af;font-size:12px;text-align:center;">
+              Checked {checked_at} &middot; runs every 6 hours
+            </td>
+          </tr>
+        </table>
+      </td></tr>
+    </table>'''
+
+
 def send_email(subject, html_body):
     if not RESEND_API_KEY or not ALERT_TO:
         print("RESEND_API_KEY or ALERT_TO not set, skipping email. Body:\n", html_body)
@@ -277,11 +340,7 @@ def main():
     close_browser()
 
     if all_new:
-        rows = "".join(
-            f"<li><b>{j['company']}</b> — <a href='{j['url']}'>{j['title']}</a></li>" for j in all_new
-        )
-        html = f"<p>{len(all_new)} new matching opening(s) found:</p><ul>{rows}</ul>"
-        send_email(f"Job Alerts: {len(all_new)} new opening(s)", html)
+        send_email(f"Job Alerts: {len(all_new)} new opening(s)", build_email_html(all_new))
     else:
         print("No new matching openings this run.")
 
