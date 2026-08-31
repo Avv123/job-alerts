@@ -18,7 +18,7 @@ STATE_DIR = ROOT / "state"
 
 RESEND_API_KEY = os.environ.get("RESEND_API_KEY")
 ALERT_TO = os.environ.get("ALERT_TO")
-ALERT_FROM = os.environ.get("ALERT_FROM", "onboarding@resend.dev")
+ALERT_FROM = os.environ.get("ALERT_FROM") or "onboarding@resend.dev"
 
 session = requests.Session()
 session.headers.update({"User-Agent": "job-alerts-bot/1.0"})
