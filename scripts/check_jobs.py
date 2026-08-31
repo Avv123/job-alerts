@@ -9,6 +9,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 import requests
+from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
 COMPANIES_FILE = ROOT / "companies.json"
@@ -105,14 +106,35 @@ def fetch_workday(url):
     return jobs
 
 
-CUSTOM_NOISE_PREFIXES = ("share ", "apply ", "apply for ", "apply now ")
+CUSTOM_NOISE_PREFIXES = (
+    "share ", "apply ", "apply for ", "apply now ", "save ",
+    "read more about the job ", "learn more about ", "more info about ",
+    "position, ",
+)
+JOB_ID_SUFFIX_RE = re.compile(r"\s*,?\s*job\s*id\s*(?:is)?\s*[:\-]?\s*[a-f0-9-]{6,}\s*$", re.I)
+
+_browser = None
+_playwright_ctx = None
 
 
-def fetch_custom(url):
-    """Best-effort: fetch a page and pull visible lines that look like job titles."""
-    r = session.get(url, timeout=30)
-    r.raise_for_status()
-    text = re.sub(r"<[^>]+>", "\n", r.text)
+def get_browser():
+    global _browser, _playwright_ctx
+    if _browser is None:
+        _playwright_ctx = sync_playwright().start()
+        _browser = _playwright_ctx.chromium.launch()
+    return _browser
+
+
+def close_browser():
+    global _browser, _playwright_ctx
+    if _browser is not None:
+        _browser.close()
+        _playwright_ctx.stop()
+        _browser = None
+        _playwright_ctx = None
+
+
+def lines_to_jobs(text, url):
     lines = [l.strip() for l in text.split("\n")]
     lines = [l for l in lines if 4 < len(l) < 120]
     jobs = []
@@ -123,13 +145,71 @@ def fetch_custom(url):
             if norm.lower().startswith(prefix):
                 norm = norm[len(prefix):].strip()
                 break
+        norm = JOB_ID_SUFFIX_RE.sub("", norm).strip()
         key = norm.lower()
+        if not key:
+            continue
         if key in seen:
             continue
         seen.add(key)
         jid = hashlib.sha1(key.encode()).hexdigest()[:12]
         jobs.append({"id": jid, "title": norm, "url": url})
     return jobs
+
+
+SHOW_MORE_PATTERN = re.compile(r"show more|load more|view more|see more", re.I)
+
+
+def expand_pagination(page, max_clicks=6):
+    """Click 'Show More'-style buttons and scroll down repeatedly so
+    infinite-scroll / paginated listings are fully loaded before we scrape."""
+    for _ in range(max_clicks):
+        clicked = False
+        for el in page.locator("button, a").all():
+            try:
+                text = el.inner_text(timeout=1000)
+            except Exception:
+                continue
+            if text and SHOW_MORE_PATTERN.search(text) and el.is_visible():
+                try:
+                    el.click(timeout=2000)
+                    clicked = True
+                    page.wait_for_timeout(1000)
+                    break
+                except Exception:
+                    continue
+        page.mouse.wheel(0, 3000)
+        page.wait_for_timeout(500)
+        if not clicked:
+            break
+
+
+def fetch_custom(url):
+    """Best-effort: render the page with a real browser (so JS-built job lists
+    actually appear), expand pagination, and pull visible text plus tooltip
+    'title' attributes that look like job titles (sites often truncate the
+    visible text but keep the full string in a title/aria-label attribute)."""
+    browser = get_browser()
+    page = browser.new_page(user_agent="Mozilla/5.0 (job-alerts-bot/1.0)")
+    try:
+        page.goto(url, timeout=45000, wait_until="networkidle")
+    except Exception:
+        pass  # partial content is still better than nothing
+    try:
+        expand_pagination(page)
+    except Exception:
+        pass
+    text = page.inner_text("body")
+    try:
+        attr_texts = page.eval_on_selector_all(
+            "[title], [aria-label]",
+            "els => els.map(e => e.getAttribute('title') || e.getAttribute('aria-label')).filter(Boolean)",
+        )
+    except Exception:
+        attr_texts = []
+    page.close()
+    full_text = text + "\n" + "\n".join(attr_texts)
+    return lines_to_jobs(full_text, url)
 
 
 FETCHERS = {
@@ -193,6 +273,8 @@ def main():
 
         all_matched_ids = {j["id"] for j in matched}
         state_file.write_text(json.dumps(sorted(all_matched_ids), indent=2))
+
+    close_browser()
 
     if all_new:
         rows = "".join(
