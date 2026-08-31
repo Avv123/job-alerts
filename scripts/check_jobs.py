@@ -6,6 +6,7 @@ import re
 import sys
 import hashlib
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 
@@ -64,6 +65,49 @@ def fetch_smartrecruiters(token):
     ]
 
 
+def fetch_ashby(token):
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{token}"
+    r = session.get(url, timeout=30)
+    r.raise_for_status()
+    jobs = r.json().get("jobs", [])
+    return [
+        {"id": j.get("id", j.get("title")), "title": j.get("title", ""), "url": j.get("jobUrl") or j.get("applyUrl") or ""}
+        for j in jobs
+    ]
+
+
+def fetch_workday(url):
+    """url is the site's external career-site URL, e.g. https://tenant.wd5.myworkdayjobs.com/Site_Name"""
+    parsed = urlparse(url)
+    host = parsed.netloc
+    tenant = host.split(".")[0]
+    parts = [p for p in parsed.path.split("/") if p]
+    site = parts[0] if parts else ""
+    cxs_url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
+
+    jobs = []
+    offset = 0
+    limit = 20
+    while True:
+        body = {"appliedFacets": {}, "limit": limit, "offset": offset, "searchText": ""}
+        r = session.post(cxs_url, json=body, timeout=30)
+        r.raise_for_status()
+        data = r.json()
+        postings = data.get("jobPostings", [])
+        if not postings:
+            break
+        for p in postings:
+            ext = p.get("externalPath", "")
+            jobs.append({"id": ext or p.get("title", ""), "title": p.get("title", ""), "url": f"https://{host}/{site}{ext}"})
+        offset += limit
+        if offset >= data.get("total", 0) or offset > 500:
+            break
+    return jobs
+
+
+CUSTOM_NOISE_PREFIXES = ("share ", "apply ", "apply for ", "apply now ")
+
+
 def fetch_custom(url):
     """Best-effort: fetch a page and pull visible lines that look like job titles."""
     r = session.get(url, timeout=30)
@@ -74,11 +118,17 @@ def fetch_custom(url):
     jobs = []
     seen = set()
     for l in lines:
-        if l in seen:
+        norm = l
+        for prefix in CUSTOM_NOISE_PREFIXES:
+            if norm.lower().startswith(prefix):
+                norm = norm[len(prefix):].strip()
+                break
+        key = norm.lower()
+        if key in seen:
             continue
-        seen.add(l)
-        jid = hashlib.sha1(l.encode()).hexdigest()[:12]
-        jobs.append({"id": jid, "title": l, "url": url})
+        seen.add(key)
+        jid = hashlib.sha1(key.encode()).hexdigest()[:12]
+        jobs.append({"id": jid, "title": norm, "url": url})
     return jobs
 
 
@@ -86,6 +136,8 @@ FETCHERS = {
     "greenhouse": lambda c: fetch_greenhouse(c["token"]),
     "lever": lambda c: fetch_lever(c["token"]),
     "smartrecruiters": lambda c: fetch_smartrecruiters(c["token"]),
+    "ashby": lambda c: fetch_ashby(c["token"]),
+    "workday": lambda c: fetch_workday(c["url"]),
     "custom": lambda c: fetch_custom(c["url"]),
 }
 
