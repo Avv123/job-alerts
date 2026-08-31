@@ -1,14 +1,112 @@
-[
-  "0ad2582304e7",
-  "16b8a7c08df7",
-  "181d90a9d5a4",
-  "1f55591cfd1f",
-  "5b85deb7a777",
-  "5cca292434e9",
-  "674dd8f88753",
-  "85e79abe5d73",
-  "a17ef59055f6",
-  "b1636e55937f",
-  "d0b150039d33",
-  "fe57863288e2"
-]
+{
+  "jobs": {
+    "85e79abe5d73": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10386857/software-engineer",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "a17ef59055f6": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer I",
+      "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "d0b150039d33": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/3133471/principal-software-engineer",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "5b85deb7a777": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Embedded Software Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10458621/embedded-software-engineer",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "1f55591cfd1f": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer, AppSTAR COMPASS",
+      "url": "https://www.amazon.jobs/en/jobs/10504754/software-engineer-appstar-compass",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "b1636e55937f": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "1+ years of software development engineer or related occupational experience",
+      "url": "https://www.amazon.jobs/en/search?base_query=software+engineer",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "674dd8f88753": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer I, Payments",
+      "url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "181d90a9d5a4": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "1+ years as an software engineer",
+      "url": "https://www.amazon.jobs/en/search?base_query=software+engineer",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "16b8a7c08df7": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Embedded Software Engineer, Ring",
+      "url": "https://www.amazon.jobs/en/jobs/10474496/embedded-software-engineer-ring",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "fe57863288e2": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer, EC2 Nitro",
+      "url": "https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "0ad2582304e7": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer, MADS",
+      "url": "https://www.amazon.jobs/en/jobs/10431998/principal-software-engineer-mads",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "e02af3d29b37": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer, Annapurna",
+      "url": "https://www.amazon.jobs/en/jobs/10467285/senior-software-engineer-annapurna",
+      "location": "",
+      "active": true,
+      "excluded": true
+    }
+  }
+}

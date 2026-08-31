@@ -1,57 +1,499 @@
-[
-  "6665700003",
-  "7561106003",
-  "7561107003",
-  "7561108003",
-  "7561109003",
-  "7704693003",
-  "7718585003",
-  "7718732003",
-  "7730482003",
-  "7731266003",
-  "7731702003",
-  "7731882003",
-  "7731883003",
-  "7733112003",
-  "7733117003",
-  "7761600003",
-  "7762764003",
-  "7763249003",
-  "7767239003",
-  "7767936003",
-  "7767937003",
-  "7767938003",
-  "7769045003",
-  "7772360003",
-  "7785670003",
-  "7785826003",
-  "7785829003",
-  "7791947003",
-  "7805487003",
-  "7812592003",
-  "7812629003",
-  "7814850003",
-  "7814855003",
-  "7817810003",
-  "7818963003",
-  "7819858003",
-  "7823948003",
-  "7827830003",
-  "7827879003",
-  "7827882003",
-  "7827900003",
-  "7834099003",
-  "7834623003",
-  "7834878003",
-  "7834879003",
-  "7834880003",
-  "7902213003",
-  "7902752003",
-  "7902754003",
-  "7916049003",
-  "7924594003",
-  "7924595003",
-  "7924663003",
-  "7972060003",
-  "7978279003"
-]
+{
+  "jobs": {
+    "7814850003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer, AI SIEM",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7814850003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7814855003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Backend Software Engineer - Agent Platform",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7814855003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7704693003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Backend Software Engineer, ObservoAI",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7704693003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7817810003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7817810003",
+      "location": "India",
+      "active": true,
+      "excluded": true
+    },
+    "7731702003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - C++ Linux & Cloud Workload ",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7731702003",
+      "location": "Israel",
+      "active": true,
+      "excluded": true
+    },
+    "6665700003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - C++ Linux & Cloud Workload Security",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6665700003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7924594003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer in Test",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7924594003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7924595003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer in Test",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7924595003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7924663003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer in Test",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7924663003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7916049003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer in Test",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7916049003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7772360003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Java",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7772360003",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "7561106003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561106003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7561107003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561107003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7561109003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561109003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7561108003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561108003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7762764003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Staff Software Engineer - Agent Platform team",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762764003",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "7761600003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Staff Software Engineer (Go/Java + React) - Agent Platform team",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7761600003",
+      "location": "Israel",
+      "active": true,
+      "excluded": true
+    },
+    "7785670003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Staff Software Engineer (Java) - Platform org",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7785670003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7785829003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Staff Software Engineer (Java) - Platform org",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7785829003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7785826003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Staff Software Engineer (Java) - Platform org",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7785826003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7972060003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Development Engineer in Test ",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7972060003",
+      "location": "Bengaluru, Karnataka, India",
+      "active": true,
+      "excluded": true
+    },
+    "7805487003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Sr. Manager, AI Software Engineering",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7805487003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7731266003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Backend Engineer (Go, Java) - Detection & Response",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7731266003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7730482003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Backend Engineer (Go, Java) - Detection & Response",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7730482003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7733117003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Backend Engineer (Go, Java) - Detection & Response",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7733117003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7733112003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Backend Engineer (Go, Java) - Detection & Response",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7733112003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7818963003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Backend Software Engineer - Agent Platform",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7818963003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7769045003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Backend Software Engineer, On-prem",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769045003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7791947003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Endpoint Software Engineer, Prompt (Python & OS Internals)",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7791947003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7823948003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Endpoint Software Engineer, Prompt (Python & OS Internals)",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7823948003",
+      "location": "Israel",
+      "active": true,
+      "excluded": true
+    },
+    "7834099003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Endpoint Software Engineer, Prompt (Python & OS Internals)",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7834099003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7763249003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7763249003",
+      "location": "Bengaluru, Karnataka, India",
+      "active": true,
+      "excluded": true
+    },
+    "7902213003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer - AI Platform",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7902213003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7902754003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer - AI Platform ",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7902754003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7902752003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer - AI Platform ",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7902752003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7812592003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer, Detection Platform",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7812592003",
+      "location": "Israel",
+      "active": true,
+      "excluded": true
+    },
+    "7819858003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer, Endpoint Escalations (C++, Windows/OS Internals)",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7819858003",
+      "location": "United States - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "7827900003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Go, Java) - 3rd Party Integrations",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7827900003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7827830003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Go, Java) - 3rd Party Integrations",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7827830003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7827879003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Go, Java) - 3rd Party Integrations",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7827879003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7827882003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Go, Java) - 3rd Party Integrations",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7827882003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7731882003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Customer Lifecycle Management team",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7731882003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7731883003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Customer Lifecycle Management team",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7731883003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7718732003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Customer Lifecycle Management team",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7718732003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7718585003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Customer Lifecycle Management team",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7718585003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7834623003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Data Ingest",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7834623003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7834880003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Data Ingest",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7834880003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7834878003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Data Ingest",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7834878003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7834879003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Java) - Data Ingest",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7834879003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7978279003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer - Marketplace",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7978279003",
+      "location": "India",
+      "active": true,
+      "excluded": true
+    },
+    "7812629003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer - Marketplace",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7812629003",
+      "location": "Bengaluru, Karnataka, India",
+      "active": true,
+      "excluded": true
+    },
+    "7767938003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Python, Go, Java) - Collection Engineering",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7767938003",
+      "location": "Slovakia",
+      "active": true,
+      "excluded": true
+    },
+    "7767239003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Python, Go, Java) - Collection Engineering",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7767239003",
+      "location": "Prague, Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7767937003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Python, Go, Java) - Collection Engineering",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7767937003",
+      "location": "Czech Republic",
+      "active": true,
+      "excluded": true
+    },
+    "7767936003": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer (Python, Go, Java) - Collection Engineering",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7767936003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "active": true,
+      "excluded": true
+    }
+  }
+}

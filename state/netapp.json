@@ -1,5 +1,31 @@
-[
-  "743999657409161",
-  "743999661878189",
-  "743999662029668"
-]
+{
+  "jobs": {
+    "743999662029668": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer in Test - SolidFire",
+      "url": "https://jobs.smartrecruiters.com/NetApp2/743999662029668",
+      "location": "Boulder, Colorado",
+      "active": true,
+      "excluded": true
+    },
+    "743999661878189": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Data Science and Machine Learning Software Engineer (3511)",
+      "url": "https://jobs.smartrecruiters.com/NetApp2/743999661878189",
+      "location": "Sunnyvale, CA",
+      "active": true,
+      "excluded": true
+    },
+    "743999657409161": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Sustaining Software Engineer - SolidFire (43095BR)",
+      "url": "https://jobs.smartrecruiters.com/NetApp2/743999657409161",
+      "location": "Boulder, CO",
+      "active": true,
+      "excluded": true
+    }
+  }
+}

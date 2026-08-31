@@ -1,4 +1,22 @@
-[
-  "7547312",
-  "7547313"
-]
+{
+  "jobs": {
+    "7547313": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Developer, Services",
+      "url": "https://slice.careers/careers-listing?gh_jid=7547313",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "7547312": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Developer, Services",
+      "url": "https://slice.careers/careers-listing?gh_jid=7547312",
+      "location": "United Kingdom",
+      "active": true,
+      "excluded": true
+    }
+  }
+}

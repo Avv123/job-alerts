@@ -1,91 +1,976 @@
-[
-  "7348426",
-  "7843348",
-  "7976542",
-  "8025625",
-  "8025626",
-  "8025629",
-  "8053905",
-  "8066491",
-  "8074819",
-  "8074820",
-  "8074844",
-  "8074854",
-  "8074855",
-  "8074886",
-  "8074889",
-  "8074894",
-  "8074895",
-  "8080260",
-  "8080263",
-  "8080264",
-  "8082598",
-  "8082602",
-  "8082612",
-  "8082617",
-  "8097064",
-  "8105634",
-  "8106089",
-  "8111792",
-  "8111793",
-  "8111965",
-  "8111966",
-  "8119450",
-  "8119454",
-  "8125975",
-  "8125983",
-  "8125987",
-  "8128506",
-  "8130119",
-  "8131023",
-  "8131024",
-  "8131025",
-  "8138559",
-  "8138661",
-  "8138683",
-  "8138687",
-  "8138690",
-  "8138692",
-  "8138694",
-  "8138696",
-  "8138699",
-  "8161416",
-  "8161419",
-  "8161422",
-  "8161426",
-  "8161427",
-  "8161428",
-  "8161432",
-  "8161434",
-  "8161435",
-  "8161437",
-  "8161511",
-  "8161518",
-  "8161519",
-  "8161560",
-  "8161569",
-  "8161686",
-  "8161687",
-  "8161688",
-  "8161695",
-  "8161696",
-  "8162358",
-  "8162400",
-  "8162401",
-  "8162404",
-  "8162405",
-  "8162406",
-  "8162407",
-  "8162410",
-  "8162445",
-  "8162459",
-  "8162462",
-  "8162465",
-  "8162466",
-  "8162469",
-  "8162470",
-  "8162473",
-  "8162474",
-  "8162476",
-  "8162650"
-]
+{
+  "jobs": {
+    "8128506": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Director - IT Software Engineering",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8128506&gh_jid=8128506",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8088738": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Java Developer II - AutoOps Services - Platform Applications",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8088738&gh_jid=8088738",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "7982102": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Developer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7982102&gh_jid=7982102",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8002555": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8002555&gh_jid=8002555",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "7982100": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7982100&gh_jid=7982100",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8002562": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8002562&gh_jid=8002562",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8002561": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8002561&gh_jid=8002561",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8002560": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8002560&gh_jid=8002560",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8002559": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8002559&gh_jid=8002559",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8002558": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8002558&gh_jid=8002558",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8138661": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Developer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138661&gh_jid=8138661",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8162459": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Developer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162459&gh_jid=8162459",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8082617": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Developer - Security - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8082617&gh_jid=8082617",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8074820": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Developer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074820&gh_jid=8074820",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8106089": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal software developer/Tech Lead, Agent Framework - Observability",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8106089&gh_jid=8106089",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8162358": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Developer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162358&gh_jid=8162358",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8130119": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer I - Serverless - Platform Control Plane",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8138694": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138694&gh_jid=8138694",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8138692": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138692&gh_jid=8138692",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8138690": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138690&gh_jid=8138690",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8138687": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138687&gh_jid=8138687",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8138699": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138699&gh_jid=8138699",
+      "location": "Poland",
+      "active": true,
+      "excluded": true
+    },
+    "8138683": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138683&gh_jid=8138683",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8119454": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8119454&gh_jid=8119454",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8138696": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138696&gh_jid=8138696",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8162445": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162445&gh_jid=8162445",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8162466": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162466&gh_jid=8162466",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8162465": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162465&gh_jid=8162465",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8162462": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162462&gh_jid=8162462",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8162474": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162474&gh_jid=8162474",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8162469": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162469&gh_jid=8162469",
+      "location": "Poland",
+      "active": true,
+      "excluded": true
+    },
+    "8162476": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162476&gh_jid=8162476",
+      "location": "Switzerland",
+      "active": true,
+      "excluded": true
+    },
+    "8162470": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162470&gh_jid=8162470",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8162473": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162473&gh_jid=8162473",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "7348426": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7348426&gh_jid=7348426",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8082612": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Security - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8082612&gh_jid=8082612",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8074819": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074819&gh_jid=8074819",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8162404": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162404&gh_jid=8162404",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8162650": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162650&gh_jid=8162650",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8162400": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162400&gh_jid=8162400",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8162401": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162401&gh_jid=8162401",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "7843348": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7843348&gh_jid=7843348",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8162405": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162405&gh_jid=8162405",
+      "location": "Poland",
+      "active": true,
+      "excluded": true
+    },
+    "8162406": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162406&gh_jid=8162406",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8162407": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162407&gh_jid=8162407",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8162410": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162410&gh_jid=8162410",
+      "location": "Switzerland",
+      "active": true,
+      "excluded": true
+    },
+    "8074285": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Developer - Core/Infra - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074285&gh_jid=8074285",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "7734579": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Developer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7734579&gh_jid=7734579",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8053886": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8053886&gh_jid=8053886",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8001166": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8001166&gh_jid=8001166",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "7734567": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7734567&gh_jid=7734567",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8001189": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8001189&gh_jid=8001189",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8001190": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8001190&gh_jid=8001190",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8001191": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8001191&gh_jid=8001191",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8001192": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8001192&gh_jid=8001192",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8001186": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8001186&gh_jid=8001186",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8138559": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": " Senior Software Developer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8138559&gh_jid=8138559",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8161422": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Developer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161422&gh_jid=8161422",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8082602": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Developer - Security - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8082602&gh_jid=8082602",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8074844": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Developer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074844&gh_jid=8074844",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8161518": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Developer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161518&gh_jid=8161518",
+      "location": "Canada",
+      "active": true,
+      "excluded": true
+    },
+    "8105634": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Integrations 3P - Platform",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8105634&gh_jid=8105634",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8131023": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Integrations 3P - Platform",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8131023&gh_jid=8131023",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8131024": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Integrations 3P - Platform",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8131024&gh_jid=8131024",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8131025": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Integrations 3P - Platform",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8131025&gh_jid=8131025",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8119450": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8119450&gh_jid=8119450",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8161416": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161416&gh_jid=8161416",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8161437": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161437&gh_jid=8161437",
+      "location": "Switzerland",
+      "active": true,
+      "excluded": true
+    },
+    "8161435": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161435&gh_jid=8161435",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8161434": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161434&gh_jid=8161434",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8161432": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161432&gh_jid=8161432",
+      "location": "Poland",
+      "active": true,
+      "excluded": true
+    },
+    "8161428": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161428&gh_jid=8161428",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8161427": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161427&gh_jid=8161427",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8161426": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161426&gh_jid=8161426",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8161419": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161419&gh_jid=8161419",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8082598": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Security - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8082598&gh_jid=8082598",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8111965": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - SSC",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8111965&gh_jid=8111965",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8111792": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - SSC",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8111792&gh_jid=8111792",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8111793": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - SSC",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8111793&gh_jid=8111793",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8111966": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - SSC",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8111966&gh_jid=8111966",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8066491": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8066491&gh_jid=8066491",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8074855": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074855&gh_jid=8074855",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8074886": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074886&gh_jid=8074886",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8074895": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074895&gh_jid=8074895",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8074889": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074889&gh_jid=8074889",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8074894": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074894&gh_jid=8074894",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8074854": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8074854&gh_jid=8074854",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8161519": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161519&gh_jid=8161519",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8161696": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161696&gh_jid=8161696",
+      "location": "Switzerland",
+      "active": true,
+      "excluded": true
+    },
+    "8161511": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161511&gh_jid=8161511",
+      "location": "United States",
+      "active": true,
+      "excluded": true
+    },
+    "8161695": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161695&gh_jid=8161695",
+      "location": "Romania",
+      "active": true,
+      "excluded": true
+    },
+    "8161688": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161688&gh_jid=8161688",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8161687": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161687&gh_jid=8161687",
+      "location": "Poland",
+      "active": true,
+      "excluded": true
+    },
+    "8161686": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161686&gh_jid=8161686",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8161569": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161569&gh_jid=8161569",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8161560": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8161560&gh_jid=8161560",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8080260": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8080260&gh_jid=8080260",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8080264": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8080264&gh_jid=8080264",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8097064": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8097064&gh_jid=8097064",
+      "location": "Ireland",
+      "active": true,
+      "excluded": true
+    },
+    "8080263": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8080263&gh_jid=8080263",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8125975": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II (Networking) - Platform Infra ",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8125975&gh_jid=8125975",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8125987": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II (Networking) - Platform Infra ",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8125987&gh_jid=8125987",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8125983": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II (Networking) - Platform Infra ",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8125983&gh_jid=8125983",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    },
+    "8053905": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II (Networking) - Platform Infra ",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8053905&gh_jid=8053905",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "7976542": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=7976542&gh_jid=7976542",
+      "location": "Spain",
+      "active": true,
+      "excluded": true
+    },
+    "8025625": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8025625&gh_jid=8025625",
+      "location": "Greece",
+      "active": true,
+      "excluded": true
+    },
+    "8025626": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8025626&gh_jid=8025626",
+      "location": "Portugal",
+      "active": true,
+      "excluded": true
+    },
+    "8025629": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8025629&gh_jid=8025629",
+      "location": "Norway",
+      "active": true,
+      "excluded": true
+    }
+  }
+}

@@ -1,14 +1,112 @@
-[
-  "744000145422519",
-  "744000145579989",
-  "744000145843394",
-  "744000145848949",
-  "744000146026218",
-  "744000146051474",
-  "744000146076439",
-  "744000146344019",
-  "744000146402059",
-  "744000146482829",
-  "744000146518464",
-  "744000146526999"
-]
+{
+  "jobs": {
+    "744000146570652": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Data Platform Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146570652",
+      "location": "San Diego, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000146526999": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Manager - Software Engineering Management - AI Engineering",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146526999",
+      "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000146518464": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146518464",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "744000146482829": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Sr Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146482829",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "744000146402059": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146402059",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "744000146344019": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Director, Software Engineering Management",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146344019",
+      "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000146076439": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Manager, Software Engineering Management - AI Experience Framework",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146076439",
+      "location": "San Diego, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000146051474": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer - ITAM",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146051474",
+      "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000146026218": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000146026218",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "744000145848949": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Staff Software Engineer, Agentic Systems - Moveworks",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000145848949",
+      "location": "Mountain View, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000145843394": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Staff Software Engineer, Agent Eval Platform",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000145843394",
+      "location": "Mountain View, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000145579989": {
+      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "title": "Senior Software Engineer, Core Infrastructure - Moveworks",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000145579989",
+      "location": "Mountain View, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    }
+  }
+}
