@@ -2,9 +2,18 @@
   "jobs": {
     "de8fdd5cf12f": {
       "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:36:10.797236+00:00",
+      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
       "title": "Senior Staff Software Engineer (Internet Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "c1a63e080ff7": {
+      "first_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "title": "Sr. Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
       "active": true,
       "excluded": true
