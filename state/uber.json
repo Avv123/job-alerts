@@ -1,3 +1,13 @@
 {
-  "jobs": {}
+  "jobs": {
+    "bc693e6a63b8": {
+      "first_seen_at": "2026-09-01T04:31:21.153054+00:00",
+      "last_seen_at": "2026-09-01T04:31:21.153054+00:00",
+      "title": "Senior Staff Software Engineer - Grocery Fulfillment & Payments",
+      "url": "https://jobs.uber.com/en/jobs/155811/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    }
+  }
 }

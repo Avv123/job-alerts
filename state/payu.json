@@ -2,9 +2,18 @@
   "jobs": {
     "85e79abe5d73": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-01T00:09:14.076301+00:00",
+      "last_seen_at": "2026-09-01T04:31:21.153054+00:00",
       "title": "Software Engineer",
-      "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer/3193880/",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer/3217480/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "f33e745a76b1": {
+      "first_seen_at": "2026-09-01T04:31:21.153054+00:00",
+      "last_seen_at": "2026-09-01T04:31:21.153054+00:00",
+      "title": "Software Engineer..",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer_/3217280/",
       "location": "",
       "active": true,
       "excluded": false
