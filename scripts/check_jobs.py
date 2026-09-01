@@ -366,6 +366,25 @@ CUSTOM_NOISE_PREFIXES = (
 )
 JOB_ID_SUFFIX_RE = re.compile(r"\s*,?\s*job\s*id\s*(?:is)?\s*[:\-]?\s*[a-f0-9-]{6,}\s*$", re.I)
 
+# Page chrome / blog content that happens to contain a matching keyword but
+# isn't an actual job listing — e.g. "125 jobs found for software engineer"
+# (a search-results count) or "10 Essential Software Engineer Skills..." (a
+# blog post link on the careers page).
+NOISE_LINE_RE = re.compile(
+    r"\b\d+\s+jobs?\s+found\b"
+    r"|\bno\s+jobs?\s+found\b"
+    r"|\bsearch\s+results\s+for\b"
+    r"|\bshowing\s+.*\bresults\b"
+    r"|\bresults\s+found\s+for\b"
+    r"|\b\d+\s+(essential|useful|key|important|top)\s+\S+\s+(skills|tips|things|reasons)\b"
+    r"|\bskills\s+to\s+succeed\b"
+    r"|\bguide\s+to\b"
+    r"|\btips\s+for\b"
+    r"|\bhow\s+to\s+become\b"
+    r"|\bcareer\s+path\b",
+    re.I,
+)
+
 _browser = None
 _playwright_ctx = None
 
@@ -406,6 +425,8 @@ def lines_to_jobs(text, url, link_map=None):
         norm = normalize_title(l)
         key = norm.lower()
         if not key:
+            continue
+        if NOISE_LINE_RE.search(key):
             continue
         if key in seen:
             continue
