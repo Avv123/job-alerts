@@ -1,17 +1,17 @@
 {
   "jobs": {
     "5b85deb7a777": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Embedded Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1714132979779125",
       "location": "",
       "active": true,
-      "excluded": false
+      "excluded": true
     },
     "8c89461ac6fb": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineering",
       "url": "https://www.metacareers.com/teams/technology/software-engineering/",
       "location": "",
@@ -19,8 +19,8 @@
       "excluded": false
     },
     "9fb9bd19adc4": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineer, Systems ML (Technical Leadership)",
       "url": "https://www.metacareers.com/profile/job_details/1466388538850943",
       "location": "",
@@ -28,8 +28,8 @@
       "excluded": true
     },
     "70137f936b5e": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineer, Systems",
       "url": "https://www.metacareers.com/profile/job_details/2082780019279407",
       "location": "",
@@ -37,8 +37,8 @@
       "excluded": false
     },
     "b6353fd03acc": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineer, Principal",
       "url": "https://www.metacareers.com/profile/job_details/1298625432375018",
       "location": "",
@@ -46,8 +46,8 @@
       "excluded": true
     },
     "a0519433b199": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineer (Technical Leadership)",
       "url": "https://www.metacareers.com/profile/job_details/2282367178830920",
       "location": "",
@@ -55,17 +55,17 @@
       "excluded": true
     },
     "3c5e1c851b1a": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineer, Databases",
       "url": "https://www.metacareers.com/profile/job_details/2342974003201767",
       "location": "",
       "active": true,
-      "excluded": false
+      "excluded": true
     },
     "ce0a52a77131": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Development Engineer in Test",
       "url": "https://www.metacareers.com/profile/job_details/1100609969057950",
       "location": "",
@@ -73,13 +73,13 @@
       "excluded": false
     },
     "000b9f04c2d0": {
-      "first_seen_at": "2026-08-31T23:36:10.797236+00:00",
-      "last_seen_at": "2026-08-31T23:48:42.111304+00:00",
+      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
+      "last_seen_at": "2026-08-31T23:55:46.964068+00:00",
       "title": "Software Engineer - On-Device & Backend Systems",
       "url": "https://www.metacareers.com/profile/job_details/894426413051892",
       "location": "",
       "active": true,
-      "excluded": false
+      "excluded": true
     }
   }
 }
