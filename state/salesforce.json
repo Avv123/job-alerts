@@ -65,7 +65,7 @@
     },
     "/job/Argentina---Buenos-Aires/AI-Software-Engineer-MTS_JR356705": {
       "first_seen_at": "2026-09-01T16:23:27.218239+00:00",
-      "last_seen_at": "2026-09-01T16:23:27.218239+00:00",
+      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
       "title": "Software Engineer, AI Developer Productivity (MTS)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/AI-Software-Engineer-MTS_JR356705",
       "location": "Argentina - Buenos Aires",
@@ -74,10 +74,46 @@
     },
     "/job/Washington---Bellevue/Software-Engineering-PMTS--Enterprise-PKI_JR358233": {
       "first_seen_at": "2026-09-01T16:23:27.218239+00:00",
-      "last_seen_at": "2026-09-01T16:23:27.218239+00:00",
+      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
       "title": "Software Engineering PMTS, Enterprise PKI",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS--Enterprise-PKI_JR358233",
       "location": "Washington - Bellevue",
+      "active": true,
+      "excluded": true
+    },
+    "/job/California---San-Francisco/Principal-Software-Engineer--Backend--Connectivity-_JR351551": {
+      "first_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "title": "Principal Software Engineer, Backend (Connectivity)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Software-Engineer--Backend--Connectivity-_JR351551",
+      "location": "California - San Francisco",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748": {
+      "first_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "title": "Software Engineering MTS (Full Stack) - AI Generalist (Demo Tools & Platform Engineering)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748",
+      "location": "India - Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "/job/Washington---Bellevue/Software-Engineering-SMTS_JR352082-1": {
+      "first_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "title": "Software Engineering SMTS",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS_JR352082-1",
+      "location": "Washington - Bellevue",
+      "active": true,
+      "excluded": true
+    },
+    "/job/California---San-Francisco/Senior-Lead-Software-Engineer--Developer-Productivity--AI-Tooling-_JR356261": {
+      "first_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
+      "title": "Senior/Lead Software Engineer, Developer Productivity (AI Tooling)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Lead-Software-Engineer--Developer-Productivity--AI-Tooling-_JR356261",
+      "location": "California - San Francisco",
       "active": true,
       "excluded": true
     }
