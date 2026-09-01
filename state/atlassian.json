@@ -6,7 +6,7 @@
       "title": "Senior Principal Software Engineer, Jira Data Management",
       "url": "https://www.atlassian.com/company/careers/details/26577",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "acb9241b610c": {
@@ -15,7 +15,7 @@
       "title": "Principal Software Engineer - Search and Data",
       "url": "https://www.atlassian.com/company/careers/details/25693",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3e819cd977e8": {
@@ -24,7 +24,7 @@
       "title": "Principal Backend Software Engineer",
       "url": "https://www.atlassian.com/company/careers/details/25563",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a54cb0246e2c": {
@@ -33,7 +33,7 @@
       "title": "Principal Full Stack Software Engineer",
       "url": "https://www.atlassian.com/company/careers/details/26862",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b784771eed20": {
@@ -42,7 +42,7 @@
       "title": "Frontend Software Engineer",
       "url": "https://www.atlassian.com/company/careers/details/26674",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "4c01c77b102d": {
@@ -51,7 +51,7 @@
       "title": "Senior Fullstack Software Engineer, DX",
       "url": "https://www.atlassian.com/company/careers/details/26664",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a5b19ac3c316": {
@@ -60,7 +60,7 @@
       "title": "Fullstack Software Engineer, DX",
       "url": "https://www.atlassian.com/company/careers/details/26345",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e59bf577ce98": {
@@ -69,7 +69,7 @@
       "title": "Full Stack Software Engineer",
       "url": "https://www.atlassian.com/company/careers/details/25561",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "361b4955a441": {
@@ -78,7 +78,7 @@
       "title": "Senior Software Engineer",
       "url": "https://www.atlassian.com/company/careers/details/26660",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a7e86dbb56fd": {
@@ -87,7 +87,7 @@
       "title": "Senior Backend Software Engineer",
       "url": "https://www.atlassian.com/company/careers/details/25565",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
