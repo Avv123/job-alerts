@@ -1,3 +1,13 @@
 {
-  "jobs": {}
+  "jobs": {
+    "d9fab3245c9b": {
+      "first_seen_at": "2026-09-01T11:26:21.039662+00:00",
+      "last_seen_at": "2026-09-01T11:26:21.039662+00:00",
+      "title": "Degree in Software Engineering, Computer Science, or equivalent practical experience in software development.",
+      "url": "https://www.dynatrace.com/careers/jobs/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    }
+  }
 }
