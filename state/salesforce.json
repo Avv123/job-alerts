@@ -123,7 +123,7 @@
       "title": "Software Engineering PMTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR355963-1",
       "location": "2 Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/California---San-Francisco/Software-Engineering-PMTS_JR356125": {
@@ -132,7 +132,7 @@
       "title": "Software Engineering PMTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR356125",
       "location": "California - San Francisco",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/California---San-Francisco/JR354749-Lead-Software-Engineer--PKI---Cryptographic-Trust-Services_JR358662": {
@@ -141,7 +141,7 @@
       "title": "JR354749 Lead Software Engineer, PKI & Cryptographic Trust Services",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/JR354749-Lead-Software-Engineer--PKI---Cryptographic-Trust-Services_JR358662",
       "location": "2 Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/California---San-Francisco/Software-Engineering-LMTS_JR358441-1": {
@@ -150,12 +150,12 @@
       "title": "Software Engineering LMTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR358441-1",
       "location": "2 Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/India---Bangalore/Director--Software-Engineering---Security-Asset-Platform_JR353584": {
       "first_seen_at": "2026-09-02T10:59:33.803203+00:00",
-      "last_seen_at": "2026-09-02T10:59:33.803203+00:00",
+      "last_seen_at": "2026-09-02T16:22:48.634291+00:00",
       "title": "Director, Software Engineering - Security Asset Inventory Platform",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director--Software-Engineering---Security-Asset-Platform_JR353584",
       "location": "India - Bangalore",
@@ -164,7 +164,7 @@
     },
     "/job/India---Hyderabad/Infrastructure-Platform-Engineering--SMTS--Software-Engineering-_JR356752": {
       "first_seen_at": "2026-09-02T10:59:33.803203+00:00",
-      "last_seen_at": "2026-09-02T10:59:33.803203+00:00",
+      "last_seen_at": "2026-09-02T16:22:48.634291+00:00",
       "title": "Infrastructure Platform Engineering (SMTS, Software Engineering)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Infrastructure-Platform-Engineering--SMTS--Software-Engineering-_JR356752",
       "location": "India - Hyderabad",
@@ -177,7 +177,7 @@
       "title": "Lead Backend Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Lead-Backend-Software-Engineer_JR356282",
       "location": "California - San Francisco",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
