@@ -42,6 +42,15 @@
       "title": "Senior Principal Software Engineer (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-cortex-platform/47263/100024515344",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "8539466d9ac0": {
+      "first_seen_at": "2026-09-02T03:54:17.123275+00:00",
+      "last_seen_at": "2026-09-02T03:54:17.123275+00:00",
+      "title": "Manager, Software Engineering (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/manager-software-engineering-cortex-platform/47263/98105186512",
+      "location": "",
       "active": true,
       "excluded": true
     }
