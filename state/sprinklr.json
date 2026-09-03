@@ -1,10 +1,19 @@
 {
   "jobs": {
     "/job/India---Haryana---Gurgaon/Senior-Manager---Software-Engineering_113199-JOB": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
       "title": "Lead Software Engineer (Backend)",
       "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Manager---Software-Engineering_113199-JOB",
+      "location": "India - Haryana - Gurgaon",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Haryana---Gurgaon/Lead-Product-Engineer_111232-JOB": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Senior Lead Software Engineer",
+      "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Lead-Product-Engineer_111232-JOB",
       "location": "India - Haryana - Gurgaon",
       "active": true,
       "excluded": true

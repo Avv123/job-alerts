@@ -283,6 +283,7 @@ def fetch_workday(url):
     jobs = []
     offset = 0
     limit = 20
+    total = None
     while True:
         body = {"appliedFacets": {}, "limit": limit, "offset": offset, "searchText": ""}
         r = session.post(cxs_url, json=body, timeout=30)
@@ -299,8 +300,17 @@ def fetch_workday(url):
                 "url": f"https://{host}/{site}{ext}",
                 "location": p.get("locationsText", ""),
             })
+        # Workday only reports the real `total` on the first page — every
+        # later page reports total=0 despite still returning real postings,
+        # so it's captured once here rather than re-read (and trusted) each
+        # loop, which was silently truncating large companies to 2 pages.
+        if total is None:
+            total = data.get("total", 0)
         offset += limit
-        if offset >= data.get("total", 0) or offset > 500:
+        # Workday's API hard-caps `limit` at 20/page, so a large company (e.g.
+        # Adobe: 700+ total open reqs) needs many pages — bounded generously
+        # so a bad/unexpected API response can't loop forever.
+        if offset >= total or offset > 3000:
             break
     return jobs
 

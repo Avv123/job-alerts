@@ -1,8 +1,8 @@
 {
   "jobs": {
     "/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
       "title": "Sr. Software Engineer - Linux Sensor (Hybrid)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317",
       "location": "2 Locations",
@@ -10,8 +10,8 @@
       "excluded": true
     },
     "/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
       "title": "Software Engineer - Sensor, MacOS  (Hybrid)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279",
       "location": "3 Locations",
@@ -19,8 +19,8 @@
       "excluded": true
     },
     "/job/USA---New-York-NY/Principal-Software-Engineer--Real-Time-Data-Enrichment-Platform--Hybrid-_R29505": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
       "title": "Principal Software Engineer, Real Time Data Enrichment Platform (Hybrid)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Principal-Software-Engineer--Real-Time-Data-Enrichment-Platform--Hybrid-_R29505",
       "location": "4 Locations",
@@ -28,38 +28,326 @@
       "excluded": true
     },
     "/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
       "title": "Sr. Software Engineer, Cloud - Analytics Platform",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257",
       "location": "4 Locations",
       "active": true,
       "excluded": true
     },
-    "/job/USA---Austin-TX/Backend-Engineer-III--Falcon-NG-SIEM--Global-Serverless-Platform--Remote--East-Coast-_R25320": {
-      "first_seen_at": "2026-09-02T10:59:33.803203+00:00",
-      "last_seen_at": "2026-09-02T20:51:45.271330+00:00",
-      "title": "Sr Backend Engineer, Falcon NG-SIEM, Global Serverless Platform",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Backend-Engineer-III--Falcon-NG-SIEM--Global-Serverless-Platform--Remote--East-Coast-_R25320",
-      "location": "USA - Austin, TX",
-      "active": false,
+    "/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Software Engineer, Product Security - Security Automation (Remote)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
+      "location": "28 Locations",
+      "active": true,
       "excluded": true
     },
     "/job/United-Kingdom---London/Sr-UI-Platform-Engineer_R29584-1": {
-      "first_seen_at": "2026-09-02T16:22:48.634291+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
       "title": "Senior Software Engineer - UI Developer Tooling (Hybrid, London)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-UI-Platform-Engineer_R29584-1",
       "location": "United Kingdom - London",
       "active": true,
       "excluded": true
     },
-    "/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972": {
-      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
-      "title": "Software Engineer, Product Security - Security Automation (Remote)",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
-      "location": "28 Locations",
+    "/job/Israel---Tel-Aviv-Museum/Sr-Software-Engineer---Application-Analysis--Hybrid--ISR-_R28713": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Application Analysis (Hybrid, ISR)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv-Museum/Sr-Software-Engineer---Application-Analysis--Hybrid--ISR-_R28713",
+      "location": "Israel - Tel Aviv (Museum)",
+      "active": true,
+      "excluded": true
+    },
+    "/job/United-Kingdom---London/Sr-Engineer--Cloud_R29383": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer, Cloud Detection (Hybrid, London)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Engineer--Cloud_R29383",
+      "location": "United Kingdom - London",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1",
+      "location": "USA - New York, NY",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Software Engineer \u2013 Sensor, Sensor Performance and Stability (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
+      "location": "2 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Redmond-WA/Sr-Software-Engineer-II--Windows-Sensor---CTIO--Hybrid-_R29906": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer II, Windows Sensor - CTIO (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Sr-Software-Engineer-II--Windows-Sensor---CTIO--Hybrid-_R29906",
+      "location": "5 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Sunnyvale-CA/Senior-Software-Engineer--Sensor---Core-Libraries--Hybrid-_R29892": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Senior Software Engineer, Sensor - Core Libraries (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Senior-Software-Engineer--Sensor---Core-Libraries--Hybrid-_R29892",
+      "location": "2 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Pune/Backend-Engineer-III---Cloud_R29135": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Backend Engineer II - Cloud",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Backend-Engineer-III---Cloud_R29135",
+      "location": "India - Pune",
+      "active": true,
+      "excluded": false
+    },
+    "/job/Israel---Tel-Aviv/Sr-Software-Engineer---Cloud--Identity-Protection--Hybrid--ISR-_R29485": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Cloud, Identity Protection (Hybrid, ISR)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Software-Engineer---Cloud--Identity-Protection--Hybrid--ISR-_R29485",
+      "location": "Israel - Tel Aviv",
+      "active": true,
+      "excluded": true
+    },
+    "/job/United-Kingdom---London/Sr-Cloud-Platform-Engineer--Hybrid--London-_R29439": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer, Cloud Platform (Hybrid, London)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Cloud-Platform-Engineer--Hybrid--London-_R29439",
+      "location": "United Kingdom - London",
+      "active": true,
+      "excluded": true
+    },
+    "/job/United-Kingdom---London/Sr-Software-Engineer---Data-Platform_R26425": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Data Query Platform - London  (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Software-Engineer---Data-Platform_R26425",
+      "location": "United Kingdom - London",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Remote-OR/Principal-Software-Engineer---Sensor--Telemetry---Observability--Hybrid-_R29535": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Principal Software Engineer \u2013 Sensor, Telemetry & Observability (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-OR/Principal-Software-Engineer---Sensor--Telemetry---Observability--Hybrid-_R29535",
+      "location": "USA - Remote, OR",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---New-York-NY/Sr-Software-Engineer---Cloud---Asset-Platform--Hybrid-_R29345": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Cloud - Asset Platform (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Software-Engineer---Cloud---Asset-Platform--Hybrid-_R29345",
+      "location": "USA - New York, NY",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Redmond-WA/Sr-Software-Engineer---Windows-Sensor--Hybrid-_R29649": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Windows Sensor (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Sr-Software-Engineer---Windows-Sensor--Hybrid-_R29649",
+      "location": "5 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---New-York-NY/Software-Engineering-Manager---Cloud-Security--Hybrid-_R27304": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Software Engineering Manager - Cloud Security (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineering-Manager---Cloud-Security--Hybrid-_R27304",
+      "location": "USA - New York, NY",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Austin-TX/Sr-Software-Engineer--LogScale-Search--Hybrid-_R29418": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer, LogScale Search (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sr-Software-Engineer--LogScale-Search--Hybrid-_R29418",
+      "location": "USA - Austin, TX",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---New-York-NY/Sr-Backend-Engineer---Cloud--Hybrid-_R29007": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Backend Engineer - Cloud (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Backend-Engineer---Cloud--Hybrid-_R29007",
+      "location": "USA - New York, NY",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Remote/Sr-Software-Engineer--Vendor-Semantics-and-Developer-Experience--Remote-_R29267": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer, Vendor Semantics and Developer Experience (Remote)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer--Vendor-Semantics-and-Developer-Experience--Remote-_R29267",
+      "location": "USA - Remote",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Bangalore/Backend-Engineer-III--Hybrid--IND-_R29207": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Backend Engineer III (Hybrid, IND)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Backend-Engineer-III--Hybrid--IND-_R29207",
+      "location": "India - Bangalore",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Bangalore/Backend-Engineer-III--Hybrid-_R28420": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Backend Engineer III (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Backend-Engineer-III--Hybrid-_R28420",
+      "location": "India - Bangalore",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Bangalore/Software-Developer---Network-Automation_R29133": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Software Developer - Network Automation",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Software-Developer---Network-Automation_R29133",
+      "location": "India - Bangalore",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Bangalore/Sr-Backend-Engineer---Auth--IND--Hybrid-_R28949": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Backend Engineer - Auth (IND, Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Sr-Backend-Engineer---Auth--IND--Hybrid-_R28949",
+      "location": "India - Bangalore",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Bangalore/Sr-Backend-Engineer_R29136": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Backend Engineer",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Sr-Backend-Engineer_R29136",
+      "location": "India - Bangalore",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29175": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Software Engineer III - Risk Platform (Hybrid, Sunnyvale)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29175",
+      "location": "USA - Sunnyvale, CA",
+      "active": true,
+      "excluded": true
+    },
+    "/job/Denmark---Aarhus/Sr-Software-Engineer---LogScale-Search--Hybrid-_R29531": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - LogScale Search (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Denmark---Aarhus/Sr-Software-Engineer---LogScale-Search--Hybrid-_R29531",
+      "location": "Denmark - Aarhus",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Remote-NY/Sr-Backend-Engineer--Hybrid--Austin-_R28425": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Backend Engineer (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Sr-Backend-Engineer--Hybrid--Austin-_R28425",
+      "location": "USA - Remote, NY",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Sunnyvale-CA/Sr-Engineer-Cloud--Remote-_R29100": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Cloud (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer-Cloud--Remote-_R29100",
+      "location": "USA - Sunnyvale, CA",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Redmond-WA/Sr-Software-Engineer-II--Linux-Sensor---CTIO--Remote-_R26316": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer II, Linux Sensor - CTIO (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Sr-Software-Engineer-II--Linux-Sensor---CTIO--Remote-_R26316",
+      "location": "5 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Sunnyvale-CA/Sr-Software-Engineer-II--MacOS-Sensor---CTIO--Hybrid-_R26832": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer II, MacOS Sensor - CTIO (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer-II--MacOS-Sensor---CTIO--Hybrid-_R26832",
+      "location": "5 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---Redmond-WA/Sr-Software-Engineer-II--Sensor---Sensor-Event-Runtime--Hybrid-_R29040-1": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer II, Sensor - Sensor Event Runtime (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Sr-Software-Engineer-II--Sensor---Sensor-Event-Runtime--Hybrid-_R29040-1",
+      "location": "3 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Bangalore/Backend-Engineer-III--Falcon-Exposure-Management_R25652-1": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Backend Engineer III- Falcon Exposure Management",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Backend-Engineer-III--Falcon-Exposure-Management_R25652-1",
+      "location": "India - Bangalore",
+      "active": true,
+      "excluded": true
+    },
+    "/job/Romania---Bucharest/Sr-Software-Engineer---Surface-Engineering--Hybrid-_R27100": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Surface Engineering (Hybrid)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Romania---Bucharest/Sr-Software-Engineer---Surface-Engineering--Hybrid-_R27100",
+      "location": "2 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/Israel---Tel-Aviv/Sr-Software-Engineer---Browser-Extension--Data-Protection--Hybrid--ISR-_R24822": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Browser Extension, Data Protection (Hybrid, ISR)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Software-Engineer---Browser-Extension--Data-Protection--Hybrid--ISR-_R24822",
+      "location": "Israel - Tel Aviv",
+      "active": true,
+      "excluded": true
+    },
+    "/job/India---Remote-KA/Sr-Software-Engineer---C-----Remote-_R23714": {
+      "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "last_seen_at": "2026-09-03T16:34:23.333282+00:00",
+      "title": "Sr. Software Engineer - Rust (Remote, IND)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Remote-KA/Sr-Software-Engineer---C-----Remote-_R23714",
+      "location": "India - Remote, KA",
       "active": true,
       "excluded": true
     }
