@@ -2,7 +2,7 @@
   "jobs": {
     "/job/California---San-Francisco/Software-Engineering-MTS_JR357929": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
       "title": "Software Engineering MTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR357929",
       "location": "2 Locations",
@@ -182,7 +182,7 @@
     },
     "/job/India---Hyderabad/Software-Engineer-SMTS_JR338173": {
       "first_seen_at": "2026-09-03T03:52:58.451794+00:00",
-      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
       "title": "Software Engineer SMTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineer-SMTS_JR338173",
       "location": "India - Hyderabad",
@@ -191,10 +191,19 @@
     },
     "/job/California---San-Francisco/Principal-Software-Engineer---Data-Scientist--AI_JR357716": {
       "first_seen_at": "2026-09-03T03:52:58.451794+00:00",
-      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
       "title": "Principal Software Engineer / Data Scientist, AI",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Software-Engineer---Data-Scientist--AI_JR357716",
       "location": "California - San Francisco",
+      "active": true,
+      "excluded": true
+    },
+    "/job/California---Palo-Alto/Software-Engineering-Architect_JR341229": {
+      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
+      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
+      "title": "AI Architect - Software Engineering",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Software-Engineering-Architect_JR341229",
+      "location": "3 Locations",
       "active": true,
       "excluded": true
     }
