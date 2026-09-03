@@ -74,7 +74,7 @@
     },
     "de5be528ff14": {
       "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
+      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
       "title": "Senior/ Principal Backend Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-prisma-browser/47263/96174881936",
       "location": "",
@@ -87,7 +87,7 @@
       "title": "Principal Software Engineer - Secure AI agents",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agents/47263/96174880480",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c6df69451fc3": {
@@ -96,7 +96,7 @@
       "title": "Senior Software Engineer- Secure AI Agent",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secure-ai-agent/47263/96174879872",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "109974381e75": {
@@ -105,7 +105,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100111137568",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "95179b46e37a": {
@@ -113,6 +113,15 @@
       "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
       "title": "Principal Software Engineer (C++-low level-Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-c-low-level-prisma-browser/47263/96174881200",
+      "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "46a0ce65c20b": {
+      "first_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "last_seen_at": "2026-09-03T16:11:07.295702+00:00",
+      "title": "Principal Software Engineer - Ruby, Python, Java",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-ruby-python-java/47263/96174879792",
       "location": "",
       "active": true,
       "excluded": true
