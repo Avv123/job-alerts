@@ -53,6 +53,24 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "a97f6edd4039": {
+      "first_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "title": "Staff IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer/47263/100093058960",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "7582cd428f67": {
+      "first_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
+      "title": "Principal Software Engineer in Test (Cloud Security Services)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-in-test-cloud-security-services/47263/100093057600",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
