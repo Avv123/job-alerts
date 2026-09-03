@@ -6,7 +6,7 @@
       "title": "Principal Software Engineer - Ruby, Python, Java",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-ruby-python-java/47263/96174879792",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c727da90ef9e": {
@@ -15,6 +15,15 @@
       "title": "Senior/ Principal Backend Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-prisma-browser/47263/96174881936",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "8491d5f1e47d": {
+      "first_seen_at": "2026-09-03T20:48:40.423558+00:00",
+      "last_seen_at": "2026-09-03T20:48:40.423558+00:00",
+      "title": "Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }
