@@ -1,65 +1,83 @@
 {
   "jobs": {
-    "97e92a7613c4": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "f812fe926181": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Senior Software Engineer - Fullstack",
       "url": "https://hr.keka.com/careers/jobdetails/101876",
-      "location": "",
+      "location": "Bengaluru",
       "active": true,
       "excluded": false
     },
-    "85e79abe5d73": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "dcc94875a228": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Software Engineer",
       "url": "https://hr.keka.com/careers/jobdetails/102191",
-      "location": "",
+      "location": "Hyderabad",
       "active": true,
       "excluded": false
     },
-    "66820d0b26bc": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "587d2da1690c": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Senior Software Engineer - Fullstack",
+      "url": "https://hr.keka.com/careers/jobdetails/101876",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": false
+    },
+    "9e154fae6fc1": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Software Engineer - QE",
       "url": "https://hr.keka.com/careers/jobdetails/97581",
-      "location": "",
+      "location": "Hyderabad",
       "active": true,
       "excluded": false
     },
-    "b1f2f6340ef9": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "a42cb415629a": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Senior Software Engineer- BLR",
       "url": "https://hr.keka.com/careers/jobdetails/135203",
-      "location": "",
+      "location": "Bengaluru",
       "active": true,
       "excluded": true
     },
-    "7b7242ddec95": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "790863b9004d": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Senior Software Engineer \u2013 Frontend (Angular/React)",
       "url": "https://hr.keka.com/careers/jobdetails/138712",
       "location": "",
       "active": true,
       "excluded": true
     },
-    "d0b150039d33": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "1f6679182526": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Principal Software Engineer",
       "url": "https://hr.keka.com/careers/jobdetails/90215",
-      "location": "",
+      "location": "Bengaluru",
       "active": true,
       "excluded": true
     },
-    "2075cd7794ce": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "14e59afd7892": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://hr.keka.com/careers/jobdetails/90215",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "ad3e51831354": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Lead Software Engineer",
       "url": "https://hr.keka.com/careers/jobdetails/84857",
-      "location": "",
+      "location": "Hyderabad",
       "active": true,
       "excluded": true
     }

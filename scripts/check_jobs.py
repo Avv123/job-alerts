@@ -123,11 +123,40 @@ def is_excluded_seniority(title):
     return any(re.search(rf"\b{re.escape(word)}\b", t) for word in SENIORITY_EXCLUDE_WORDS)
 
 
-INDIA_CITIES = (
-    "bengaluru", "bangalore", "gurugram", "gurgaon", "noida", "hyderabad",
-    "delhi", "ncr", "mumbai", "pune", "chennai", "kolkata", "ahmedabad",
-    "kochi", "jaipur", "indore", "chandigarh", "india",
+# Common older/colloquial city names that predate an official rename, which
+# job postings still routinely use — geonamescache only knows current names.
+_INDIA_CITY_ALIASES = (
+    "bangalore", "gurgaon", "calcutta", "bombay", "madras", "pondicherry",
+    "cochin", "trivandrum", "baroda", "mysore", "poona",
 )
+
+
+def _load_india_cities():
+    """Cities >=100k population, from geonamescache (offline, no API calls) —
+    a hand-typed list previously covered ~18 cities and had real false-
+    negative risk (e.g. a Nagpur or Coimbatore posting wouldn't match unless
+    "India" was also spelled out). Falls back to the alias list alone if the
+    optional dependency isn't installed, rather than hard-failing."""
+    try:
+        import geonamescache
+        gc = geonamescache.GeonamesCache()
+        names = {
+            c["name"].lower()
+            for c in gc.get_cities().values()
+            if c["countrycode"] == "IN" and c.get("population", 0) >= 100000
+        }
+    except ImportError:
+        names = set()
+    names.update(_INDIA_CITY_ALIASES)
+    names.add("india")
+    return tuple(sorted(names))
+
+
+INDIA_CITIES = _load_india_cities()
+# Word-boundary matching, not substring — a plain `"kota" in location` would
+# false-positive inside "South Dakota" (contains "kota"); this compiles once
+# rather than re.search-ing 500+ patterns per call.
+_INDIA_CITY_RE = re.compile(r"\b(?:" + "|".join(re.escape(c) for c in INDIA_CITIES) + r")\b", re.I)
 # Deliberately broad — a blocklist of specific countries always has gaps
 # (e.g. "Sweden (Remote)" slipped through with a short list), so this covers
 # the realistic set of countries/regions that show up on global job boards.
@@ -153,7 +182,7 @@ def is_india_or_remote(location):
     if not location:
         return None
     loc = location.lower()
-    if any(city in loc for city in INDIA_CITIES):
+    if _INDIA_CITY_RE.search(loc):
         return True
     if "remote" in loc:
         if any(re.search(rf"\b{re.escape(m)}\b", loc) for m in NON_INDIA_REMOTE_MARKERS):
@@ -425,24 +454,66 @@ def normalize_title(raw):
     return JOB_ID_SUFFIX_RE.sub("", norm).strip()
 
 
+LOCATION_LINE_RE = re.compile(r"^[A-Z][A-Za-z.\s]+,\s*[A-Za-z.\s]+$")
+# A line naming a role (even just "Engineer, X") is almost never a real
+# location — without this, the next job's comma-containing title (e.g.
+# "Software Engineer, Site Reliability Engineering") gets misread as the
+# *previous* job's location line and silently swallows that posting.
+JOB_TITLE_HINT_WORDS = (
+    "engineer", "developer", "manager", "director", "architect", "specialist",
+    "analyst", "lead", "scientist", "designer", "consultant", "intern",
+)
+
+
+def looks_like_location(line):
+    """Best-effort: does this line look like a job's location, not a title?
+    Career-page listings very commonly render "Title" then "City, Region" as
+    consecutive lines — catching that is what lets us filter by location at
+    all for scraped (non-API) sources, which previously had none captured."""
+    if len(line) >= 60:
+        return False
+    l = line.lower()
+    if any(w in l for w in JOB_TITLE_HINT_WORDS):
+        return False
+    if _INDIA_CITY_RE.search(l):
+        return True
+    if "remote" in l:
+        return True
+    if any(re.search(rf"\b{re.escape(m)}\b", l) for m in NON_INDIA_REMOTE_MARKERS):
+        return True
+    return bool(LOCATION_LINE_RE.match(line))
+
+
 def lines_to_jobs(text, url, link_map=None):
     link_map = link_map or {}
     lines = [l.strip() for l in text.split("\n")]
     lines = [l for l in lines if 4 < len(l) < 120]
     jobs = []
     seen = set()
-    for l in lines:
+    skip_next = False
+    for i, l in enumerate(lines):
+        if skip_next:
+            skip_next = False
+            continue
         norm = normalize_title(l)
         key = norm.lower()
         if not key:
             continue
         if NOISE_LINE_RE.search(key):
             continue
-        if key in seen:
+        location = ""
+        if i + 1 < len(lines) and looks_like_location(lines[i + 1]):
+            location = lines[i + 1]
+            skip_next = True
+        # Dedup on title+location, not title alone — the same title posted
+        # in multiple cities (very common) was previously collapsed into a
+        # single entry, silently dropping every location but the first.
+        dedup_key = f"{key}|{location.lower()}"
+        if dedup_key in seen:
             continue
-        seen.add(key)
-        jid = hashlib.sha1(key.encode()).hexdigest()[:12]
-        jobs.append({"id": jid, "title": norm, "url": link_map.get(key, url), "location": ""})
+        seen.add(dedup_key)
+        jid = hashlib.sha1(dedup_key.encode()).hexdigest()[:12]
+        jobs.append({"id": jid, "title": norm, "url": link_map.get(key, url), "location": location})
     return jobs
 
 

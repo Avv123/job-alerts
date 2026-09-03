@@ -1,128 +1,20 @@
 {
   "jobs": {
-    "de8fdd5cf12f": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-01T04:31:21.153054+00:00",
-      "title": "Senior Staff Software Engineer (Internet Security)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "b822290c60e4": {
-      "first_seen_at": "2026-09-01T04:31:21.153054+00:00",
-      "last_seen_at": "2026-09-01T04:31:21.153054+00:00",
-      "title": "Staff Software Engineer(Cloudops)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer-cloudops/47263/100000531264",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "c1a63e080ff7": {
-      "first_seen_at": "2026-09-01T04:31:21.153054+00:00",
-      "last_seen_at": "2026-09-01T11:26:21.039662+00:00",
-      "title": "Sr. Principal Software Engineer - Network Security - PanOS",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "74c7a9d95037": {
-      "first_seen_at": "2026-09-01T11:26:21.039662+00:00",
-      "last_seen_at": "2026-09-01T11:26:21.039662+00:00",
-      "title": "Senior IT Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/96174865776",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "367581591b2e": {
-      "first_seen_at": "2026-09-01T16:23:27.218239+00:00",
-      "last_seen_at": "2026-09-01T20:52:22.136478+00:00",
-      "title": "Senior Principal Software Engineer (Cortex Platform)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-cortex-platform/47263/100024515344",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "8539466d9ac0": {
-      "first_seen_at": "2026-09-02T03:54:17.123275+00:00",
-      "last_seen_at": "2026-09-02T03:54:17.123275+00:00",
-      "title": "Manager, Software Engineering (Cortex Platform)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/manager-software-engineering-cortex-platform/47263/98105186512",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "a97f6edd4039": {
-      "first_seen_at": "2026-09-03T03:52:58.451794+00:00",
-      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
-      "title": "Staff IT Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer/47263/100093058960",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "7582cd428f67": {
-      "first_seen_at": "2026-09-03T03:52:58.451794+00:00",
-      "last_seen_at": "2026-09-03T03:52:58.451794+00:00",
-      "title": "Principal Software Engineer in Test (Cloud Security Services)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-in-test-cloud-security-services/47263/100093057600",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "de5be528ff14": {
-      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
-      "title": "Senior/ Principal Backend Engineer (Prisma Browser)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-prisma-browser/47263/96174881936",
-      "location": "",
+    "328c3b85df4d": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Principal Software Engineer - Ruby, Python, Java",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-ruby-python-java/47263/96174879792",
+      "location": "Sofia, Bulgaria",
       "active": true,
       "excluded": true
     },
-    "bcb69f56c3ab": {
-      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "title": "Principal Software Engineer - Secure AI agents",
-      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agents/47263/96174880480",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "c6df69451fc3": {
-      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "title": "Senior Software Engineer- Secure AI Agent",
-      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secure-ai-agent/47263/96174879872",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "109974381e75": {
-      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100111137568",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "95179b46e37a": {
-      "first_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "last_seen_at": "2026-09-03T10:58:42.214046+00:00",
-      "title": "Principal Software Engineer (C++-low level-Prisma Browser)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-c-low-level-prisma-browser/47263/96174881200",
-      "location": "",
-      "active": false,
-      "excluded": true
-    },
-    "46a0ce65c20b": {
-      "first_seen_at": "2026-09-03T16:11:07.295702+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
-      "title": "Principal Software Engineer - Ruby, Python, Java",
-      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-ruby-python-java/47263/96174879792",
-      "location": "",
+    "c727da90ef9e": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Senior/ Principal Backend Engineer (Prisma Browser)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-prisma-browser/47263/96174881936",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }

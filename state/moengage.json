@@ -1,20 +1,20 @@
 {
   "jobs": {
-    "cd74185f2cef": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "24c6763f8fcd": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Lead Software Engineer - DPM",
       "url": "https://moengage.hire.trakstar.com/jobs/fk0zixe/",
-      "location": "",
+      "location": "Bengaluru",
       "active": true,
       "excluded": true
     },
-    "2ad0f3226d50": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "58785a8c2c5b": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Senior Software Engineer- Data Platform",
       "url": "https://moengage.hire.trakstar.com/jobs/fk0z3dc/",
-      "location": "",
+      "location": "Bengaluru",
       "active": true,
       "excluded": false
     }

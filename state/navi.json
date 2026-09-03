@@ -1,3 +1,22 @@
 {
-  "jobs": {}
+  "jobs": {
+    "43fc3e8a7609": {
+      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "SDE III - Mobile Security",
+      "url": "https://navi.com/careers/jobs",
+      "location": "Bengaluru, Karnataka",
+      "active": true,
+      "excluded": false
+    },
+    "978c766de414": {
+      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "SDE III - Security",
+      "url": "https://navi.com/careers/jobs",
+      "location": "Navi Limited, Ibbaluru",
+      "active": true,
+      "excluded": true
+    }
+  }
 }

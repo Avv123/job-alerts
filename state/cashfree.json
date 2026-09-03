@@ -1,22 +1,3 @@
 {
-  "jobs": {
-    "ee2bbaae4033": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
-      "title": "Software Development Engineer 3",
-      "url": "https://careers.kula.ai/cashfree",
-      "location": "",
-      "active": true,
-      "excluded": false
-    },
-    "2f5c73825ff8": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
-      "title": "Software Development Engineer 2",
-      "url": "https://careers.kula.ai/cashfree",
-      "location": "",
-      "active": true,
-      "excluded": false
-    }
-  }
+  "jobs": {}
 }

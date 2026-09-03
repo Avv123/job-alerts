@@ -1,29 +1,56 @@
 {
   "jobs": {
-    "85e79abe5d73": {
-      "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
-      "title": "Software Engineer",
-      "url": "https://careers.payu.in/PayU/job/Gurgaon-Software-Engineer/53983280/",
-      "location": "",
-      "active": true,
-      "excluded": false
-    },
-    "f33e745a76b1": {
-      "first_seen_at": "2026-09-01T04:31:21.153054+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
-      "title": "Software Engineer..",
-      "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer_/3217280/",
-      "location": "",
-      "active": true,
-      "excluded": false
-    },
-    "361b4955a441": {
-      "first_seen_at": "2026-09-01T11:26:21.039662+00:00",
-      "last_seen_at": "2026-09-03T16:40:36.473738+00:00",
+    "c41f8946fb4f": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
       "title": "Senior Software Engineer",
       "url": "https://careers.payu.in/PayU/job/Bengaluru-Senior-Software-Engineer/53982280/",
-      "location": "",
+      "location": "Bengaluru, IN\t3 Sept 2026",
+      "active": true,
+      "excluded": false
+    },
+    "aedb3c696834": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Senior-Software-Engineer/53982280/",
+      "location": "Gurgaon, IN +1 more\u2026\t2 Sept 2026",
+      "active": true,
+      "excluded": false
+    },
+    "deef76f7f3d9": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Software Engineer",
+      "url": "https://careers.payu.in/PayU/job/Gurgaon-Software-Engineer/53983280/",
+      "location": "Bengaluru, IN\t1 Sept 2026",
+      "active": true,
+      "excluded": false
+    },
+    "fc779aa6eec2": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Software Engineer..",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer_/3217280/",
+      "location": "Bengaluru, IN\t1 Sept 2026",
+      "active": true,
+      "excluded": false
+    },
+    "8dd9eda267d5": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Senior-Software-Engineer/53982280/",
+      "location": "Bengaluru, IN\t1 Sept 2026",
+      "active": true,
+      "excluded": false
+    },
+    "50a5bde37438": {
+      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "title": "Software Engineer",
+      "url": "https://careers.payu.in/PayU/job/Gurgaon-Software-Engineer/53983280/",
+      "location": "Gurgaon, IN\t1 Sept 2026",
       "active": true,
       "excluded": false
     }
