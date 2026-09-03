@@ -2,7 +2,7 @@
   "jobs": {
     "9dd52d81e79c": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10386857/software-engineer",
       "location": "",
@@ -11,7 +11,7 @@
     },
     "615d620e9bc2": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer I",
       "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
       "location": "San Francisco, CA, USA",
@@ -20,7 +20,7 @@
     },
     "2df5a96dffeb": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Principal Software Engineer",
       "url": "https://www.amazon.jobs/en/jobs/3133471/principal-software-engineer",
       "location": "",
@@ -29,7 +29,7 @@
     },
     "3db6c4c617a8": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Embedded Software Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10458621/embedded-software-engineer",
       "location": "Haifa, ISR",
@@ -38,16 +38,16 @@
     },
     "9810df6f55dd": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer, AppSTAR COMPASS",
-      "url": "https://www.amazon.jobs/en/jobs/10504754/software-engineer-appstar-compass",
+      "url": "https://www.amazon.jobs/en/jobs/10504767/software-engineer-appstar-compass",
       "location": "Austin, TX, USA",
       "active": true,
       "excluded": true
     },
     "5958930e245e": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "1+ years of software development engineer or related occupational experience",
       "url": "https://www.amazon.jobs/en/search?base_query=software+engineer",
       "location": "",
@@ -56,7 +56,7 @@
     },
     "5028932dc128": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer I, Payments",
       "url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
       "location": "San Francisco, CA, USA",
@@ -65,7 +65,7 @@
     },
     "ac7ed43128a5": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "1+ years as an software engineer",
       "url": "https://www.amazon.jobs/en/search?base_query=software+engineer",
       "location": "",
@@ -74,7 +74,7 @@
     },
     "527efc63c551": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Embedded Software Engineer, Ring",
       "url": "https://www.amazon.jobs/en/jobs/10474496/embedded-software-engineer-ring",
       "location": "Cambridge, GBR",
@@ -83,7 +83,7 @@
     },
     "23d7e409bb3d": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer, EC2 Nitro",
       "url": "https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro",
       "location": "Seattle, WA, USA",
@@ -96,7 +96,7 @@
       "title": "Senior Software Engineer, Bottlerocket",
       "url": "https://www.amazon.jobs/en/jobs/10492038/senior-software-engineer-bottlerocket",
       "location": "Seattle, WA, USA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "28ed0b8cdaf6": {
@@ -105,12 +105,12 @@
       "title": "Embedded Software Engineer, Graviton",
       "url": "https://www.amazon.jobs/en/jobs/3207894/embedded-software-engineer-graviton",
       "location": "Tel Aviv, ISR",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "1b79308b2c6a": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer I",
       "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
       "location": "",
@@ -119,7 +119,7 @@
     },
     "e3b0507cf1cf": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Embedded Software Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10458621/embedded-software-engineer",
       "location": "",
@@ -128,16 +128,16 @@
     },
     "65c79fe585f9": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer, AppSTAR COMPASS",
-      "url": "https://www.amazon.jobs/en/jobs/10504754/software-engineer-appstar-compass",
+      "url": "https://www.amazon.jobs/en/jobs/10504767/software-engineer-appstar-compass",
       "location": "",
       "active": true,
       "excluded": false
     },
     "e3df7362a8c1": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer I, Payments",
       "url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
       "location": "",
@@ -146,7 +146,7 @@
     },
     "962f2429cc35": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Embedded Software Engineer, Ring",
       "url": "https://www.amazon.jobs/en/jobs/10474496/embedded-software-engineer-ring",
       "location": "",
@@ -155,7 +155,7 @@
     },
     "1a7a204bdf58": {
       "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T17:13:18.109604+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
       "title": "Software Engineer, EC2 Nitro",
       "url": "https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro",
       "location": "",
@@ -168,7 +168,7 @@
       "title": "Senior Software Engineer, Bottlerocket",
       "url": "https://www.amazon.jobs/en/jobs/10492038/senior-software-engineer-bottlerocket",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "774a12c00bf5": {
@@ -177,8 +177,26 @@
       "title": "Embedded Software Engineer, Graviton",
       "url": "https://www.amazon.jobs/en/jobs/3207894/embedded-software-engineer-graviton",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "a0abe770de53": {
+      "first_seen_at": "2026-09-03T17:23:33.218827+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
+      "title": "Software Engineer, DynamoDB Performance",
+      "url": "https://www.amazon.jobs/en/jobs/10524940/software-engineer-dynamodb-performance",
+      "location": "Seattle, WA, USA",
       "active": true,
       "excluded": true
+    },
+    "923c4c67edd1": {
+      "first_seen_at": "2026-09-03T17:23:33.218827+00:00",
+      "last_seen_at": "2026-09-03T17:23:33.218827+00:00",
+      "title": "Software Engineer, DynamoDB Performance",
+      "url": "https://www.amazon.jobs/en/jobs/10524940/software-engineer-dynamodb-performance",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
