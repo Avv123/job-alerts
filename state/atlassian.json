@@ -1,3 +1,130 @@
 {
-  "jobs": {}
+  "jobs": {
+    "0065a8e8ccf6": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "P50 Fullstack Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/27058",
+      "location": "Bengaluru or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "5abcfc75f56a": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Principal Software Engineer - Search and Data",
+      "url": "https://www.atlassian.com/company/careers/details/25693",
+      "location": "Bengaluru or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "09f5db73b1e9": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Principal Backend Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/25563",
+      "location": "Bengaluru or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "4d231dcd991d": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Principal Frontend Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/27018",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "fd4b470420b5": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Principal Full Stack Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/27017",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "66c0ce00982a": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Frontend Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/26674",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": false
+    },
+    "e6fd573be853": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Senior Fullstack Software Engineer, DX",
+      "url": "https://www.atlassian.com/company/careers/details/26664",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "604e44cf9131": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Fullstack Software Engineer, DX",
+      "url": "https://www.atlassian.com/company/careers/details/26345",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "cb59e65a8a90": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Full Stack Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/25561",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "e2b3967c48ba": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Software Engineer - Search Platform Experience, Rovo Experiences & Growth",
+      "url": "https://www.atlassian.com/company/careers/details/27068",
+      "location": "Sydney or Remote",
+      "active": true,
+      "excluded": false
+    },
+    "1e70021ea82e": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Senior Backend Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/25565",
+      "location": "Sydney or Remote",
+      "active": true,
+      "excluded": false
+    },
+    "222c99226f65": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Principal Backend Software Engineer",
+      "url": "https://www.atlassian.com/company/careers/details/25563",
+      "location": "Sydney or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "03ccfd810003": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Software Engineer Intern, 2027 Canada",
+      "url": "https://www.atlassian.com/company/careers/details/26275",
+      "location": "Canada or Remote",
+      "active": true,
+      "excluded": true
+    },
+    "9eeb1d7905d8": {
+      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
+      "title": "Software Engineer Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26266",
+      "location": "San Francisco or Remote",
+      "active": true,
+      "excluded": false
+    }
+  }
 }
