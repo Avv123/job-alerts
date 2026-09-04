@@ -78,6 +78,24 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-software-engineer/47263/96174865744",
       "location": "Bangalore, Karn\u0101taka, India",
+      "active": false,
+      "excluded": true
+    },
+    "79de636df946": {
+      "first_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "title": "Sr. Principal Software Engineer - Backend, Identity & Access Management (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-principal-software-engineer-backend-identity-and-access-management-chronosphere/47263/100168706576",
+      "location": "New York City, New York, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "796e0a733f27": {
+      "first_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "title": "Sr. Principal Software Engineer - Backend, Identity & Access Management (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-principal-software-engineer-backend-identity-and-access-management-chronosphere/47263/100168706576",
+      "location": "",
       "active": true,
       "excluded": true
     }
