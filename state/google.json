@@ -1,208 +1,163 @@
 {
   "jobs": {
     "6290b0327c7f": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Full Stack, Pixel Weather",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/92162448210961094-software-engineer-full-stack-pixel-weather?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "549e06c87b41": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Senior Software Engineer, Infrastructure, Infra Spanner",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/118993368754594502-senior-software-engineer-infrastructure-infra-spanner?q=software%20engineer",
       "location": "",
       "active": true,
-      "excluded": false
+      "excluded": true
     },
     "535fe3f19d9a": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Senior Software Engineer, Embedded Systems, Platforms and Devices",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79935621212054214-senior-software-engineer-embedded-systems-platforms-and-devices?q=software%20engineer",
       "location": "",
       "active": true,
-      "excluded": false
+      "excluded": true
     },
     "9dd52d81e79c": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "70f2d19dfae8": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Site Reliability Engineering",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80879399473160902-software-engineer-site-reliability-engineering?q=software%20engineer",
       "location": "",
       "active": true,
-      "excluded": false
+      "excluded": true
     },
     "a44a69df98c0": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80030576496517830-senior-software-engineer?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "5134a0accf0d": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Early Career (For Women in Tech Candidates)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80313547497579206-software-engineer-early-career-for-women-in-tech-candidates?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "a7de668e12f4": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Compilers, Runtimes and Toolchains, Early Career",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111182182432547526-software-engineer-compilers-runtimes-and-toolchains-early-career?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "1840028e0fa2": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Machine Learning, TPU Workload Optimization",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/102251586234786502-software-engineer-machine-learning-tpu-workload-optimization?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
-    },
-    "9c0aa7e501f8": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-03T20:48:40.423558+00:00",
-      "title": "Staff Software Engineer, Information Security Engineering",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
-      "location": "",
-      "active": false,
-      "excluded": true
     },
     "1c64344ce120": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, GPU Embedded System",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95823738179592902-software-engineer-gpu-embedded-system?q=software%20engineer",
       "location": "",
       "active": true,
-      "excluded": false
-    },
-    "4b14c5b69f3f": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T03:55:25.144675+00:00",
-      "title": "Software Engineer, iOS",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
-      "location": "",
-      "active": false,
       "excluded": false
     },
     "58a310199e0f": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Senior Software Engineer, Cloud and Third Party Platform Security",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95653551711101638-senior-software-engineer-cloud-and-third-party-platform-security?q=software%20engineer",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "b8ca713e5d1e": {
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "title": "Software Engineer, Content Safety, Infra",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/107641884007899846-software-engineer-content-safety-infra?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
-    "b8ca713e5d1e": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
-      "title": "Software Engineer, Content Safety, Infra",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+    "7ec0794da725": {
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/136109780333667014-software-engineer-content-safety-ai-transformation-enablement?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "0aea82e61402": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112470567562420934-staff-software-engineer?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": true
     },
-    "7ec0794da725": {
-      "first_seen_at": "2026-09-03T17:09:15.022089+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
-      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
-      "location": "",
-      "active": true,
-      "excluded": false
-    },
     "51426444c695": {
-      "first_seen_at": "2026-09-03T20:48:40.423558+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Mobile (iOS)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/97072914385248966-software-engineer-mobile-ios?q=software%20engineer",
       "location": "",
       "active": true,
-      "excluded": false
-    },
-    "711c2082ec6b": {
-      "first_seen_at": "2026-09-03T20:48:40.423558+00:00",
-      "last_seen_at": "2026-09-03T20:48:40.423558+00:00",
-      "title": "Software Engineer, Content Safety",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
-      "location": "",
-      "active": false,
       "excluded": false
     },
     "810095c88b2a": {
-      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, People with Disabilities",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/121178240002728646-software-engineer-people-with-disabilities?q=software%20engineer",
       "location": "",
       "active": true,
-      "excluded": false
-    },
-    "cba6c361ac71": {
-      "first_seen_at": "2026-09-04T03:55:25.144675+00:00",
-      "last_seen_at": "2026-09-04T10:58:32.857545+00:00",
-      "title": "Software Engineer (For Women in Tech Candidates)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
-      "location": "",
-      "active": false,
-      "excluded": false
+      "excluded": true
     },
     "93858e460f86": {
-      "first_seen_at": "2026-09-04T10:58:32.857545+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Google Pay, Server Infrastructure",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
-      "location": "",
-      "active": true,
-      "excluded": false
-    },
-    "c3d5cf08e98d": {
-      "first_seen_at": "2026-09-04T10:58:32.857545+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
-      "title": "2 years of experience with full stack development, across the back-end such as Java, Python, Golang, or C++ codebases.",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133045000656036550-software-engineer-google-pay-server-infrastructure?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false
     },
     "4725fe914566": {
-      "first_seen_at": "2026-09-04T16:05:32.305060+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer, Google Pay, Consumer Payments",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/115559759297290950-software-engineer-google-pay-consumer-payments?q=software%20engineer",
       "location": "",
       "active": true,
       "excluded": false

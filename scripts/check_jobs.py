@@ -488,6 +488,19 @@ def lines_to_jobs(text, url, link_map=None):
     link_map = link_map or {}
     lines = [l.strip() for l in text.split("\n")]
     lines = [l for l in lines if 4 < len(l) < 120]
+    # A line ending in a period is a sentence — real job titles never do.
+    # Some career pages (e.g. Google) render full "Minimum qualifications"
+    # bullets inline in the results list; without this, a qualification
+    # bullet that happens to mention matching keywords ("2 years of
+    # experience with... Java, Python, Golang...") gets picked up as if it
+    # were its own job posting.
+    lines = [l for l in lines if not (len(l) > 40 and l.endswith("."))]
+    # "2. Principal Software Engineer" — search-autocomplete/suggestion
+    # dropdown items (numbered, not real job cards) that Playwright's
+    # inner_text can still pick up even when the dropdown isn't visually
+    # open. These have no real per-job page, so they always fell back to
+    # the generic listings URL.
+    lines = [l for l in lines if not re.match(r"^\d{1,3}[.)]\s", l)]
     jobs = []
     seen = set()
     skip_next = False
@@ -505,6 +518,15 @@ def lines_to_jobs(text, url, link_map=None):
         if i + 1 < len(lines) and looks_like_location(lines[i + 1]):
             location = lines[i + 1]
             skip_next = True
+        job_url = link_map.get(key)
+        if not job_url:
+            # No genuine, distinct link found for this candidate — a job you
+            # can't click through to is worse than not showing it at all, so
+            # it's dropped rather than shown pointing at the generic listing
+            # page. (Also filters out non-job text that was never a real,
+            # separately-linked posting in the first place — search-suggestion
+            # fragments, category nav, etc. — since those never have one.)
+            continue
         # Dedup on title+location, not title alone — the same title posted
         # in multiple cities (very common) was previously collapsed into a
         # single entry, silently dropping every location but the first.
@@ -513,7 +535,7 @@ def lines_to_jobs(text, url, link_map=None):
             continue
         seen.add(dedup_key)
         jid = hashlib.sha1(dedup_key.encode()).hexdigest()[:12]
-        jobs.append({"id": jid, "title": norm, "url": link_map.get(key, url), "location": location})
+        jobs.append({"id": jid, "title": norm, "url": job_url, "location": location})
     return jobs
 
 
@@ -573,7 +595,11 @@ def fetch_custom(url):
     try:
         anchors = page.eval_on_selector_all(
             "a[href]",
-            "els => els.map(e => ({text: (e.getAttribute('title') || e.innerText || '').trim(), href: e.href}))",
+            # Some sites (e.g. Google Careers) label each job link only via
+            # aria-label, with an empty visible innerText — without checking
+            # aria-label too, these links never match, and every job falls
+            # back to the generic listings-page URL instead of its own page.
+            "els => els.map(e => ({text: (e.getAttribute('title') || e.getAttribute('aria-label') || e.innerText || '').trim(), href: e.href}))",
         )
         for a in anchors:
             # anchors often wrap a whole card (title + location + dept, newline-

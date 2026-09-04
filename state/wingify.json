@@ -1,8 +1,17 @@
 {
   "jobs": {
+    "eb1a4eec1de2": {
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "title": "Senior Software Engineer \u2013 Full-Stack",
+      "url": "https://wingify.keka.com/careers/jobdetails/140838",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
     "0f3b5b902b3e": {
-      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Senior Software Engineer - Client Services",
       "url": "https://wingify.keka.com/careers/jobdetails/123803",
       "location": "",
@@ -10,19 +19,10 @@
       "excluded": true
     },
     "b242fdec8861": {
-      "first_seen_at": "2026-09-03T17:13:18.109604+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
+      "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
+      "last_seen_at": "2026-09-04T16:32:01.329604+00:00",
       "title": "Software Engineer - QA (Client Services team)",
       "url": "https://wingify.keka.com/careers/jobdetails/110231",
-      "location": "",
-      "active": true,
-      "excluded": false
-    },
-    "eb1a4eec1de2": {
-      "first_seen_at": "2026-09-04T16:05:32.305060+00:00",
-      "last_seen_at": "2026-09-04T16:05:32.305060+00:00",
-      "title": "Senior Software Engineer \u2013 Full-Stack",
-      "url": "https://wingify.keka.com/careers/jobdetails/140838",
       "location": "",
       "active": true,
       "excluded": false
