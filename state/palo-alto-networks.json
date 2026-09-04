@@ -33,7 +33,7 @@
       "title": "Sr Staff Software Engineer (Credential Provider)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/sr-staff-software-engineer-credential-provider/47263/100140867104",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3892db1744cb": {
@@ -42,7 +42,7 @@
       "title": "Software Engineer (Credential Provider)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineer-credential-provider/47263/100140866992",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8c86fa48368a": {
@@ -51,7 +51,7 @@
       "title": "Staff Software Engineer (Credential Provider)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/staff-software-engineer-credential-provider/47263/100140866976",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d13316e0f729": {
@@ -60,7 +60,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -69,6 +69,15 @@
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "b0293cc71fac": {
+      "first_seen_at": "2026-09-04T10:58:32.857545+00:00",
+      "last_seen_at": "2026-09-04T10:58:32.857545+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-software-engineer/47263/96174865744",
+      "location": "Bangalore, Karn\u0101taka, India",
       "active": true,
       "excluded": true
     }
