@@ -6,6 +6,24 @@
       "title": "Staff Software Engineer - ML Infra",
       "url": "https://jobs.uber.com/en/jobs/301346/",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "19a8217daa81": {
+      "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "title": "Sr Software Engineer (C++) - AV Labs",
+      "url": "https://jobs.uber.com/en/jobs/300777/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "949accf5a9ee": {
+      "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "title": "Sr Software Engineer, MLE - AV Labs",
+      "url": "https://jobs.uber.com/en/jobs/301547/",
+      "location": "",
       "active": true,
       "excluded": true
     }

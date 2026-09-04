@@ -2,10 +2,28 @@
   "jobs": {
     "79de636df946": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-04T16:59:48.438430+00:00",
+      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
       "title": "Sr. Principal Software Engineer - Backend, Identity & Access Management (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-principal-software-engineer-backend-identity-and-access-management-chronosphere/47263/100168706576",
       "location": "New York City, New York, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "2a26244dd673": {
+      "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "title": "Manager, Software Engineering - Identity and Access Management (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/new-york/manager-software-engineering-identity-and-access-management-chronosphere/47263/100178499872",
+      "location": "New York City, New York, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "9ea94d2b0564": {
+      "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "title": "Manager, Software Engineering - Identity and Access Management (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/new-york/manager-software-engineering-identity-and-access-management-chronosphere/47263/100178499872",
+      "location": "",
       "active": true,
       "excluded": true
     }
