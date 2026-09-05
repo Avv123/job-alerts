@@ -11,7 +11,7 @@
     },
     "19a8217daa81": {
       "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
-      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "last_seen_at": "2026-09-05T03:52:31.997881+00:00",
       "title": "Sr Software Engineer (C++) - AV Labs",
       "url": "https://jobs.uber.com/en/jobs/300777/",
       "location": "",
@@ -20,12 +20,21 @@
     },
     "949accf5a9ee": {
       "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
-      "last_seen_at": "2026-09-04T20:35:41.104493+00:00",
+      "last_seen_at": "2026-09-05T03:52:31.997881+00:00",
       "title": "Sr Software Engineer, MLE - AV Labs",
       "url": "https://jobs.uber.com/en/jobs/301547/",
       "location": "",
       "active": true,
       "excluded": true
+    },
+    "50e9177d78c6": {
+      "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
+      "last_seen_at": "2026-09-05T03:52:31.997881+00:00",
+      "title": "Senior Software Engineer - Middleware - AV Labs",
+      "url": "https://jobs.uber.com/en/jobs/159127/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
