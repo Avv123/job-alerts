@@ -11,7 +11,7 @@
     },
     "2a26244dd673": {
       "first_seen_at": "2026-09-04T20:35:41.104493+00:00",
-      "last_seen_at": "2026-09-05T03:52:31.997881+00:00",
+      "last_seen_at": "2026-09-05T10:19:52.728528+00:00",
       "title": "Manager, Software Engineering - Identity and Access Management (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/manager-software-engineering-identity-and-access-management-chronosphere/47263/100178499872",
       "location": "New York City, New York, United States of America",
@@ -33,7 +33,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -42,7 +42,7 @@
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
