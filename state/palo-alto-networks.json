@@ -47,7 +47,7 @@
     },
     "9bd84d88e34d": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-09-06T15:15:54.404211+00:00",
+      "last_seen_at": "2026-09-06T20:14:41.326371+00:00",
       "title": "Linux Internals Software Engineer (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/linux-internals-software-engineer-cortex/47263/100248143808",
       "location": "Tel Aviv-Yafo, Israel",
@@ -56,7 +56,7 @@
     },
     "65800402585d": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-09-06T15:15:54.404211+00:00",
+      "last_seen_at": "2026-09-06T20:14:41.326371+00:00",
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
@@ -65,10 +65,37 @@
     },
     "b1666385f0bf": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-09-06T15:15:54.404211+00:00",
+      "last_seen_at": "2026-09-06T20:14:41.326371+00:00",
       "title": "Software Backend Engineering Manager - AI (Cortex XSIAM)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/software-backend-engineering-manager-ai-cortex-xsiam/47263/100248142272",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "f88cd218a8ae": {
+      "first_seen_at": "2026-09-06T20:14:41.326371+00:00",
+      "last_seen_at": "2026-09-06T20:14:41.326371+00:00",
+      "title": "Linux Internals Software Engineer (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/linux-internals-software-engineer-cortex/47263/100248143808",
+      "location": "Tel Aviv, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "92c435640d7c": {
+      "first_seen_at": "2026-09-06T20:14:41.326371+00:00",
+      "last_seen_at": "2026-09-06T20:14:41.326371+00:00",
+      "title": "Principal C++ Software Engineer (Prisma Browser)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
+      "location": "Tel Aviv, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "b0468498ce51": {
+      "first_seen_at": "2026-09-06T20:14:41.326371+00:00",
+      "last_seen_at": "2026-09-06T20:14:41.326371+00:00",
+      "title": "Software Backend Engineering Manager - AI (Cortex XSIAM)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/software-backend-engineering-manager-ai-cortex-xsiam/47263/100248142272",
+      "location": "Tel Aviv, Israel",
       "active": true,
       "excluded": true
     }
