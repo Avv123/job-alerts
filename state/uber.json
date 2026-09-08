@@ -35,6 +35,15 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "ef9177288a93": {
+      "first_seen_at": "2026-09-08T16:23:30.341811+00:00",
+      "last_seen_at": "2026-09-08T16:23:30.341811+00:00",
+      "title": "Sr Software Engineer, Frontend (Web)",
+      "url": "https://jobs.uber.com/en/jobs/153378/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

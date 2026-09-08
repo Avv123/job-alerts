@@ -105,7 +105,7 @@
       "title": "Senior Staff Software Engineer (Internet Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b75e6be840f7": {
@@ -132,6 +132,15 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486976",
       "location": "500081, India",
+      "active": false,
+      "excluded": true
+    },
+    "abbf05502fbe": {
+      "first_seen_at": "2026-09-08T16:23:30.341811+00:00",
+      "last_seen_at": "2026-09-08T16:23:30.341811+00:00",
+      "title": "Principal/Senior Principal Software Engineer Data Platform ( Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-platform-cortex/47263/98993650368",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }
