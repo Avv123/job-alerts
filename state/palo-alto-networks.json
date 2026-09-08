@@ -141,6 +141,15 @@
       "title": "Principal/Senior Principal Software Engineer Data Platform ( Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-platform-cortex/47263/98993650368",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "503a72c1c62f": {
+      "first_seen_at": "2026-09-08T20:58:07.239331+00:00",
+      "last_seen_at": "2026-09-08T20:58:07.239331+00:00",
+      "title": "Principal Software Engineer - Storage (Chronosphere), Vilnius",
+      "url": "https://jobs.paloaltonetworks.com/en/job/vilnius/principal-software-engineer-storage-chronosphere-vilnius/47263/100354163936",
+      "location": "",
       "active": true,
       "excluded": true
     }
