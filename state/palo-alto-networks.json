@@ -101,7 +101,7 @@
     },
     "4c7db5becaf5": {
       "first_seen_at": "2026-09-07T21:22:20.646106+00:00",
-      "last_seen_at": "2026-09-07T21:22:20.646106+00:00",
+      "last_seen_at": "2026-09-08T03:58:42.036984+00:00",
       "title": "Senior Staff Software Engineer (Internet Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
       "location": "Santa Clara, California, United States of America",
@@ -110,10 +110,19 @@
     },
     "b75e6be840f7": {
       "first_seen_at": "2026-09-07T21:22:20.646106+00:00",
-      "last_seen_at": "2026-09-07T21:22:20.646106+00:00",
+      "last_seen_at": "2026-09-08T03:58:42.036984+00:00",
       "title": "Distinguished Architect Software Engineer (Cortex AgentiX)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/distinguished-architect-software-engineer-cortex-agentix/47263/100299831088",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "a58778da5d9b": {
+      "first_seen_at": "2026-09-08T03:58:42.036984+00:00",
+      "last_seen_at": "2026-09-08T03:58:42.036984+00:00",
+      "title": "Senior Staff Software Engineer (Internet Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
+      "location": "Santa Clara, California, United States",
       "active": true,
       "excluded": true
     }
