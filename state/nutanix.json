@@ -1,3 +1,13 @@
 {
-  "jobs": {}
+  "jobs": {
+    "e666e0f28645": {
+      "first_seen_at": "2026-09-09T11:03:27.803261+00:00",
+      "last_seen_at": "2026-09-09T11:03:27.803261+00:00",
+      "title": "Solutions Automation Developer/Software Developer [ Python, Github, Api's]",
+      "url": "https://careers.nutanix.com/en/jobs/32582/solutions-automation-developersoftware-developer-python-github-apis/",
+      "location": "Bangalore, India",
+      "active": true,
+      "excluded": true
+    }
+  }
 }
