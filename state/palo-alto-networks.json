@@ -179,6 +179,33 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "7e003701d216": {
+      "first_seen_at": "2026-09-10T16:10:11.111362+00:00",
+      "last_seen_at": "2026-09-10T16:10:11.111362+00:00",
+      "title": "Director Software Engineering- CWP (Cortex Cloud)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/director-software-engineering-cwp-cortex-cloud/47263/100434613472",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "2707efbe7ddf": {
+      "first_seen_at": "2026-09-10T16:10:11.111362+00:00",
+      "last_seen_at": "2026-09-10T16:10:11.111362+00:00",
+      "title": "Sr Software Engineer -Email Security (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "18fa21f5a9cc": {
+      "first_seen_at": "2026-09-10T16:10:11.111362+00:00",
+      "last_seen_at": "2026-09-10T16:10:11.111362+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/97425296192",
+      "location": "500081, India",
+      "active": true,
+      "excluded": true
     }
   }
 }
