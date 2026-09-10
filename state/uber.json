@@ -42,7 +42,7 @@
       "title": "Sr Software Engineer, Frontend (Web)",
       "url": "https://jobs.uber.com/en/jobs/153378/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "47f1d1ca76fe": {
@@ -52,6 +52,24 @@
       "url": "https://jobs.uber.com/en/jobs/147313/",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "e66b2ada0506": {
+      "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "last_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "title": "Software Engineer II - Engineer",
+      "url": "https://jobs.uber.com/en/jobs/302381/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "07966762a73d": {
+      "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "last_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "title": "Sr Software Engineer - Engineer",
+      "url": "https://jobs.uber.com/en/jobs/302386/",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

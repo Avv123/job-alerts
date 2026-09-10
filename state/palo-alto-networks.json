@@ -161,6 +161,24 @@
       "location": "Tel Aviv-Yafo, Israel",
       "active": false,
       "excluded": true
+    },
+    "2520cb7ba4c7": {
+      "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "last_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "title": "Senior IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "8438588603fd": {
+      "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "last_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
