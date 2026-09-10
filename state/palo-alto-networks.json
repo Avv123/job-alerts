@@ -168,7 +168,7 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8438588603fd": {
@@ -177,7 +177,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
