@@ -101,11 +101,11 @@
     },
     "4c7db5becaf5": {
       "first_seen_at": "2026-09-07T21:22:20.646106+00:00",
-      "last_seen_at": "2026-09-08T10:58:50.850027+00:00",
+      "last_seen_at": "2026-09-10T20:41:34.326808+00:00",
       "title": "Senior Staff Software Engineer (Internet Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "b75e6be840f7": {
@@ -186,7 +186,7 @@
       "title": "Director Software Engineering- CWP (Cortex Cloud)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/director-software-engineering-cwp-cortex-cloud/47263/100434613472",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2707efbe7ddf": {
@@ -195,7 +195,7 @@
       "title": "Sr Software Engineer -Email Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "18fa21f5a9cc": {
@@ -204,6 +204,15 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/97425296192",
       "location": "500081, India",
+      "active": false,
+      "excluded": true
+    },
+    "8491d5f1e47d": {
+      "first_seen_at": "2026-09-10T20:41:34.326808+00:00",
+      "last_seen_at": "2026-09-10T20:41:34.326808+00:00",
+      "title": "Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }
