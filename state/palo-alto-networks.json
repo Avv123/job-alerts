@@ -222,7 +222,7 @@
       "title": "Sr Principal Software Engineer - ADEM (Backend)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-adem-backend/47263/96174881872",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d5e8a5c50268": {
@@ -231,7 +231,7 @@
       "title": "Sr Principal Software Engineer (Cloud Platform and AI Engineering)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-cloud-platform-and-ai-engineering/47263/96853096336",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
