@@ -2,7 +2,7 @@
   "jobs": {
     "27bb6d471c89": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-11T10:58:08.157933+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
       "title": "Embedded Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1714132979779125",
       "location": "Redmond, WA",
@@ -11,7 +11,7 @@
     },
     "ff896f8058c3": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-11T10:58:08.157933+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
       "title": "Software Engineering",
       "url": "https://www.metacareers.com/teams/technology/software-engineering/",
       "location": "",
@@ -24,7 +24,7 @@
       "title": "Software Engineer, Systems ML (Technical Leadership)",
       "url": "https://www.metacareers.com/profile/job_details/1466388538850943",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e3b0507cf1cf": {
@@ -33,12 +33,12 @@
       "title": "Embedded Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1714132979779125",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c96a47d309a1": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-11T10:58:08.157933+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
       "title": "Software Engineer, Systems",
       "url": "https://www.metacareers.com/profile/job_details/2082780019279407",
       "location": "Tel Aviv, Israel",
@@ -47,7 +47,7 @@
     },
     "1f94d76f99d9": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-11T10:58:08.157933+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
       "title": "Software Engineer, Principal",
       "url": "https://www.metacareers.com/profile/job_details/1298625432375018",
       "location": "Singapore",
@@ -69,7 +69,7 @@
       "title": "Software Engineer (Technical Leadership)",
       "url": "https://www.metacareers.com/profile/job_details/2282367178830920",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e15f94ba674a": {
@@ -78,12 +78,12 @@
       "title": "Software Engineer, Databases",
       "url": "https://www.metacareers.com/profile/job_details/2342974003201767",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "5acbe6cad92b": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-11T10:58:08.157933+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
       "title": "Software Development Engineer in Test",
       "url": "https://www.metacareers.com/profile/job_details/1100609969057950",
       "location": "Menlo Park, CA",
@@ -96,6 +96,42 @@
       "title": "Software Engineer - On-Device & Backend Systems",
       "url": "https://www.metacareers.com/profile/job_details/894426413051892",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "4165326df6f9": {
+      "first_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "title": "Software Engineer, Systems ML (Technical Leadership)",
+      "url": "https://www.metacareers.com/profile/job_details/1466388538850943",
+      "location": "Sunnyvale, CA",
+      "active": true,
+      "excluded": true
+    },
+    "d80bf683490a": {
+      "first_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "title": "Software Engineer, Databases",
+      "url": "https://www.metacareers.com/profile/job_details/2342974003201767",
+      "location": "Bellevue, WA",
+      "active": true,
+      "excluded": true
+    },
+    "6b1636f3a51d": {
+      "first_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "title": "Software Engineer (Technical Leadership)",
+      "url": "https://www.metacareers.com/profile/job_details/2282367178830920",
+      "location": "Bellevue, WA",
+      "active": true,
+      "excluded": true
+    },
+    "1d9877df0480": {
+      "first_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "last_seen_at": "2026-09-11T16:13:44.783355+00:00",
+      "title": "Software Engineer - On-Device & Backend Systems",
+      "url": "https://www.metacareers.com/profile/job_details/894426413051892",
+      "location": "Sunnyvale, CA",
       "active": true,
       "excluded": true
     }
