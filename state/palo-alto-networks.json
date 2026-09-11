@@ -233,6 +233,15 @@
       "location": "Santa Clara, California, United States of America",
       "active": false,
       "excluded": true
+    },
+    "31f2f9065d5d": {
+      "first_seen_at": "2026-09-11T20:46:35.338853+00:00",
+      "last_seen_at": "2026-09-11T20:46:35.338853+00:00",
+      "title": "Sr Principal Software Engineer ADEM (ADEM - Autonomous Digital Experience Management) - Windows",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-adem-adem-autonomous-digital-experience-management-windows/47263/96853096176",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
     }
   }
 }

@@ -80,6 +80,15 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "66e12bdbdfd7": {
+      "first_seen_at": "2026-09-11T20:46:35.338853+00:00",
+      "last_seen_at": "2026-09-11T20:46:35.338853+00:00",
+      "title": "Sr Software Engineer - Web - AV Labs",
+      "url": "https://jobs.uber.com/en/jobs/301347/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
