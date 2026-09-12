@@ -87,6 +87,15 @@
       "title": "Sr Software Engineer - Web - AV Labs",
       "url": "https://jobs.uber.com/en/jobs/301347/",
       "location": "",
+      "active": false,
+      "excluded": false
+    },
+    "47f2ec8d3d70": {
+      "first_seen_at": "2026-09-12T04:02:17.305956+00:00",
+      "last_seen_at": "2026-09-12T04:02:17.305956+00:00",
+      "title": "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
+      "url": "https://jobs.uber.com/en/jobs/300813/",
+      "location": "",
       "active": true,
       "excluded": false
     }
