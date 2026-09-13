@@ -242,6 +242,33 @@
       "location": "Santa Clara, California, United States of America",
       "active": false,
       "excluded": true
+    },
+    "05bdbf1b8db8": {
+      "first_seen_at": "2026-09-13T15:57:16.491707+00:00",
+      "last_seen_at": "2026-09-13T15:57:16.491707+00:00",
+      "title": "Meet Bar, Sr. Software Engineer at Palo Alto Networks in Israel",
+      "url": "https://jobs.paloaltonetworks.com/en/Bar-Senior-Software-Engineer-Israel",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "6b5d78a23028": {
+      "first_seen_at": "2026-09-13T15:57:16.491707+00:00",
+      "last_seen_at": "2026-09-13T15:57:16.491707+00:00",
+      "title": "Early-in-Career as a Software Engineer at Palo Alto Networks in India",
+      "url": "https://jobs.paloaltonetworks.com/en/Akshita-India-Software-Engineer",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "27be7f86609d": {
+      "first_seen_at": "2026-09-13T15:57:16.491707+00:00",
+      "last_seen_at": "2026-09-13T15:57:16.491707+00:00",
+      "title": "From Intern to Full-Time Software Engineer at Palo Alto Networks India",
+      "url": "https://jobs.paloaltonetworks.com/en/Priyanka-Early-Talent-Software-Engineer-India",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
