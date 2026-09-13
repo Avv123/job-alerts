@@ -29,20 +29,20 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-12T15:20:41.212885+00:00",
+      "last_seen_at": "2026-09-13T20:35:03.465747+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-12T15:20:41.212885+00:00",
+      "last_seen_at": "2026-09-13T20:35:03.465747+00:00",
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -249,7 +249,7 @@
       "title": "Meet Bar, Sr. Software Engineer at Palo Alto Networks in Israel",
       "url": "https://jobs.paloaltonetworks.com/en/Bar-Senior-Software-Engineer-Israel",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "6b5d78a23028": {
@@ -258,7 +258,7 @@
       "title": "Early-in-Career as a Software Engineer at Palo Alto Networks in India",
       "url": "https://jobs.paloaltonetworks.com/en/Akshita-India-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "27be7f86609d": {
@@ -267,7 +267,7 @@
       "title": "From Intern to Full-Time Software Engineer at Palo Alto Networks India",
       "url": "https://jobs.paloaltonetworks.com/en/Priyanka-Early-Talent-Software-Engineer-India",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
