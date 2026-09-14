@@ -164,11 +164,11 @@
     },
     "2520cb7ba4c7": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-09-10T04:03:21.870442+00:00",
+      "last_seen_at": "2026-09-14T21:41:32.770893+00:00",
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "8438588603fd": {
@@ -276,7 +276,7 @@
       "title": "Sr. Principal Backend Engineer (Cortex XSIAM)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-backend-engineer-cortex-xsiam/47263/100606751136",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "500a210507f6": {
@@ -285,7 +285,7 @@
       "title": "Sr. Principal Backend Engineer (Cortex XSIAM)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-backend-engineer-cortex-xsiam/47263/100606751136",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
