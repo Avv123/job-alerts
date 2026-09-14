@@ -33,7 +33,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -42,7 +42,7 @@
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -269,6 +269,24 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "d2a009ca53eb": {
+      "first_seen_at": "2026-09-14T12:21:34.968127+00:00",
+      "last_seen_at": "2026-09-14T12:21:34.968127+00:00",
+      "title": "Sr. Principal Backend Engineer (Cortex XSIAM)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-backend-engineer-cortex-xsiam/47263/100606751136",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "500a210507f6": {
+      "first_seen_at": "2026-09-14T12:21:34.968127+00:00",
+      "last_seen_at": "2026-09-14T12:21:34.968127+00:00",
+      "title": "Sr. Principal Backend Engineer (Cortex XSIAM)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-backend-engineer-cortex-xsiam/47263/100606751136",
+      "location": "Tel Aviv, Israel",
+      "active": true,
+      "excluded": true
     }
   }
 }
