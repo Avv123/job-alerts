@@ -314,6 +314,51 @@
       "location": "Petah Tikva, Israel",
       "active": false,
       "excluded": true
+    },
+    "16e2834a9c10": {
+      "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
+      "location": "San Jose, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "293149270dd8": {
+      "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "title": "Sr. Staff Software Engineer (AI Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-platform/47263/100674860272",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "a21cda393e7a": {
+      "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "title": "Sr Principal Software Engineer - ADEM (Backend)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/vancouver/sr-principal-software-engineer-adem-backend/47263/96174881872",
+      "location": "Vancouver, British Columbia, Canada",
+      "active": true,
+      "excluded": true
+    },
+    "2b9c695f8f26": {
+      "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "title": "Software Engineer- Networking",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/software-engineer-networking/47263/96522073536",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "c9473e3378b3": {
+      "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "title": "Sr. Principal Software Engineer (L7 Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-francisco/sr-principal-software-engineer-l7-security/47263/96174874592",
+      "location": "San Francisco, California, United States of America",
+      "active": true,
+      "excluded": true
     }
   }
 }
