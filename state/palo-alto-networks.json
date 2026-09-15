@@ -294,7 +294,7 @@
       "title": "Software Engineering Manager, Idira Platform Services",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineering-manager-idira-platform-services/47263/100654449488",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "fd9ad4a1624e": {
@@ -303,7 +303,7 @@
       "title": "Senior Staff Software Engineer (Performance Engineering)",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer-performance-engineering/47263/96768474016",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "589d501ddd87": {
@@ -312,7 +312,7 @@
       "title": "Software Engineering Manager, Idira Platform Services",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineering-manager-idira-platform-services/47263/100654449488",
       "location": "Petah Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
