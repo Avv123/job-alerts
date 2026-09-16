@@ -168,7 +168,7 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8438588603fd": {
@@ -358,6 +358,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/san-francisco/sr-principal-software-engineer-l7-security/47263/96174874592",
       "location": "San Francisco, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "98417d62c94a": {
+      "first_seen_at": "2026-09-16T16:33:52.819787+00:00",
+      "last_seen_at": "2026-09-16T16:33:52.819787+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
