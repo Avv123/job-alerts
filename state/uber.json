@@ -116,6 +116,24 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "da81ea674611": {
+      "first_seen_at": "2026-09-16T21:07:27.293259+00:00",
+      "last_seen_at": "2026-09-16T21:07:27.293259+00:00",
+      "title": "Sr Software Engineer - Eater Real Time Pricing",
+      "url": "https://jobs.uber.com/en/jobs/302443/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "69e5e6a14c53": {
+      "first_seen_at": "2026-09-16T21:07:27.293259+00:00",
+      "last_seen_at": "2026-09-16T21:07:27.293259+00:00",
+      "title": "Sr Software Engineer - Android",
+      "url": "https://jobs.uber.com/en/jobs/302448/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
