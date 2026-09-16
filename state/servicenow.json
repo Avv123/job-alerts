@@ -452,7 +452,7 @@
     },
     "744000148862459": {
       "first_seen_at": "2026-09-10T20:41:34.326808+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000148862459",
       "location": "Santa Clara, CALIFORNIA",
@@ -479,7 +479,7 @@
     },
     "744000148866434": {
       "first_seen_at": "2026-09-11T04:00:16.587104+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Sr Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000148866434",
       "location": "Radomlje, SLOVENIA",
@@ -488,7 +488,7 @@
     },
     "744000148951705": {
       "first_seen_at": "2026-09-11T10:58:08.157933+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Sr. Staff Software Engineer \u2013 SRE, Release & Test Platforms ",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000148951705",
       "location": "Dublin",
@@ -497,7 +497,7 @@
     },
     "744000148923149": {
       "first_seen_at": "2026-09-11T10:58:08.157933+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Senior Staff Data Platform Software Engineer (Java + Kafka & Datalakes or Iceberg)",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000148923149",
       "location": "Hyderabad",
@@ -515,7 +515,7 @@
     },
     "744000149345159": {
       "first_seen_at": "2026-09-14T21:41:32.770893+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000149345159",
       "location": "Santa Clara, CALIFORNIA",
@@ -524,7 +524,7 @@
     },
     "744000149338366": {
       "first_seen_at": "2026-09-14T21:41:32.770893+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000149338366",
       "location": "West Palm Beach, Florida",
@@ -533,7 +533,7 @@
     },
     "744000149493080": {
       "first_seen_at": "2026-09-15T04:21:04.681030+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Principal Software Engineer - Application Lifecycle",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000149493080",
       "location": "Santa Clara, California",
@@ -542,7 +542,7 @@
     },
     "744000149518970": {
       "first_seen_at": "2026-09-15T11:27:57.785437+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000149518970",
       "location": "Hyderabad",
@@ -551,7 +551,7 @@
     },
     "744000149515165": {
       "first_seen_at": "2026-09-15T11:27:57.785437+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Sr Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000149515165",
       "location": "Hyderabad",
@@ -560,10 +560,37 @@
     },
     "744000149661881": {
       "first_seen_at": "2026-09-15T16:40:38.147401+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
       "title": "Senior Staff AI-Native Software Engineer \u2013 Agentic Systems",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000149661881",
       "location": "San Francisco, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000149766719": {
+      "first_seen_at": "2026-09-16T04:16:11.413272+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000149766719",
+      "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000149766289": {
+      "first_seen_at": "2026-09-16T04:16:11.413272+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000149766289",
+      "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000149756055": {
+      "first_seen_at": "2026-09-16T04:16:11.413272+00:00",
+      "last_seen_at": "2026-09-16T04:16:11.413272+00:00",
+      "title": "Staff Software Engineer - ITAM",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000149756055",
+      "location": "Santa Clara, California",
       "active": true,
       "excluded": true
     }
