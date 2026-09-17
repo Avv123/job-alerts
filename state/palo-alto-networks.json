@@ -141,7 +141,7 @@
       "title": "Principal/Senior Principal Software Engineer Data Platform ( Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-platform-cortex/47263/98993650368",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "503a72c1c62f": {
@@ -317,11 +317,11 @@
     },
     "16e2834a9c10": {
       "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-17T21:09:55.993785+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "293149270dd8": {
@@ -402,7 +402,7 @@
       "title": "Sr. Principal Software Engineer - Backend, Identity & Access Management (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/california/sr-principal-software-engineer-backend-identity-and-access-management-chronosphere/47263/100168706576",
       "location": "Remote, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d6023c95b15f": {
@@ -411,7 +411,7 @@
       "title": "Sr Staff Software Engineer (Wildfire) - NetSec - Bangalore",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-wildfire-netsec-bangalore/47263/99101926848",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "86e2e4f0121a": {
@@ -420,6 +420,24 @@
       "title": "Principal Backend Engineer (CORTEX - Autonomous SOC)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-backend-engineer-cortex-autonomous-soc/47263/100386335648",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "5c031b027045": {
+      "first_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "last_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "title": "Senior Principal Backend Engineer (CORTEX - Autonomous SOC)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-cortex-autonomous-soc/47263/100386335648",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "2df5a96dffeb": {
+      "first_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "last_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
+      "location": "",
       "active": true,
       "excluded": true
     }
