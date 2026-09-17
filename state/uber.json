@@ -60,7 +60,7 @@
       "title": "Software Engineer II - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302438/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "07966762a73d": {
@@ -123,7 +123,7 @@
       "title": "Sr Software Engineer - Eater Real Time Pricing",
       "url": "https://jobs.uber.com/en/jobs/302443/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "69e5e6a14c53": {
@@ -141,7 +141,7 @@
       "title": "Software Engineer II - Web Engineer",
       "url": "https://jobs.uber.com/en/jobs/302452/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "bb30e240656e": {
@@ -150,7 +150,7 @@
       "title": "Software Engineer II - Machine Learning Engineer",
       "url": "https://jobs.uber.com/en/jobs/302439/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "59e33285457a": {
@@ -159,7 +159,7 @@
       "title": "Sr Software Engineer - Backend- Memberships",
       "url": "https://jobs.uber.com/en/jobs/302447/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
