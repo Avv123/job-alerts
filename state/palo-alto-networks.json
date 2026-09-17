@@ -38,11 +38,11 @@
     },
     "9edfb9d417c7": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-14T04:20:13.611766+00:00",
+      "last_seen_at": "2026-09-17T04:22:30.751819+00:00",
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -362,11 +362,29 @@
     },
     "98417d62c94a": {
       "first_seen_at": "2026-09-16T16:33:52.819787+00:00",
-      "last_seen_at": "2026-09-16T16:33:52.819787+00:00",
+      "last_seen_at": "2026-09-17T04:22:30.751819+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
+      "excluded": true
+    },
+    "0af59f4eb847": {
+      "first_seen_at": "2026-09-17T04:22:30.751819+00:00",
+      "last_seen_at": "2026-09-17T04:22:30.751819+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-software-engineer/47263/100739310032",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "77ecc2f70619": {
+      "first_seen_at": "2026-09-17T04:22:30.751819+00:00",
+      "last_seen_at": "2026-09-17T04:22:30.751819+00:00",
+      "title": "Staff IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer/47263/100093058960",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
