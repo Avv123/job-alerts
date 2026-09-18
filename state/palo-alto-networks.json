@@ -128,11 +128,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:58:50.850027+00:00",
-      "last_seen_at": "2026-09-08T10:58:50.850027+00:00",
+      "last_seen_at": "2026-09-18T10:55:55.255938+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486976",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100111137568",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -447,7 +447,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
