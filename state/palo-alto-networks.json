@@ -132,7 +132,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100111137568",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -317,11 +317,11 @@
     },
     "16e2834a9c10": {
       "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
-      "last_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "last_seen_at": "2026-09-18T20:42:04.893143+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "293149270dd8": {
@@ -456,7 +456,7 @@
       "title": "Senior Principal Software Engineer, Tools & Platforms (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-tools-and-platforms-cortex/47263/99220479920",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

@@ -2,11 +2,11 @@
   "jobs": {
     "d3795e8561d6": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-09-04T16:59:48.438430+00:00",
+      "last_seen_at": "2026-09-18T20:42:04.893143+00:00",
       "title": "Staff Software Engineer - ML Infra",
       "url": "https://jobs.uber.com/en/jobs/301346/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "19a8217daa81": {
@@ -160,6 +160,15 @@
       "url": "https://jobs.uber.com/en/jobs/302447/",
       "location": "",
       "active": false,
+      "excluded": false
+    },
+    "d5d81bf027ea": {
+      "first_seen_at": "2026-09-18T20:42:04.893143+00:00",
+      "last_seen_at": "2026-09-18T20:42:04.893143+00:00",
+      "title": "Sr Software Engineer - Backend, Consumer Structural Pricing",
+      "url": "https://jobs.uber.com/en/jobs/302445/",
+      "location": "",
+      "active": true,
       "excluded": false
     }
   }
