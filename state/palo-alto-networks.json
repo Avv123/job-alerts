@@ -321,7 +321,7 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "293149270dd8": {
@@ -429,7 +429,7 @@
       "title": "Senior Principal Backend Engineer (CORTEX - Autonomous SOC)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-cortex-autonomous-soc/47263/100386335648",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2df5a96dffeb": {
@@ -438,6 +438,15 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "d862446d2492": {
+      "first_seen_at": "2026-09-18T04:06:35.474355+00:00",
+      "last_seen_at": "2026-09-18T04:06:35.474355+00:00",
+      "title": "Sr. Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }
