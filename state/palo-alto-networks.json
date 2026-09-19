@@ -461,7 +461,7 @@
     },
     "3740b8229f14": {
       "first_seen_at": "2026-09-19T04:03:36.434094+00:00",
-      "last_seen_at": "2026-09-19T10:39:09.391603+00:00",
+      "last_seen_at": "2026-09-19T15:42:05.496269+00:00",
       "title": "Senior Staff Software Engineer \u2014 Layer 7 Security",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
       "location": "Santa Clara, California, United States of America",
@@ -475,6 +475,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "9a987b8a0aac": {
+      "first_seen_at": "2026-09-19T15:42:05.496269+00:00",
+      "last_seen_at": "2026-09-19T15:42:05.496269+00:00",
+      "title": "Principal Software Engineer \u2013 Identity SSO (Idira)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-identity-sso-idira/47263/98656006064",
+      "location": "Petach Tikva, Israel",
+      "active": true,
       "excluded": true
     }
   }
