@@ -69,7 +69,7 @@
       "title": "Sr Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302444/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0aea82e61402": {
@@ -177,7 +177,7 @@
       "title": "Software Engineer II - Backend Engineer",
       "url": "https://jobs.uber.com/en/jobs/302455/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
