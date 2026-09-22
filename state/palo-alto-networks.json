@@ -362,7 +362,7 @@
     },
     "98417d62c94a": {
       "first_seen_at": "2026-09-16T16:33:52.819787+00:00",
-      "last_seen_at": "2026-09-21T21:52:10.674184+00:00",
+      "last_seen_at": "2026-09-22T04:16:38.872201+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States of America",
@@ -501,7 +501,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
