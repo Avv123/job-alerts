@@ -11,9 +11,27 @@
     },
     "18c1c10e933b": {
       "first_seen_at": "2026-09-17T11:23:03.220090+00:00",
-      "last_seen_at": "2026-09-22T11:18:20.399026+00:00",
+      "last_seen_at": "2026-09-22T16:40:22.485439+00:00",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://careers.nutanix.com/en/jobs/32624/software-engineer-intern-summer-2027/",
+      "location": "San Jose, United States",
+      "active": true,
+      "excluded": true
+    },
+    "8676e8465d7c": {
+      "first_seen_at": "2026-09-22T16:40:22.485439+00:00",
+      "last_seen_at": "2026-09-22T16:40:22.485439+00:00",
+      "title": "Software Engineer 1 - OS Internals",
+      "url": "https://careers.nutanix.com/en/jobs/32677/software-engineer-1-os-internals/",
+      "location": "San Jose, United States",
+      "active": true,
+      "excluded": true
+    },
+    "c81812151579": {
+      "first_seen_at": "2026-09-22T16:40:22.485439+00:00",
+      "last_seen_at": "2026-09-22T16:40:22.485439+00:00",
+      "title": "Software Engineer 2 (Kernel Development)",
+      "url": "https://careers.nutanix.com/en/jobs/32676/software-engineer-2-kernel-development/",
       "location": "San Jose, United States",
       "active": true,
       "excluded": true
