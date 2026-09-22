@@ -11,11 +11,11 @@
     },
     "18c1c10e933b": {
       "first_seen_at": "2026-09-17T11:23:03.220090+00:00",
-      "last_seen_at": "2026-09-21T21:52:10.674184+00:00",
+      "last_seen_at": "2026-09-22T11:18:20.399026+00:00",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://careers.nutanix.com/en/jobs/32624/software-engineer-intern-summer-2027/",
       "location": "San Jose, United States",
-      "active": false,
+      "active": true,
       "excluded": true
     }
   }

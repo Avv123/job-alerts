@@ -6,24 +6,24 @@
       "title": "Staff Software Developer, Services",
       "url": "https://slice.careers/careers-listing?gh_jid=7547313",
       "location": "Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7547312": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-22T04:16:38.872201+00:00",
+      "last_seen_at": "2026-09-22T11:18:20.399026+00:00",
       "title": "Staff Software Developer, Services",
       "url": "https://slice.careers/careers-listing?gh_jid=7547312",
-      "location": "United Kingdom",
+      "location": "Remote- Canada, United Kingdom or North Macedonia",
       "active": true,
       "excluded": true
     },
     "8220120": {
       "first_seen_at": "2026-09-21T21:52:10.674184+00:00",
-      "last_seen_at": "2026-09-22T04:16:38.872201+00:00",
+      "last_seen_at": "2026-09-22T11:18:20.399026+00:00",
       "title": "Software Developer, Deploy & Run",
       "url": "https://slice.careers/careers-listing?gh_jid=8220120",
-      "location": "United Kingdom",
+      "location": "Remote- Canada, UK, or North Macedonia",
       "active": true,
       "excluded": true
     },
@@ -33,7 +33,7 @@
       "title": "Software Developer, Deploy & Run",
       "url": "https://slice.careers/careers-listing?gh_jid=8220121",
       "location": "Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8220122": {
@@ -42,7 +42,7 @@
       "title": "Software Developer, Deploy & Run",
       "url": "https://slice.careers/careers-listing?gh_jid=8220122",
       "location": "Mexico",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
