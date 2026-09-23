@@ -510,7 +510,7 @@
       "title": "Sr Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-it-software-engineer/47263/96350414864",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "63b0f2754644": {
@@ -519,7 +519,7 @@
       "title": "Senior Software Engineer - AI Security",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-software-engineer-ai-security/47263/101004725008",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7641d5c318ac": {
@@ -528,6 +528,15 @@
       "title": "Principal Software Engineer (AI Software Integration - Prisma AIRS))",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-software-integration-prisma-airs/47263/99508000080",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "eee696001b0c": {
+      "first_seen_at": "2026-09-23T11:11:45.814735+00:00",
+      "last_seen_at": "2026-09-23T11:11:45.814735+00:00",
+      "title": "Senior Staff AI Software Engineer (CORA AI)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-ai-software-engineer-cora-ai/47263/96779819968",
+      "location": "Petach Tikva, Israel",
       "active": true,
       "excluded": true
     }
