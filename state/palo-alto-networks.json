@@ -33,7 +33,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -42,7 +42,7 @@
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -303,7 +303,7 @@
       "title": "Senior Staff Software Engineer (Performance Engineering)",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer-performance-engineering/47263/96768474016",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "589d501ddd87": {
