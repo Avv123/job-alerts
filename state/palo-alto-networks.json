@@ -29,20 +29,20 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-23T16:33:43.044108+00:00",
+      "last_seen_at": "2026-09-24T11:27:44.408302+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-23T16:33:43.044108+00:00",
+      "last_seen_at": "2026-09-24T11:27:44.408302+00:00",
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -330,7 +330,7 @@
       "title": "Sr. Staff Software Engineer (AI Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-platform/47263/100674860272",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a21cda393e7a": {
@@ -546,7 +546,7 @@
       "title": "Sr Staff Software Engineer (AI SW Integration - Prisma AIRS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-sw-integration-prisma-airs/47263/99508000064",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "5ba1c01227c8": {
@@ -555,7 +555,7 @@
       "title": "Senior Principal Software Engineer (C++-low level-Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-c-low-level-prisma-browser/47263/101051584160",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f9146968bb97": {
@@ -564,6 +564,15 @@
       "title": "Staff Software Engineer(Cloudops)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer-cloudops/47263/100000531264",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "93d455bb4819": {
+      "first_seen_at": "2026-09-24T11:27:44.408302+00:00",
+      "last_seen_at": "2026-09-24T11:27:44.408302+00:00",
+      "title": "Manager Software Engineering - Data Security (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/manager-software-engineering-data-security-cortex/47263/101070740944",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }
