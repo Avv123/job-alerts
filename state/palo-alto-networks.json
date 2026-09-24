@@ -326,11 +326,11 @@
     },
     "293149270dd8": {
       "first_seen_at": "2026-09-15T21:05:13.674891+00:00",
-      "last_seen_at": "2026-09-15T21:05:13.674891+00:00",
+      "last_seen_at": "2026-09-24T04:08:38.669808+00:00",
       "title": "Sr. Staff Software Engineer (AI Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-platform/47263/100674860272",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "a21cda393e7a": {
@@ -538,6 +538,33 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-ai-software-engineer-cora-ai/47263/96779819968",
       "location": "Petach Tikva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "f6c37414e63e": {
+      "first_seen_at": "2026-09-24T04:08:38.669808+00:00",
+      "last_seen_at": "2026-09-24T04:08:38.669808+00:00",
+      "title": "Sr Staff Software Engineer (AI SW Integration - Prisma AIRS)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-sw-integration-prisma-airs/47263/99508000064",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "5ba1c01227c8": {
+      "first_seen_at": "2026-09-24T04:08:38.669808+00:00",
+      "last_seen_at": "2026-09-24T04:08:38.669808+00:00",
+      "title": "Senior Principal Software Engineer (C++-low level-Prisma Browser)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-c-low-level-prisma-browser/47263/101051584160",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "f9146968bb97": {
+      "first_seen_at": "2026-09-24T04:08:38.669808+00:00",
+      "last_seen_at": "2026-09-24T04:08:38.669808+00:00",
+      "title": "Staff Software Engineer(Cloudops)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer-cloudops/47263/100000531264",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
