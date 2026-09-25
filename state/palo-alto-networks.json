@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-24T11:27:44.408302+00:00",
+      "last_seen_at": "2026-09-25T04:22:04.747295+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -573,7 +573,7 @@
       "title": "Manager Software Engineering - Data Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/manager-software-engineering-data-security-cortex/47263/101070740944",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e6f5aa4a2009": {
@@ -582,6 +582,15 @@
       "title": "Senior Backend Engineer - AppSec ShiftLeft (Cortex Cloud)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-backend-engineer-appsec-shiftleft-cortex-cloud/47263/96174868720",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "97a953ceb0e7": {
+      "first_seen_at": "2026-09-25T04:22:04.747295+00:00",
+      "last_seen_at": "2026-09-25T04:22:04.747295+00:00",
+      "title": "Sr. Principal Software Engineer - Network Security - PanOS Dev",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos-dev/47263/101099071200",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

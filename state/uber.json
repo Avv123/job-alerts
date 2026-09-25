@@ -128,7 +128,7 @@
     },
     "69e5e6a14c53": {
       "first_seen_at": "2026-09-16T21:07:27.293259+00:00",
-      "last_seen_at": "2026-09-24T21:22:06.302857+00:00",
+      "last_seen_at": "2026-09-25T04:22:04.747295+00:00",
       "title": "Sr Software Engineer - Android",
       "url": "https://jobs.uber.com/en/jobs/302636/",
       "location": "",
@@ -215,6 +215,15 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "5fed8a7cce5a": {
+      "first_seen_at": "2026-09-25T04:22:04.747295+00:00",
+      "last_seen_at": "2026-09-25T04:22:04.747295+00:00",
+      "title": "PhD 2026 Graduate Software Engineer II (AV Labs), United States",
+      "url": "https://jobs.uber.com/en/jobs/301355/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
