@@ -56,11 +56,11 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "last_seen_at": "2026-09-25T21:21:27.698381+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302383/",
+      "url": "https://jobs.uber.com/en/jobs/302709/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
@@ -231,7 +231,7 @@
       "title": "Staff Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302596/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
