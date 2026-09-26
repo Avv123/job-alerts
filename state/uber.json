@@ -60,7 +60,7 @@
       "title": "Software Engineer II - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302709/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "07966762a73d": {
@@ -232,6 +232,15 @@
       "url": "https://jobs.uber.com/en/jobs/302596/",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "670fe7972eee": {
+      "first_seen_at": "2026-09-26T04:26:04.640882+00:00",
+      "last_seen_at": "2026-09-26T04:26:04.640882+00:00",
+      "title": "Staff Software Engineer - ML AV Labs",
+      "url": "https://jobs.uber.com/en/jobs/301090/",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }
