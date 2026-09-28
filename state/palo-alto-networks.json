@@ -128,11 +128,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:58:50.850027+00:00",
-      "last_seen_at": "2026-09-22T16:40:22.485439+00:00",
+      "last_seen_at": "2026-09-28T13:27:00.309950+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486912",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99010928960",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -533,7 +533,7 @@
     },
     "eee696001b0c": {
       "first_seen_at": "2026-09-23T11:11:45.814735+00:00",
-      "last_seen_at": "2026-09-28T04:45:50.897512+00:00",
+      "last_seen_at": "2026-09-28T13:27:00.309950+00:00",
       "title": "Senior Staff AI Software Engineer (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-ai-software-engineer-cora-ai/47263/101219583280",
       "location": "Petach Tikva, Israel",
