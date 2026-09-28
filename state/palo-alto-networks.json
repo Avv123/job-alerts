@@ -132,7 +132,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99010928960",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -533,7 +533,7 @@
     },
     "eee696001b0c": {
       "first_seen_at": "2026-09-23T11:11:45.814735+00:00",
-      "last_seen_at": "2026-09-28T13:27:00.309950+00:00",
+      "last_seen_at": "2026-09-28T23:06:15.616383+00:00",
       "title": "Senior Staff AI Software Engineer (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-ai-software-engineer-cora-ai/47263/101219583280",
       "location": "Petach Tikva, Israel",
@@ -592,6 +592,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos-dev/47263/101099071200",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "af0cd43221dd": {
+      "first_seen_at": "2026-09-28T23:06:15.616383+00:00",
+      "last_seen_at": "2026-09-28T23:06:15.616383+00:00",
+      "title": "Senior Staff Software Engineer (Secure Agentic AI)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-software-engineer-secure-agentic-ai/47263/96174882800",
+      "location": "Petach Tikva, Israel",
+      "active": true,
       "excluded": true
     }
   }
