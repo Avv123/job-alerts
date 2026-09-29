@@ -602,6 +602,15 @@
       "location": "Petach Tikva, Israel",
       "active": false,
       "excluded": true
+    },
+    "f255d4aef06d": {
+      "first_seen_at": "2026-09-29T12:30:33.199314+00:00",
+      "last_seen_at": "2026-09-29T12:30:33.199314+00:00",
+      "title": "Senior Software Engineer, Secrets Hub",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secrets-hub/47263/96174880752",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
     }
   }
 }
