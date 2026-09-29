@@ -537,7 +537,7 @@
       "title": "Senior Staff AI Software Engineer (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-ai-software-engineer-cora-ai/47263/101219583280",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f6c37414e63e": {
@@ -600,7 +600,7 @@
       "title": "Senior Staff Software Engineer (Secure Agentic AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-software-engineer-secure-agentic-ai/47263/96174882800",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
