@@ -618,6 +618,15 @@
       "title": "Senior Principal Software Engineer Chief Architect Office - (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-principal-software-engineer-chief-architect-office-idira/47263/101327812576",
       "location": "Petach Tikva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "99aced46468e": {
+      "first_seen_at": "2026-09-30T12:15:30.094993+00:00",
+      "last_seen_at": "2026-09-30T12:15:30.094993+00:00",
+      "title": "Senior Software Engineer, Team SIA",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-team-sia/47263/96174880432",
+      "location": "Sofia, Bulgaria",
       "active": true,
       "excluded": true
     }
