@@ -632,7 +632,7 @@
     },
     "c0f1fc02f413": {
       "first_seen_at": "2026-09-30T22:04:33.597505+00:00",
-      "last_seen_at": "2026-09-30T22:04:33.597505+00:00",
+      "last_seen_at": "2026-10-01T05:12:41.910109+00:00",
       "title": "Principal Software Engineer (Cloud Infrastructure and Platform Engineering)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-infrastructure-and-platform-engineering/47263/101370710720",
       "location": "Santa Clara, California, United States of America",
@@ -645,7 +645,7 @@
       "title": "Mid-level Software Engineer with Go",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/mid-level-software-engineer-with-go/47263/101362696288",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

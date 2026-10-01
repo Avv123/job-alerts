@@ -128,11 +128,11 @@
     },
     "69e5e6a14c53": {
       "first_seen_at": "2026-09-16T21:07:27.293259+00:00",
-      "last_seen_at": "2026-09-25T04:22:04.747295+00:00",
+      "last_seen_at": "2026-10-01T05:12:41.910109+00:00",
       "title": "Sr Software Engineer - Android",
-      "url": "https://jobs.uber.com/en/jobs/302636/",
+      "url": "https://jobs.uber.com/en/jobs/302448/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "9b83d6822345": {
@@ -249,7 +249,7 @@
       "title": "Software Engineer II - Capacity & Efficiency Engineering",
       "url": "https://jobs.uber.com/en/jobs/302988/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "aabdbd0f0abb": {
@@ -258,7 +258,7 @@
       "title": "Sr Software Engineer",
       "url": "https://jobs.uber.com/en/jobs/159127/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
