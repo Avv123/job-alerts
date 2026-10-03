@@ -155,7 +155,7 @@
     },
     "59e33285457a": {
       "first_seen_at": "2026-09-17T04:22:30.751819+00:00",
-      "last_seen_at": "2026-10-03T16:01:21.225167+00:00",
+      "last_seen_at": "2026-10-03T20:51:29.295081+00:00",
       "title": "Sr Software Engineer - Backend- Memberships",
       "url": "https://jobs.uber.com/en/jobs/302447/",
       "location": "",
@@ -268,6 +268,15 @@
       "url": "https://jobs.uber.com/en/jobs/302349/",
       "location": "",
       "active": false,
+      "excluded": false
+    },
+    "aa84865fa553": {
+      "first_seen_at": "2026-10-03T20:51:29.295081+00:00",
+      "last_seen_at": "2026-10-03T20:51:29.295081+00:00",
+      "title": "Software Engineer II - Security Review Automation",
+      "url": "https://jobs.uber.com/en/jobs/302500/",
+      "location": "",
+      "active": true,
       "excluded": false
     }
   }
