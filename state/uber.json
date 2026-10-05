@@ -159,7 +159,7 @@
       "title": "Sr Software Engineer - Backend- Memberships",
       "url": "https://jobs.uber.com/en/jobs/302447/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "d5d81bf027ea": {
@@ -276,7 +276,7 @@
       "title": "Software Engineer II - Security Review Automation",
       "url": "https://jobs.uber.com/en/jobs/302500/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
