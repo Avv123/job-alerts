@@ -663,7 +663,7 @@
       "title": "Experienced Backend Engineer (Cortex Agentix)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/experienced-backend-engineer-cortex-agentix/47263/101526154176",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "bbc749e98d67": {
@@ -673,6 +673,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-secure-agentic-ai/47263/96270267472",
       "location": "Petach Tikva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "a7a858244b69": {
+      "first_seen_at": "2026-10-05T23:55:15.055691+00:00",
+      "last_seen_at": "2026-10-05T23:55:15.055691+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer/47263/101583611008",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "5bfa9f1c7c0f": {
+      "first_seen_at": "2026-10-05T23:55:15.055691+00:00",
+      "last_seen_at": "2026-10-05T23:55:15.055691+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer/47263/101583611008",
+      "location": "Santa Clara, California, United States",
+      "active": true,
       "excluded": true
     }
   }
