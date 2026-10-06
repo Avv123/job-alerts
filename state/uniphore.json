@@ -2,10 +2,19 @@
   "jobs": {
     "/job/India---Bangalore/Senior-Staff-Software-Engineer--SDET-_JR101144-1": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-06T13:07:01.705360+00:00",
+      "last_seen_at": "2026-10-06T22:32:50.195635+00:00",
       "title": "Senior Staff Software Engineer (SDET)",
       "url": "https://uniphore.wd503.myworkdayjobs.com/Uniphore/job/India---Bangalore/Senior-Staff-Software-Engineer--SDET-_JR101144-1",
       "location": "2 Locations",
+      "active": true,
+      "excluded": true
+    },
+    "/job/USA---CA---Palo-Alto/Sr-Software-Engineer_JR101222": {
+      "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "last_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "title": "Sr. Software Engineer",
+      "url": "https://uniphore.wd503.myworkdayjobs.com/Uniphore/job/USA---CA---Palo-Alto/Sr-Software-Engineer_JR101222",
+      "location": "USA - CA - Palo Alto",
       "active": true,
       "excluded": true
     }

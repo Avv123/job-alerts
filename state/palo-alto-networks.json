@@ -692,6 +692,33 @@
       "location": "Santa Clara, California, United States",
       "active": false,
       "excluded": true
+    },
+    "09503f4848f4": {
+      "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "last_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "title": "Senior Principal Software Engineer (AI Posture)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/101627806544",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "30acca001169": {
+      "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "last_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "title": "Principal Software Engineer - Credential Provider",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-credential-provider/47263/101620334192",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
+    },
+    "945abf7c9dc1": {
+      "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "last_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "title": "Senior Software Engineer (Credential Provider)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-credential-provider/47263/101620334144",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
     }
   }
 }
