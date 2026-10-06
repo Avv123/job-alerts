@@ -677,7 +677,7 @@
     },
     "a7a858244b69": {
       "first_seen_at": "2026-10-05T23:55:15.055691+00:00",
-      "last_seen_at": "2026-10-05T23:55:15.055691+00:00",
+      "last_seen_at": "2026-10-06T05:47:58.364921+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer/47263/101583611008",
       "location": "Santa Clara, California, United States of America",
@@ -690,7 +690,7 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer/47263/101583611008",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
