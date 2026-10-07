@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-29T22:05:06.900545+00:00",
+      "last_seen_at": "2026-10-07T05:19:58.078842+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -695,7 +695,7 @@
     },
     "09503f4848f4": {
       "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
-      "last_seen_at": "2026-10-06T22:32:50.195635+00:00",
+      "last_seen_at": "2026-10-07T05:19:58.078842+00:00",
       "title": "Senior Principal Software Engineer (AI Posture)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/101627806544",
       "location": "Santa Clara, California, United States of America",
@@ -708,7 +708,7 @@
       "title": "Principal Software Engineer - Credential Provider",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-credential-provider/47263/101620334192",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "945abf7c9dc1": {
@@ -717,8 +717,17 @@
       "title": "Senior Software Engineer (Credential Provider)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-credential-provider/47263/101620334144",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
+    },
+    "846d19926843": {
+      "first_seen_at": "2026-10-07T05:19:58.078842+00:00",
+      "last_seen_at": "2026-10-07T05:19:58.078842+00:00",
+      "title": "Senior IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/96174866000",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
+      "excluded": false
     }
   }
 }
