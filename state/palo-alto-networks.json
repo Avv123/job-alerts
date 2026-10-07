@@ -29,7 +29,7 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-10-07T05:19:58.078842+00:00",
+      "last_seen_at": "2026-10-07T13:01:48.232863+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
@@ -479,11 +479,11 @@
     },
     "9a987b8a0aac": {
       "first_seen_at": "2026-09-19T15:42:05.496269+00:00",
-      "last_seen_at": "2026-09-20T15:47:58.593154+00:00",
+      "last_seen_at": "2026-10-07T13:01:48.232863+00:00",
       "title": "Principal Software Engineer \u2013 Identity SSO (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-identity-sso-idira/47263/98656006064",
       "location": "Petach Tikva, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "4bc3757864f2": {
@@ -699,7 +699,7 @@
       "title": "Senior Principal Software Engineer (AI Posture)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/101627806544",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "30acca001169": {
@@ -726,7 +726,7 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/96174866000",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
