@@ -278,6 +278,15 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "785a2fcb213f": {
+      "first_seen_at": "2026-10-07T23:01:13.548720+00:00",
+      "last_seen_at": "2026-10-07T23:01:13.548720+00:00",
+      "title": "Sr Software Engineer - Compute",
+      "url": "https://jobs.uber.com/en/jobs/303198/",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
