@@ -56,20 +56,20 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-09-28T23:06:15.616383+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302383/",
+      "url": "https://jobs.uber.com/en/jobs/303177/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-02T12:14:05.513988+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Sr Software Engineer - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302384/",
+      "url": "https://jobs.uber.com/en/jobs/303369/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "0aea82e61402": {
@@ -272,11 +272,11 @@
     },
     "aa84865fa553": {
       "first_seen_at": "2026-10-03T20:51:29.295081+00:00",
-      "last_seen_at": "2026-10-05T05:00:31.528241+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer II - Security Review Automation",
       "url": "https://jobs.uber.com/en/jobs/302500/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "785a2fcb213f": {

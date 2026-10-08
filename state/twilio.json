@@ -2,7 +2,7 @@
   "jobs": {
     "8081530": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Principal Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
       "location": "Remote - US",
@@ -20,7 +20,7 @@
     },
     "8015771": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Senior Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
       "location": "Remote - Ireland",
@@ -29,7 +29,7 @@
     },
     "8065028": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Senior Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
       "location": "Remote - US",
@@ -38,7 +38,7 @@
     },
     "7595407": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Senior Software Engineer, Fraud",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
       "location": "Remote - US",
@@ -78,7 +78,7 @@
       "title": "Software Development Engineer (L3)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
       "location": "Remote - Colombia",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7647708": {
@@ -119,7 +119,7 @@
     },
     "7434770": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer L2 - Cloud Infrastructure ",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7434770",
       "location": "Remote - US",
@@ -164,7 +164,7 @@
     },
     "8026207": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer, Platform Engineering (L2)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
       "location": "Remote - US",
@@ -182,7 +182,7 @@
     },
     "7661919": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer - Video",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
       "location": "Remote - US",
@@ -191,7 +191,7 @@
     },
     "7944328": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
       "location": "Remote - Canada",
@@ -200,7 +200,7 @@
     },
     "8065043": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
       "location": "Remote - US",
@@ -209,7 +209,7 @@
     },
     "8071710": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
       "location": "Remote - Ireland",
@@ -218,7 +218,7 @@
     },
     "7716279": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer (L4)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
       "location": "Remote - Canada",
@@ -227,7 +227,7 @@
     },
     "7782805": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer (L4) Data Platform",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
       "location": "Remote - US",
@@ -308,7 +308,7 @@
     },
     "8240288": {
       "first_seen_at": "2026-09-29T22:05:06.900545+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer (L4)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
       "location": "Remote - Ireland",
@@ -317,7 +317,7 @@
     },
     "8099162": {
       "first_seen_at": "2026-10-02T12:14:05.513988+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Senior Software Engineer (L3)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
       "location": "Remote - Canada; Remote - US",
@@ -335,7 +335,7 @@
     },
     "8079801": {
       "first_seen_at": "2026-10-06T05:47:58.364921+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer L3",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8079801",
       "location": "Remote - India",
@@ -344,7 +344,7 @@
     },
     "8236865": {
       "first_seen_at": "2026-10-06T05:47:58.364921+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Staff Software Engineer (L4)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
       "location": "Remote - India",
@@ -353,7 +353,7 @@
     },
     "8026211": {
       "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
-      "last_seen_at": "2026-10-08T13:09:11.596985+00:00",
+      "last_seen_at": "2026-10-08T23:09:16.361954+00:00",
       "title": "Software Engineer, Platform Access (L2)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
       "location": "Remote - US",
