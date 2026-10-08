@@ -33,7 +33,7 @@
       "title": "Software Development Engineer in Test",
       "url": "https://jobs.smartrecruiters.com/swiggy/6000000001465549",
       "location": "Bengaluru, KA",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "6000000001469588": {
@@ -42,7 +42,7 @@
       "title": "Software Development Engineer I",
       "url": "https://jobs.smartrecruiters.com/swiggy/6000000001469588",
       "location": "Bangalore",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
