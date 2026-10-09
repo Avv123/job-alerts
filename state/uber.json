@@ -227,11 +227,11 @@
     },
     "28a80c6a9507": {
       "first_seen_at": "2026-09-25T11:33:11.849372+00:00",
-      "last_seen_at": "2026-10-08T05:29:08.246830+00:00",
+      "last_seen_at": "2026-10-09T22:28:41.823110+00:00",
       "title": "Staff Software Engineer - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/303171/",
+      "url": "https://jobs.uber.com/en/jobs/302689/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "670fe7972eee": {
@@ -287,6 +287,24 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "f8354a266632": {
+      "first_seen_at": "2026-10-09T22:28:41.823110+00:00",
+      "last_seen_at": "2026-10-09T22:28:41.823110+00:00",
+      "title": "Staff Software Engineer - Android",
+      "url": "https://jobs.uber.com/en/jobs/303487/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "c4f5c2f1ea6b": {
+      "first_seen_at": "2026-10-09T22:28:41.823110+00:00",
+      "last_seen_at": "2026-10-09T22:28:41.823110+00:00",
+      "title": "Software Engineer II, Data Infrastructure - AV Labs",
+      "url": "https://jobs.uber.com/en/jobs/302991/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
