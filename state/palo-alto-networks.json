@@ -758,7 +758,7 @@
     },
     "e36463ecea04": {
       "first_seen_at": "2026-10-09T22:28:41.823110+00:00",
-      "last_seen_at": "2026-10-09T22:28:41.823110+00:00",
+      "last_seen_at": "2026-10-10T05:16:44.252097+00:00",
       "title": "Senior Principal Software Engineer (AI Posture))",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/97757360016",
       "location": "Santa Clara, California, United States of America",
@@ -771,7 +771,7 @@
       "title": "Senior Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-staff-it-software-engineer/47263/96174865792",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
