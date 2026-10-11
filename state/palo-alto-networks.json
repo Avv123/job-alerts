@@ -773,6 +773,15 @@
       "location": "Bangalore, Karn\u0101taka, India",
       "active": false,
       "excluded": true
+    },
+    "69f125fd027c": {
+      "first_seen_at": "2026-10-11T21:42:27.692951+00:00",
+      "last_seen_at": "2026-10-11T21:42:27.692951+00:00",
+      "title": "Senior Staff Software Engineer (Secrets Manager SAAS)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-software-engineer-secrets-manager-saas/47263/99799498064",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
     }
   }
 }
