@@ -44,6 +44,15 @@
       "location": "Bangalore",
       "active": false,
       "excluded": false
+    },
+    "6000000001479809": {
+      "first_seen_at": "2026-10-12T14:59:24.537168+00:00",
+      "last_seen_at": "2026-10-12T14:59:24.537168+00:00",
+      "title": "Associate Software Development Engineer",
+      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001479809",
+      "location": "Bangalore",
+      "active": true,
+      "excluded": false
     }
   }
 }

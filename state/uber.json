@@ -56,11 +56,11 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-09T05:32:48.870433+00:00",
+      "last_seen_at": "2026-10-12T14:59:24.537168+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/303177/",
+      "url": "https://jobs.uber.com/en/jobs/303371/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
@@ -69,7 +69,7 @@
       "title": "Sr Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302275/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0aea82e61402": {
@@ -132,7 +132,7 @@
       "title": "Sr Software Engineer - Android",
       "url": "https://jobs.uber.com/en/jobs/302636/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "9b83d6822345": {
@@ -204,7 +204,7 @@
       "title": "Software Engineer II - Android",
       "url": "https://jobs.uber.com/en/jobs/302639/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a44a69df98c0": {
@@ -312,7 +312,7 @@
       "title": "Sr Software Engineer, Merchant Intel 2",
       "url": "https://jobs.uber.com/en/jobs/156038/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0316b87789e8": {
@@ -321,7 +321,7 @@
       "title": "Software Engineer II - Remote Assistance",
       "url": "https://jobs.uber.com/en/jobs/302640/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
