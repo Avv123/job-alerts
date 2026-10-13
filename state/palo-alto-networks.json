@@ -780,7 +780,7 @@
       "title": "Senior Staff Software Engineer (Secrets Manager SAAS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-software-engineer-secrets-manager-saas/47263/99799498064",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8c3a8f584c0e": {
@@ -789,7 +789,7 @@
       "title": "Principal Software Engineer - Secure AI Agent",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agent/47263/101854600288",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

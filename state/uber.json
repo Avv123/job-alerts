@@ -60,7 +60,7 @@
       "title": "Software Engineer II - Engineer",
       "url": "https://jobs.uber.com/en/jobs/303371/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "07966762a73d": {
@@ -263,11 +263,11 @@
     },
     "b28ea42dfb05": {
       "first_seen_at": "2026-10-01T22:34:01.441913+00:00",
-      "last_seen_at": "2026-10-02T12:14:05.513988+00:00",
+      "last_seen_at": "2026-10-13T00:25:48.716183+00:00",
       "title": "Software Engineer II - Risk & Compliance",
       "url": "https://jobs.uber.com/en/jobs/302349/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "aa84865fa553": {
@@ -323,6 +323,33 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "8bc24d076c1e": {
+      "first_seen_at": "2026-10-13T00:25:48.716183+00:00",
+      "last_seen_at": "2026-10-13T00:25:48.716183+00:00",
+      "title": "Software Engineer II - Compute",
+      "url": "https://jobs.uber.com/en/jobs/303284/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "f7aa9a25e6a5": {
+      "first_seen_at": "2026-10-13T00:25:48.716183+00:00",
+      "last_seen_at": "2026-10-13T00:25:48.716183+00:00",
+      "title": "Staff Software Engineer - Search Platform",
+      "url": "https://jobs.uber.com/en/jobs/303327/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "89c4f9374bcb": {
+      "first_seen_at": "2026-10-13T00:25:48.716183+00:00",
+      "last_seen_at": "2026-10-13T00:25:48.716183+00:00",
+      "title": "Staff Software Engineer \u2013 Android Build Infrastructure",
+      "url": "https://jobs.uber.com/en/jobs/303487/",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
