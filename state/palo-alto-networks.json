@@ -798,7 +798,7 @@
       "title": "Sr/Principal Software Engineer (AI transformation - QA)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-software-engineer-ai-transformation-qa/47263/101022371888",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "062431d5ea65": {
@@ -807,6 +807,15 @@
       "title": "Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/96174865792",
       "location": "Bangalore, Karn\u0101taka, India",
+      "active": false,
+      "excluded": true
+    },
+    "98daba38842a": {
+      "first_seen_at": "2026-10-13T22:28:33.444904+00:00",
+      "last_seen_at": "2026-10-13T22:28:33.444904+00:00",
+      "title": "Senior Staff Software Engineer (L7 Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-l7-security/47263/91238619968",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }
