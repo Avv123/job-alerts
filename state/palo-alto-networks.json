@@ -791,6 +791,24 @@
       "location": "Sofia, Bulgaria",
       "active": false,
       "excluded": true
+    },
+    "665661849d6d": {
+      "first_seen_at": "2026-10-13T13:55:21.789291+00:00",
+      "last_seen_at": "2026-10-13T13:55:21.789291+00:00",
+      "title": "Sr/Principal Software Engineer (AI transformation - QA)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-software-engineer-ai-transformation-qa/47263/101022371888",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "062431d5ea65": {
+      "first_seen_at": "2026-10-13T13:55:21.789291+00:00",
+      "last_seen_at": "2026-10-13T13:55:21.789291+00:00",
+      "title": "Staff IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/96174865792",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
+      "excluded": true
     }
   }
 }
