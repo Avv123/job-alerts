@@ -128,7 +128,7 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:58:50.850027+00:00",
-      "last_seen_at": "2026-10-14T11:32:35.369367+00:00",
+      "last_seen_at": "2026-10-14T16:54:58.642291+00:00",
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/96768474080",
       "location": "500081, India",
@@ -447,7 +447,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "26f1a6041006": {
@@ -546,7 +546,7 @@
       "title": "Sr Staff Software Engineer (AI SW Integration - Prisma AIRS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-sw-integration-prisma-airs/47263/99508000064",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "5ba1c01227c8": {
@@ -817,6 +817,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-l7-security/47263/91238619968",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "a6e1f607ae43": {
+      "first_seen_at": "2026-10-14T16:54:58.642291+00:00",
+      "last_seen_at": "2026-10-14T16:54:58.642291+00:00",
+      "title": "Software Engineer \u2013 Graduate Program (Bootcamp)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineer-graduate-program-bootcamp/47263/101948148512",
+      "location": "Petach Tikva, Israel",
+      "active": true,
       "excluded": true
     }
   }
