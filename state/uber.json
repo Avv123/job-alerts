@@ -65,11 +65,11 @@
     },
     "07966762a73d": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-12T05:21:35.835233+00:00",
+      "last_seen_at": "2026-10-14T21:28:31.663575+00:00",
       "title": "Sr Software Engineer - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302275/",
+      "url": "https://jobs.uber.com/en/jobs/302684/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "0aea82e61402": {
@@ -349,6 +349,24 @@
       "url": "https://jobs.uber.com/en/jobs/303487/",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "8e41f9d08009": {
+      "first_seen_at": "2026-10-14T21:28:31.663575+00:00",
+      "last_seen_at": "2026-10-14T21:28:31.663575+00:00",
+      "title": "Sr Software Engineer - Location & Sensors",
+      "url": "https://jobs.uber.com/en/jobs/302686/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "8ad647997859": {
+      "first_seen_at": "2026-10-14T21:28:31.663575+00:00",
+      "last_seen_at": "2026-10-14T21:28:31.663575+00:00",
+      "title": "Sr Software Engineer -Geocore",
+      "url": "https://jobs.uber.com/en/jobs/303599/",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

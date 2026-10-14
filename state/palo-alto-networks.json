@@ -132,7 +132,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/96768474080",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -825,7 +825,7 @@
       "title": "Software Engineer \u2013 Graduate Program (Bootcamp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineer-graduate-program-bootcamp/47263/101948148512",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
