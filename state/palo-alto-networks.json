@@ -447,7 +447,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "26f1a6041006": {
@@ -826,6 +826,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineer-graduate-program-bootcamp/47263/101948148512",
       "location": "Petach Tikva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "bf711482fa3d": {
+      "first_seen_at": "2026-10-15T21:09:43.169890+00:00",
+      "last_seen_at": "2026-10-15T21:09:43.169890+00:00",
+      "title": "Principal Software Engineer (Cloud Platform and AI Engineering)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-platform-and-ai-engineering/47263/101999774512",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "f4f71d50c478": {
+      "first_seen_at": "2026-10-15T21:09:43.169890+00:00",
+      "last_seen_at": "2026-10-15T21:09:43.169890+00:00",
+      "title": "Principal Software Engineer (SaaS Agent Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-saas-agent-security/47263/101999774160",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
