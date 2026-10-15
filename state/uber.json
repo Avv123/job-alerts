@@ -386,6 +386,15 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "be66bbd63f0b": {
+      "first_seen_at": "2026-10-15T16:41:45.622638+00:00",
+      "last_seen_at": "2026-10-15T16:41:45.622638+00:00",
+      "title": "Senior Software Engineer - Storage Platform",
+      "url": "https://jobs.uber.com/en/jobs/303326/",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
