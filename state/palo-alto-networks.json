@@ -834,7 +834,7 @@
       "title": "Principal Software Engineer (Cloud Platform and AI Engineering)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-platform-and-ai-engineering/47263/101999774512",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f4f71d50c478": {
@@ -843,6 +843,33 @@
       "title": "Principal Software Engineer (SaaS Agent Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-saas-agent-security/47263/101999774160",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "aeb57cdbdaf4": {
+      "first_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "last_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "title": "Principal Software Engineer (AI Posture))",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/97757360016",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "37ca769cdc29": {
+      "first_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "last_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "title": "Principal Software Engineer - SIA (Idira)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-sia-idira/47263/102007123872",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "dd6378a4907d": {
+      "first_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "last_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "title": "Principal Software Engineer (AI Posture))",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/97757360016",
+      "location": "Santa Clara, California, United States",
       "active": true,
       "excluded": true
     }
