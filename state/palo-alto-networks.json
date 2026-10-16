@@ -173,11 +173,11 @@
     },
     "8438588603fd": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-12T05:21:35.835233+00:00",
+      "last_seen_at": "2026-10-16T11:05:15.795775+00:00",
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "7e003701d216": {
@@ -848,7 +848,7 @@
     },
     "aeb57cdbdaf4": {
       "first_seen_at": "2026-10-16T04:00:07.996416+00:00",
-      "last_seen_at": "2026-10-16T04:00:07.996416+00:00",
+      "last_seen_at": "2026-10-16T11:05:15.795775+00:00",
       "title": "Principal Software Engineer (AI Posture))",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/97757360016",
       "location": "Santa Clara, California, United States of America",
@@ -861,7 +861,7 @@
       "title": "Principal Software Engineer - SIA (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-sia-idira/47263/102007123872",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "dd6378a4907d": {
@@ -870,7 +870,7 @@
       "title": "Principal Software Engineer (AI Posture))",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/97757360016",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
