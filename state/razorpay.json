@@ -35,6 +35,15 @@
       "location": "Bengaluru",
       "active": false,
       "excluded": true
+    },
+    "4743544005": {
+      "first_seen_at": "2026-10-17T15:18:42.568597+00:00",
+      "last_seen_at": "2026-10-17T15:18:42.568597+00:00",
+      "title": "Lead Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4743544005",
+      "location": "Bengaluru",
+      "active": true,
+      "excluded": true
     }
   }
 }
