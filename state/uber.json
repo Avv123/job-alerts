@@ -119,11 +119,11 @@
     },
     "da81ea674611": {
       "first_seen_at": "2026-09-16T21:07:27.293259+00:00",
-      "last_seen_at": "2026-09-17T04:22:30.751819+00:00",
+      "last_seen_at": "2026-10-17T03:50:38.833046+00:00",
       "title": "Sr Software Engineer - Eater Real Time Pricing",
       "url": "https://jobs.uber.com/en/jobs/302443/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "69e5e6a14c53": {
@@ -159,7 +159,7 @@
       "title": "Sr Software Engineer - Backend- Memberships",
       "url": "https://jobs.uber.com/en/jobs/302447/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "d5d81bf027ea": {

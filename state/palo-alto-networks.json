@@ -465,7 +465,7 @@
       "title": "Senior Staff Software Engineer \u2014 Layer 7 Security",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c8af0128f18c": {
@@ -816,7 +816,7 @@
       "title": "Senior Staff Software Engineer (L7 Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-l7-security/47263/91238619968",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a6e1f607ae43": {
@@ -875,7 +875,7 @@
     },
     "825f5e956a5b": {
       "first_seen_at": "2026-10-16T20:47:10.675654+00:00",
-      "last_seen_at": "2026-10-16T20:47:10.675654+00:00",
+      "last_seen_at": "2026-10-17T03:50:38.833046+00:00",
       "title": "Principal Software Engineer (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-access/47263/96789120496",
       "location": "Santa Clara, California, United States of America",
@@ -888,7 +888,7 @@
       "title": "Senior Principal Software Engineer (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-prisma-access/47263/96174873280",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
