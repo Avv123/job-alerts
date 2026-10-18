@@ -890,6 +890,42 @@
       "location": "Santa Clara, California, United States of America",
       "active": false,
       "excluded": true
+    },
+    "ceb7bc5ec850": {
+      "first_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "last_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "687c546fcee1": {
+      "first_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "last_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "title": "Senior Software Engineer - Data Pipelines (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "f54c89e52a58": {
+      "first_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "last_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
+      "location": "Tel Aviv, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "c488786032c4": {
+      "first_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "last_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "title": "Senior Software Engineer - Data Pipelines (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
+      "location": "Tel Aviv, Israel",
+      "active": true,
+      "excluded": true
     }
   }
 }
