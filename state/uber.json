@@ -123,7 +123,7 @@
       "title": "Sr Software Engineer - Eater Real Time Pricing",
       "url": "https://jobs.uber.com/en/jobs/302443/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "69e5e6a14c53": {
@@ -411,7 +411,7 @@
       "title": "Software Engineer II - Frontend",
       "url": "https://jobs.uber.com/en/jobs/153338/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
