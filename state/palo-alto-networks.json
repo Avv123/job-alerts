@@ -803,11 +803,11 @@
     },
     "062431d5ea65": {
       "first_seen_at": "2026-10-13T13:55:21.789291+00:00",
-      "last_seen_at": "2026-10-13T13:55:21.789291+00:00",
+      "last_seen_at": "2026-10-19T04:06:11.282430+00:00",
       "title": "Staff IT Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/96174865792",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/102133647648",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "98daba38842a": {
@@ -893,7 +893,7 @@
     },
     "ceb7bc5ec850": {
       "first_seen_at": "2026-10-18T20:23:20.581510+00:00",
-      "last_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "last_seen_at": "2026-10-19T04:06:11.282430+00:00",
       "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
       "location": "Tel Aviv-Yafo, Israel",
@@ -902,7 +902,7 @@
     },
     "687c546fcee1": {
       "first_seen_at": "2026-10-18T20:23:20.581510+00:00",
-      "last_seen_at": "2026-10-18T20:23:20.581510+00:00",
+      "last_seen_at": "2026-10-19T04:06:11.282430+00:00",
       "title": "Senior Software Engineer - Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
       "location": "Tel Aviv-Yafo, Israel",
@@ -915,7 +915,7 @@
       "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c488786032c4": {
@@ -924,7 +924,7 @@
       "title": "Senior Software Engineer - Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
