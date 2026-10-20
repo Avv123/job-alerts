@@ -38,11 +38,11 @@
     },
     "ef9177288a93": {
       "first_seen_at": "2026-09-08T16:23:30.341811+00:00",
-      "last_seen_at": "2026-09-09T20:46:18.043858+00:00",
+      "last_seen_at": "2026-10-20T21:26:19.581292+00:00",
       "title": "Sr Software Engineer, Frontend (Web)",
       "url": "https://jobs.uber.com/en/jobs/153378/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "47f1d1ca76fe": {
@@ -65,11 +65,11 @@
     },
     "07966762a73d": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-15T04:03:38.548668+00:00",
+      "last_seen_at": "2026-10-20T21:26:19.581292+00:00",
       "title": "Sr Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302684/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "0aea82e61402": {
@@ -412,6 +412,15 @@
       "url": "https://jobs.uber.com/en/jobs/153338/",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "14f498a828ab": {
+      "first_seen_at": "2026-10-20T21:26:19.581292+00:00",
+      "last_seen_at": "2026-10-20T21:26:19.581292+00:00",
+      "title": "Staff Software Engineer - Autonomous Verification Platform",
+      "url": "https://jobs.uber.com/en/jobs/303431/",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }
