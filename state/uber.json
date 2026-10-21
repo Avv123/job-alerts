@@ -42,16 +42,16 @@
       "title": "Sr Software Engineer, Frontend (Web)",
       "url": "https://jobs.uber.com/en/jobs/153378/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "47f1d1ca76fe": {
       "first_seen_at": "2026-09-09T11:03:27.803261+00:00",
-      "last_seen_at": "2026-09-09T11:03:27.803261+00:00",
+      "last_seen_at": "2026-10-21T04:07:51.705571+00:00",
       "title": "Sr Staff Software Engineer",
-      "url": "https://jobs.uber.com/en/jobs/147313/",
+      "url": "https://jobs.uber.com/en/jobs/302457/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "e66b2ada0506": {
@@ -69,7 +69,7 @@
       "title": "Sr Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302684/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0aea82e61402": {
@@ -420,8 +420,26 @@
       "title": "Staff Software Engineer - Autonomous Verification Platform",
       "url": "https://jobs.uber.com/en/jobs/303431/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
+    },
+    "fc04da586544": {
+      "first_seen_at": "2026-10-21T04:07:51.705571+00:00",
+      "last_seen_at": "2026-10-21T04:07:51.705571+00:00",
+      "title": "2027 Software Engineering Intern, US",
+      "url": "https://jobs.uber.com/en/jobs/303922/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "e3c3fbb8414b": {
+      "first_seen_at": "2026-10-21T04:07:51.705571+00:00",
+      "last_seen_at": "2026-10-21T04:07:51.705571+00:00",
+      "title": "Software Engineer II",
+      "url": "https://jobs.uber.com/en/jobs/302534/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
