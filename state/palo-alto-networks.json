@@ -1023,7 +1023,7 @@
       "title": "Senior Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer/47263/102211903280",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "de400ecba977": {
@@ -1032,6 +1032,15 @@
       "title": "Principal Software Engineer - Secure AI Agent (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agent-hybrid/47263/102211903248",
       "location": "Sofia, Bulgaria",
+      "active": false,
+      "excluded": true
+    },
+    "31a40dd636a1": {
+      "first_seen_at": "2026-10-21T11:29:54.715426+00:00",
+      "last_seen_at": "2026-10-21T11:29:54.715426+00:00",
+      "title": "Principal/Senior Software Engineer (CIEM)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-software-engineer-ciem/47263/102236193728",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }
