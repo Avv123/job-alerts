@@ -1041,7 +1041,7 @@
       "title": "Principal/Senior Software Engineer (CIEM)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-software-engineer-ciem/47263/102236193728",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b3babbafeae8": {
@@ -1050,7 +1050,7 @@
       "title": "Manager, Software Engineering - AI Observability (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
       "location": "Victoria, Victoria, Australia",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

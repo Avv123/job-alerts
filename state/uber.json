@@ -440,6 +440,42 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "1d85baeba5bd": {
+      "first_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "last_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "title": "Staff Software Engineer, Core Services ProdEng",
+      "url": "https://jobs.uber.com/en/jobs/303886/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "1314fe89b6ba": {
+      "first_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "last_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "title": "Software Engineer, Agentic",
+      "url": "https://jobs.uber.com/en/jobs/303493/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "7bcce2366828": {
+      "first_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "last_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "title": "Software Engineer II (Backend) - Fares Platform",
+      "url": "https://jobs.uber.com/en/jobs/303472/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "9e9954a0f3bc": {
+      "first_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "last_seen_at": "2026-10-21T21:27:42.584995+00:00",
+      "title": "Sr Software Engineer - ML platform",
+      "url": "https://jobs.uber.com/en/jobs/303489/",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
