@@ -71,6 +71,15 @@
       "location": "Bengaluru, KA",
       "active": false,
       "excluded": true
+    },
+    "6000000001514589": {
+      "first_seen_at": "2026-10-22T11:30:20.140339+00:00",
+      "last_seen_at": "2026-10-22T11:30:20.140339+00:00",
+      "title": "Sr. Software Development Engineer in Test ",
+      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001514589",
+      "location": "Bengaluru, KA",
+      "active": true,
+      "excluded": true
     }
   }
 }
