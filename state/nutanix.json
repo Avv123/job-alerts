@@ -87,6 +87,15 @@
       "title": "Software Development Engineer in Test (2-4 years of experience)",
       "url": "https://careers.nutanix.com/en/jobs/32879/software-development-engineer-in-test-2-4-years-of-experience/",
       "location": "Belgrade, Serbia",
+      "active": false,
+      "excluded": true
+    },
+    "a7a8aef26b71": {
+      "first_seen_at": "2026-10-22T16:56:35.723539+00:00",
+      "last_seen_at": "2026-10-22T16:56:35.723539+00:00",
+      "title": "Software Developer Co-Op",
+      "url": "https://careers.nutanix.com/en/jobs/32928/software-developer-co-op/",
+      "location": "Vancouver, Canada",
       "active": true,
       "excluded": true
     }
