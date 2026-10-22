@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-10-20T16:38:40.470638+00:00",
+      "last_seen_at": "2026-10-22T21:32:29.228956+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -132,7 +132,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -1051,6 +1051,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
       "location": "Victoria, Victoria, Australia",
       "active": false,
+      "excluded": true
+    },
+    "e37b9f382fd2": {
+      "first_seen_at": "2026-10-22T21:32:29.228956+00:00",
+      "last_seen_at": "2026-10-22T21:32:29.228956+00:00",
+      "title": "Principal Software Engineer (Prisma AIRS Data Platform Backend)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-airs-data-platform-backend/47263/102303934160",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
