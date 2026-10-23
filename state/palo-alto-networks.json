@@ -722,7 +722,7 @@
     },
     "846d19926843": {
       "first_seen_at": "2026-10-07T05:19:58.078842+00:00",
-      "last_seen_at": "2026-10-23T11:19:53.350316+00:00",
+      "last_seen_at": "2026-10-23T16:48:40.904935+00:00",
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
@@ -1059,17 +1059,26 @@
       "title": "Principal Software Engineer (Prisma AIRS Data Platform Backend)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-airs-data-platform-backend/47263/102303934160",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0aef57d98d19": {
       "first_seen_at": "2026-10-23T11:19:53.350316+00:00",
-      "last_seen_at": "2026-10-23T11:19:53.350316+00:00",
+      "last_seen_at": "2026-10-23T16:48:40.904935+00:00",
       "title": "IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/it-software-engineer/47263/102321720368",
       "location": "Bangalore, Karn\u0101taka, India",
       "active": true,
       "excluded": false
+    },
+    "a7c4cbb7691d": {
+      "first_seen_at": "2026-10-23T16:48:40.904935+00:00",
+      "last_seen_at": "2026-10-23T16:48:40.904935+00:00",
+      "title": "Senior Software Engineer, Team SIA (Hybrid)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-team-sia-hybrid/47263/102331828512",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
     }
   }
 }
