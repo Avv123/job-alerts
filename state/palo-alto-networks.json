@@ -542,11 +542,11 @@
     },
     "f6c37414e63e": {
       "first_seen_at": "2026-09-24T04:08:38.669808+00:00",
-      "last_seen_at": "2026-10-14T11:32:35.369367+00:00",
+      "last_seen_at": "2026-10-23T21:24:11.453362+00:00",
       "title": "Sr Staff Software Engineer (AI SW Integration - Prisma AIRS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-sw-integration-prisma-airs/47263/99508000064",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "5ba1c01227c8": {
@@ -726,7 +726,7 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "f105e409d9c3": {
@@ -1068,7 +1068,7 @@
       "title": "IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/it-software-engineer/47263/102321720368",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a7c4cbb7691d": {
@@ -1077,6 +1077,15 @@
       "title": "Senior Software Engineer, Team SIA (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-team-sia-hybrid/47263/102331828512",
       "location": "Sofia, Bulgaria",
+      "active": false,
+      "excluded": true
+    },
+    "871788da30a0": {
+      "first_seen_at": "2026-10-23T21:24:11.453362+00:00",
+      "last_seen_at": "2026-10-23T21:24:11.453362+00:00",
+      "title": "Director, Software Engineer (Prisma Access)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/director-software-engineer-prisma-access/47263/102340816960",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }
