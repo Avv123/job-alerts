@@ -425,11 +425,11 @@
     },
     "5c031b027045": {
       "first_seen_at": "2026-09-17T21:09:55.993785+00:00",
-      "last_seen_at": "2026-09-17T21:09:55.993785+00:00",
+      "last_seen_at": "2026-10-25T15:51:52.657598+00:00",
       "title": "Senior Principal Backend Engineer (CORTEX - Autonomous SOC)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-cortex-autonomous-soc/47263/100386335648",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-cortex-autonomous-soc/47263/101706652512",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "2df5a96dffeb": {
@@ -1095,6 +1095,15 @@
       "title": "Sr Principal Software Engineer (Cloud Applications - Data Path)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-cloud-applications-data-path/47263/98153267216",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "66e4bf216a08": {
+      "first_seen_at": "2026-10-25T15:51:52.657598+00:00",
+      "last_seen_at": "2026-10-25T15:51:52.657598+00:00",
+      "title": "Senior/Principal Software Engineer (AI transformation - QA)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-software-engineer-ai-transformation-qa/47263/101022371888",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }
