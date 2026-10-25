@@ -177,7 +177,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7e003701d216": {
@@ -1086,12 +1086,12 @@
       "title": "Director, Software Engineer (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/director-software-engineer-prisma-access/47263/102340816960",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9858e07ebb2e": {
       "first_seen_at": "2026-10-24T04:03:49.878659+00:00",
-      "last_seen_at": "2026-10-25T04:05:26.501638+00:00",
+      "last_seen_at": "2026-10-25T11:03:07.628533+00:00",
       "title": "Sr Principal Software Engineer (Cloud Applications - Data Path)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-cloud-applications-data-path/47263/98153267216",
       "location": "Santa Clara, California, United States of America",
