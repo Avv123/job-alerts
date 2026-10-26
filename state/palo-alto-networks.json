@@ -429,7 +429,7 @@
       "title": "Senior Principal Backend Engineer (CORTEX - Autonomous SOC)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-cortex-autonomous-soc/47263/101706652512",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2df5a96dffeb": {
@@ -1104,6 +1104,42 @@
       "title": "Senior/Principal Software Engineer (AI transformation - QA)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-software-engineer-ai-transformation-qa/47263/101022371888",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "69e640adb61e": {
+      "first_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "last_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/pune/senior-staff-software-engineer/47263/102455361952",
+      "location": "Pune, Mah\u0101r\u0101shtra, India",
+      "active": true,
+      "excluded": true
+    },
+    "aa2a93e782fc": {
+      "first_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "last_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/pune/staff-software-engineer/47263/102455361312",
+      "location": "Pune, Mah\u0101r\u0101shtra, India",
+      "active": true,
+      "excluded": true
+    },
+    "de4b3b885e9e": {
+      "first_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "last_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "title": "Staff Software Engineer (Secrets Manager SAAS)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/staff-software-engineer-secrets-manager-saas/47263/99799498048",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "3a46d3346636": {
+      "first_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "last_seen_at": "2026-10-26T12:48:32.463049+00:00",
+      "title": "Senior Staff Software Engineer (Secure Agentic AI - Be'er Sheva)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/senior-staff-software-engineer-secure-agentic-ai-be-er-sheva/47263/102455346960",
+      "location": "Be'er Sheva, Israel",
       "active": true,
       "excluded": true
     }
