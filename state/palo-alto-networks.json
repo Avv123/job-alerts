@@ -605,11 +605,11 @@
     },
     "f255d4aef06d": {
       "first_seen_at": "2026-09-29T12:30:33.199314+00:00",
-      "last_seen_at": "2026-09-29T12:30:33.199314+00:00",
+      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
       "title": "Senior Software Engineer, Secrets Hub",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secrets-hub/47263/96174880752",
       "location": "Sofia, Bulgaria",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "a78f0fca81a5": {
@@ -1141,6 +1141,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/senior-staff-software-engineer-secure-agentic-ai-be-er-sheva/47263/102455346960",
       "location": "Be'er Sheva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "59ff439ad4c9": {
+      "first_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "title": "Principal Software Engineer, Device Security & Containers (NGFW) - NetSec",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-software-engineer-device-security-and-containers-ngfw-netsec/47263/102508099568",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
+      "excluded": true
+    },
+    "cb67436e677c": {
+      "first_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "title": "Sr. Staff Software Engineer, Device Firmware & Platform (NGFW) - NetSec",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-device-firmware-and-platform-ngfw-netsec/47263/102508099552",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
       "excluded": true
     }
   }
