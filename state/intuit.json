@@ -2,7 +2,7 @@
   "jobs": {
     "9baf7784118f": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.intuit.com/job/mountain-view/principal-software-engineer/27595/100353619072",
       "location": "Mountain View, California",
@@ -20,18 +20,18 @@
     },
     "6060ef078e08": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/101589379936",
+      "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/99174451072",
       "location": "Mountain View, California",
       "active": true,
       "excluded": true
     },
     "be7e555af645": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/101589379936",
+      "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/99174451072",
       "location": "Bangalore, India",
       "active": true,
       "excluded": true
@@ -47,9 +47,9 @@
     },
     "835cadcfd51e": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/101589379936",
+      "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/99174451072",
       "location": "New York, New York",
       "active": true,
       "excluded": true
@@ -137,11 +137,11 @@
     },
     "510239166730": {
       "first_seen_at": "2026-09-16T21:07:27.293259+00:00",
-      "last_seen_at": "2026-10-22T16:56:35.723539+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://jobs.intuit.com/job/mountain-view/senior-software-engineer/27595/102016440192",
+      "url": "https://jobs.intuit.com/job/mountain-view/senior-software-engineer/27595/102509693936",
       "location": "Mountain View, California",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "536900d92ca0": {
@@ -209,7 +209,7 @@
     },
     "4a2d18503f7c": {
       "first_seen_at": "2026-10-06T22:32:50.195635+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer 2",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-2/27595/102253948768",
       "location": "Mountain View, California",
@@ -227,7 +227,7 @@
     },
     "81ad0f72248f": {
       "first_seen_at": "2026-10-10T05:16:44.252097+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Director, Software Engineering",
       "url": "https://jobs.intuit.com/job/mountain-view/director-software-engineering/27595/101762082176",
       "location": "Mountain View, California",
@@ -240,7 +240,7 @@
       "title": "Senior software engineer",
       "url": "https://jobs.intuit.com/job/mountain-view/senior-software-engineer/27595/102509693936",
       "location": "Bangalore, India",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

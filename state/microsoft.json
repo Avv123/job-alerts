@@ -29,7 +29,7 @@
     },
     "49de440b101d": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II and/or Senior Software Engineer - AI Compilers",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942068",
       "location": "",
@@ -47,7 +47,7 @@
     },
     "fcceefb03986": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022605",
       "location": "United States, Washington, Redmond",
@@ -65,7 +65,7 @@
     },
     "178fa83126fc": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II and/or Senior Software Engineer - Backend",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556952551",
       "location": "United States, Washington, Redmond",
@@ -101,11 +101,11 @@
     },
     "4f7bc931f7f0": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556929361",
       "location": "United States, Washington, Redmond",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "7e1f573520f8": {
@@ -119,20 +119,20 @@
     },
     "2df5a96dffeb": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556929361",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "398344d2ca3a": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556929361",
       "location": "United States, Washington, Redmond + 1 more",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "5e8e619e10ce": {
@@ -191,7 +191,7 @@
     },
     "57e5b15f1c25": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022605",
       "location": "",
@@ -209,7 +209,7 @@
     },
     "92e5f020cb94": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II and/or Senior Software Engineer - Backend",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556952551",
       "location": "",
@@ -263,11 +263,11 @@
     },
     "720fa2947c77": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037551",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026448",
       "location": "United States, Washington, Redmond",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "643dbd2c8ef0": {
@@ -290,11 +290,11 @@
     },
     "e3c3fbb8414b": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037551",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026448",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "7725f11a928a": {
@@ -317,7 +317,7 @@
     },
     "2c71ed6191b1": {
       "first_seen_at": "2026-09-05T10:19:52.728528+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Forward Deployed Engineer - Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556945429",
       "location": "Japan, Tokyo-to, Tokyo",
@@ -339,7 +339,7 @@
       "title": "Software Engineer II and/or Senior Software Engineer - AI Compilers",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942068",
       "location": "United States, Multiple Locations, Multiple Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "37a52f76815e": {
@@ -348,7 +348,7 @@
       "title": "Senior and/or Principal Software Engineer - AI Frameworks Networking, Systems and Tools",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556950907",
       "location": "United States, Multiple Locations, Multiple Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "05361aa00826": {
@@ -366,7 +366,7 @@
       "title": "Senior and/or Principal Software Engineer - Performance",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556945456",
       "location": "United States, Multiple Locations, Multiple Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "218fed67cc58": {
@@ -375,7 +375,7 @@
       "title": "Senior Software Engineer - Responsible AI - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860172",
       "location": "United States, California, Mountain View + 1 more",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8b567a19c977": {
@@ -384,7 +384,7 @@
       "title": "Software Engineer II, Foundry Agents - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227",
       "location": "United States, Washington, Redmond + 2 more",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b5f253e287f6": {
@@ -398,7 +398,7 @@
     },
     "6e57efa45a13": {
       "first_seen_at": "2026-09-05T10:19:52.728528+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Forward Deployed Engineer - Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556945429",
       "location": "",
@@ -420,7 +420,7 @@
       "title": "Senior and/or Principal Software Engineer - AI Frameworks Networking, Systems and Tools",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556950907",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "66ad2a229e61": {
@@ -438,7 +438,7 @@
       "title": "Senior and/or Principal Software Engineer - Performance",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556945456",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f6671781983f": {
@@ -447,7 +447,7 @@
       "title": "Senior Software Engineer - Responsible AI - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860172",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "29933ed6c2b2": {
@@ -456,7 +456,7 @@
       "title": "Software Engineer II, Foundry Agents - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "5d4eafa6dd0c": {
@@ -533,7 +533,7 @@
     },
     "127079900392": {
       "first_seen_at": "2026-09-06T03:57:19.189369+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer - Network Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855901",
       "location": "United States, Washington, Redmond",
@@ -542,7 +542,7 @@
     },
     "d351b3ee2a20": {
       "first_seen_at": "2026-09-06T03:57:19.189369+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer - Network Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855901",
       "location": "",
@@ -569,11 +569,11 @@
     },
     "0ca41d1b9058": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Sr. Software Engineer -CTJ- Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556947844",
       "location": "United States, Virginia, Reston + 1 more",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "ef9dd4bfe614": {
@@ -614,20 +614,20 @@
     },
     "720d84087824": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Sr. Software Engineer -CTJ- Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556947844",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "3b15d5a26b44": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Sr. Software Engineer - CTJ - Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022379",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "f6dc8b025883": {
@@ -641,7 +641,7 @@
     },
     "cab028f46eef": {
       "first_seen_at": "2026-09-08T16:23:30.341811+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Full Stack Software Engineer II and Senior Software Engineer- Microsoft Security - Multiple roles",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556990414",
       "location": "Israel, Multiple Locations, Multiple Locations",
@@ -695,7 +695,7 @@
     },
     "309cfbb5f2a9": {
       "first_seen_at": "2026-09-08T16:23:30.341811+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Full Stack Software Engineer II and Senior Software Engineer- Microsoft Security - Multiple roles",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556990414",
       "location": "",
@@ -875,7 +875,7 @@
     },
     "05d1cead9815": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556992027",
       "location": "United States, Washington, Redmond",
@@ -884,7 +884,7 @@
     },
     "735564b9b2c9": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556992027",
       "location": "",
@@ -1095,7 +1095,7 @@
       "title": "Software Engineering II and Senior Software Engineer (CoreAI - Post Training)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556994428",
       "location": "United States, Washington, Redmond + 1 more",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "ff7274cea5b0": {
@@ -1104,7 +1104,7 @@
       "title": "Software Engineering II and Senior Software Engineer (CoreAI - Post Training)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556994428",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "efff579bfbde": {
@@ -1316,11 +1316,11 @@
     },
     "e420441fc01c": {
       "first_seen_at": "2026-09-19T04:03:36.434094+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II - CTJ- POLY",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557000103",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "681bae33eaec": {
@@ -1491,7 +1491,7 @@
       "title": "Senior and/or Principal Software Engineer- AI Frameworks",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556999275",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9ccdebba4a9d": {
@@ -1658,11 +1658,11 @@
     },
     "da3718fc256b": {
       "first_seen_at": "2026-10-03T04:44:49.052895+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Sr. Software Engineer - CTJ - Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022379",
       "location": "United States, Virginia, Reston + 1 more",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "37f58a338735": {
@@ -1721,11 +1721,11 @@
     },
     "927c730a60ce": {
       "first_seen_at": "2026-10-05T23:55:15.055691+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Software Engineer II - CTJ- POLY",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557000103",
       "location": "United States, Washington, Redmond",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "3499eaeae04f": {
@@ -1950,7 +1950,7 @@
       "title": "Senior and/or Principal Software Engineer - AI Infrastructure",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038998",
       "location": "United States, Washington, Redmond + 1 more",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "362d1f1b13c1": {
@@ -1959,7 +1959,7 @@
       "title": "Senior and/or Principal Software Engineer - AI Infrastructure",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038998",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a9860f0a7262": {
@@ -2036,25 +2036,25 @@
     },
     "3774c205cb06": {
       "first_seen_at": "2026-10-18T10:43:53.105781+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer, Full Stack",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556988958",
       "location": "United States, Washington, Redmond",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "69dffb930dcb": {
       "first_seen_at": "2026-10-18T10:43:53.105781+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer, Full Stack",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556988958",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "e7308196752d": {
       "first_seen_at": "2026-10-18T15:40:06.190798+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer and Principal Software Engineer - Microsoft Security - Multiple roles",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042099",
       "location": "Israel, Tel Aviv, Herzliya",
@@ -2063,7 +2063,7 @@
     },
     "5ed93342dee0": {
       "first_seen_at": "2026-10-18T15:40:06.190798+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineer and Principal Software Engineer - Microsoft Security - Multiple roles",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042099",
       "location": "",
@@ -2126,20 +2126,20 @@
     },
     "1f7c08c8f746": {
       "first_seen_at": "2026-10-21T11:29:54.715426+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Sr. Software Engineer- CTJ- Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557037801",
       "location": "United States, Virginia, Reston + 2 more",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "830eb37de8d1": {
       "first_seen_at": "2026-10-21T11:29:54.715426+00:00",
-      "last_seen_at": "2026-10-26T22:30:09.529837+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Sr. Software Engineer- CTJ- Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557037801",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "6eb50388a8c1": {
@@ -2162,7 +2162,7 @@
     },
     "b714079dda15": {
       "first_seen_at": "2026-10-22T21:32:29.228956+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Software Engineer - Pro-Code Server Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557026772",
       "location": "United States, California, Mountain View",
@@ -2171,7 +2171,7 @@
     },
     "99f2afa573f7": {
       "first_seen_at": "2026-10-22T21:32:29.228956+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Principal Software Engineer - Pro-Code Server Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557026772",
       "location": "",
@@ -2180,7 +2180,7 @@
     },
     "21b9c3c154c7": {
       "first_seen_at": "2026-10-23T11:19:53.350316+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineers + Software Engineer IIs",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953612",
       "location": "United States, Washington, Redmond",
@@ -2189,7 +2189,7 @@
     },
     "c9653a5cc29e": {
       "first_seen_at": "2026-10-23T11:19:53.350316+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
       "title": "Senior Software Engineers + Software Engineer IIs",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953612",
       "location": "",
@@ -2229,7 +2229,7 @@
       "title": "Senior Software Engineer, AI Infra Management and Ops",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557026655",
       "location": "United States, Multiple Locations, Multiple Locations",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "5787126b59ed": {
@@ -2247,7 +2247,7 @@
       "title": "Senior Software Engineer, AI Infra Management and Ops",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557026655",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }
