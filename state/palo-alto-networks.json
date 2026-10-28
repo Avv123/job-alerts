@@ -1167,7 +1167,7 @@
       "title": "Principal Software Engineer (Cloud NGFW)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-ngfw/47263/91053594240",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "09139690ec2d": {
@@ -1176,7 +1176,7 @@
       "title": "Senior AI Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-ai-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
