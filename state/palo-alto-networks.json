@@ -965,7 +965,7 @@
     },
     "0541f92a4950": {
       "first_seen_at": "2026-10-19T22:11:20.851829+00:00",
-      "last_seen_at": "2026-10-27T21:59:56.464909+00:00",
+      "last_seen_at": "2026-10-28T05:00:02.214260+00:00",
       "title": "Senior Principal Software Engineer (Foundational Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
       "location": "San Jose, California, United States of America",
@@ -1159,6 +1159,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-device-firmware-and-platform-ngfw-netsec/47263/102508099552",
       "location": "Bangalore, Karn\u0101taka, India",
       "active": false,
+      "excluded": true
+    },
+    "2711ede80775": {
+      "first_seen_at": "2026-10-28T05:00:02.214260+00:00",
+      "last_seen_at": "2026-10-28T05:00:02.214260+00:00",
+      "title": "Principal Software Engineer (Cloud NGFW)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-ngfw/47263/91053594240",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
