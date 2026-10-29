@@ -875,11 +875,11 @@
     },
     "825f5e956a5b": {
       "first_seen_at": "2026-10-16T20:47:10.675654+00:00",
-      "last_seen_at": "2026-10-17T03:50:38.833046+00:00",
+      "last_seen_at": "2026-10-29T05:12:37.281454+00:00",
       "title": "Principal Software Engineer (Prisma Access)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-access/47263/96789120496",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-access/47263/102572386816",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "88cd960a4096": {
@@ -1177,6 +1177,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-ai-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
       "active": false,
+      "excluded": true
+    },
+    "dc04c9afaefa": {
+      "first_seen_at": "2026-10-29T05:12:37.281454+00:00",
+      "last_seen_at": "2026-10-29T05:12:37.281454+00:00",
+      "title": "Principal Software Engineer (L7 Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-l7-security/47263/91238619968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
