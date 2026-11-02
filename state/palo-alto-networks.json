@@ -56,7 +56,7 @@
     },
     "65800402585d": {
       "first_seen_at": "2026-09-06T10:39:26.572295+00:00",
-      "last_seen_at": "2026-11-02T05:24:17.115801+00:00",
+      "last_seen_at": "2026-11-02T15:18:12.442273+00:00",
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
@@ -128,11 +128,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:58:50.850027+00:00",
-      "last_seen_at": "2026-10-22T16:56:35.723539+00:00",
+      "last_seen_at": "2026-11-02T15:18:12.442273+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99021605040",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -1213,6 +1213,33 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/102646039600",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "06279dcd4f8d": {
+      "first_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "last_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "title": "Principal/ Senior Principal Software Engineer | Cortex Detection team",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/96174872896",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "98f7ca01a34b": {
+      "first_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "last_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "title": "Principal Software Engineer - Secrets Manager Integration Team (Hybrid)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secrets-manager-integration-team-hybrid/47263/102756252144",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
+    },
+    "2a6a95dc7dfd": {
+      "first_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "last_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "title": "Director Software Engineering - Secure Cloud Access (Idira- Be'er Sheva)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/director-software-engineering-secure-cloud-access-idira-be-er-sheva/47263/102593998688",
+      "location": "Be'er Sheva, Israel",
+      "active": true,
       "excluded": true
     }
   }
