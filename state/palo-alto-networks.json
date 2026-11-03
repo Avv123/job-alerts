@@ -60,7 +60,7 @@
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b1666385f0bf": {
@@ -132,7 +132,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99021605040",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -1221,7 +1221,7 @@
       "title": "Principal/ Senior Principal Software Engineer | Cortex Detection team",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/96174872896",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "98f7ca01a34b": {
@@ -1230,7 +1230,7 @@
       "title": "Principal Software Engineer - Secrets Manager Integration Team (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secrets-manager-integration-team-hybrid/47263/102756252144",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2a6a95dc7dfd": {
@@ -1239,6 +1239,24 @@
       "title": "Director Software Engineering - Secure Cloud Access (Idira- Be'er Sheva)",
       "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/director-software-engineering-secure-cloud-access-idira-be-er-sheva/47263/102593998688",
       "location": "Be'er Sheva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "efe73c9d6018": {
+      "first_seen_at": "2026-11-03T00:48:01.681853+00:00",
+      "last_seen_at": "2026-11-03T00:48:01.681853+00:00",
+      "title": "Sr. Staff Software Engineer (L7 Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-l7-security/47263/91238619968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "aa9fc7d8fa3c": {
+      "first_seen_at": "2026-11-03T00:48:01.681853+00:00",
+      "last_seen_at": "2026-11-03T00:48:01.681853+00:00",
+      "title": "Principal Software Engineer (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/99771556016",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }
