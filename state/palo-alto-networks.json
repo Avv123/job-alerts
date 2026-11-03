@@ -1244,7 +1244,7 @@
     },
     "efe73c9d6018": {
       "first_seen_at": "2026-11-03T00:48:01.681853+00:00",
-      "last_seen_at": "2026-11-03T00:48:01.681853+00:00",
+      "last_seen_at": "2026-11-03T13:55:13.556022+00:00",
       "title": "Sr. Staff Software Engineer (L7 Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-l7-security/47263/91238619968",
       "location": "Santa Clara, California, United States of America",
@@ -1257,7 +1257,7 @@
       "title": "Principal Software Engineer (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/99771556016",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
