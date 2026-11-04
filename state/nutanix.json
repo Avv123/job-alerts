@@ -105,12 +105,12 @@
       "title": "Software Engineer 4 - Kubernetes AI Platform Engineering",
       "url": "https://careers.nutanix.com/en/jobs/32958/software-engineer-4-kubernetes-ai-platform-engineering/",
       "location": "Vancouver, Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "6ac690cef4df": {
       "first_seen_at": "2026-10-29T22:37:36.939332+00:00",
-      "last_seen_at": "2026-11-04T14:06:55.711550+00:00",
+      "last_seen_at": "2026-11-04T23:27:46.921733+00:00",
       "title": "Software Engineer 2 - Kubernetes Backend and Platform Engineering",
       "url": "https://careers.nutanix.com/en/jobs/32959/software-engineer-2-kubernetes-backend-and-platform-engineering/",
       "location": "Vancouver, Canada",
@@ -119,7 +119,7 @@
     },
     "fbd03c1bb097": {
       "first_seen_at": "2026-11-04T14:06:55.711550+00:00",
-      "last_seen_at": "2026-11-04T14:06:55.711550+00:00",
+      "last_seen_at": "2026-11-04T23:27:46.921733+00:00",
       "title": "Software Engineering Intern ( Summer 2027)",
       "url": "https://careers.nutanix.com/en/jobs/32980/software-engineering-intern-summer-2027/",
       "location": "Cambridge, United Kingdom",
