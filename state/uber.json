@@ -546,8 +546,17 @@
       "title": "Staff Software Engineer \u2013 Service Mesh & Networking",
       "url": "https://jobs.uber.com/en/jobs/304160/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
+    },
+    "d0d21732b4d2": {
+      "first_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "last_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "title": "Software Engineer II- Android",
+      "url": "https://jobs.uber.com/en/jobs/303371/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

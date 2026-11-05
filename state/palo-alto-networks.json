@@ -1266,7 +1266,7 @@
       "title": "Senior Principal Software Engineer \u2013 GlobalProtect (Windows & macOS Internals)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-globalprotect-windows-and-macos-internals/47263/102868585664",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8c8be1cca10c": {
@@ -1275,6 +1275,15 @@
       "title": "Sr IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "c1694ab9ca1e": {
+      "first_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "last_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "title": "Senior/Principal C++ Software Engineer (Prisma Browser)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-c-software-engineer-prisma-browser/47263/100248143792",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }
