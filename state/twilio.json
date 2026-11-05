@@ -20,7 +20,7 @@
     },
     "8015771": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "last_seen_at": "2026-11-05T23:29:20.909047+00:00",
       "title": "Senior Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
       "location": "Remote - Ireland",
@@ -105,7 +105,7 @@
       "title": "Software Engineer (L2)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8100236",
       "location": "Remote - US",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7689461": {
@@ -168,7 +168,7 @@
       "title": "Software Engineer, Platform Engineering (L2)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
       "location": "Remote - US",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8026203": {
@@ -186,7 +186,7 @@
       "title": "Software Engineer - Video",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
       "location": "Remote - US",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7944328": {
@@ -227,7 +227,7 @@
     },
     "7782805": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "last_seen_at": "2026-11-05T23:29:20.909047+00:00",
       "title": "Staff Software Engineer (L4) Data Platform",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
       "location": "Remote - US",
@@ -294,7 +294,7 @@
       "title": "Software Engineer L2-Messaging API",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
       "location": "Remote - US",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8240276": {
@@ -357,7 +357,7 @@
       "title": "Software Engineer, Platform Access (L2)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
       "location": "Remote - US",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8267554": {
@@ -371,7 +371,7 @@
     },
     "8067027": {
       "first_seen_at": "2026-10-13T00:25:48.716183+00:00",
-      "last_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "last_seen_at": "2026-11-05T23:29:20.909047+00:00",
       "title": "Staff Mobile Software Engineer (P4)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
       "location": "Remote - US",
@@ -416,10 +416,19 @@
     },
     "8026199": {
       "first_seen_at": "2026-11-03T23:04:15.963157+00:00",
-      "last_seen_at": "2026-11-05T14:30:41.513130+00:00",
+      "last_seen_at": "2026-11-05T23:29:20.909047+00:00",
       "title": "Software Engineer (L3) Email",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026199",
       "location": "Remote - US",
+      "active": true,
+      "excluded": true
+    },
+    "8356548": {
+      "first_seen_at": "2026-11-05T23:29:20.909047+00:00",
+      "last_seen_at": "2026-11-05T23:29:20.909047+00:00",
+      "title": "Staff Software Engineer, Mobile (P4)",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8356548",
+      "location": "Remote - Canada",
       "active": true,
       "excluded": true
     }
