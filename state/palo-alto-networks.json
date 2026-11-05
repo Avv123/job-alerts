@@ -456,7 +456,7 @@
       "title": "Senior Principal Software Engineer, Tools & Platforms (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-tools-and-platforms-cortex/47263/102860773920",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3740b8229f14": {
@@ -1262,9 +1262,18 @@
     },
     "d2f67ed8f136": {
       "first_seen_at": "2026-11-04T23:27:46.921733+00:00",
-      "last_seen_at": "2026-11-04T23:27:46.921733+00:00",
+      "last_seen_at": "2026-11-05T05:59:51.481464+00:00",
       "title": "Senior Principal Software Engineer \u2013 GlobalProtect (Windows & macOS Internals)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-globalprotect-windows-and-macos-internals/47263/102868585664",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "8c8be1cca10c": {
+      "first_seen_at": "2026-11-05T05:59:51.481464+00:00",
+      "last_seen_at": "2026-11-05T05:59:51.481464+00:00",
+      "title": "Sr IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
       "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
