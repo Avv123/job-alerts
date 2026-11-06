@@ -56,11 +56,11 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-10-26T04:09:32.109462+00:00",
+      "last_seen_at": "2026-11-06T05:56:58.501474+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/301982/",
+      "url": "https://jobs.uber.com/en/jobs/304446/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
@@ -557,6 +557,24 @@
       "location": "",
       "active": false,
       "excluded": false
+    },
+    "2ec93ec5521b": {
+      "first_seen_at": "2026-11-06T05:56:58.501474+00:00",
+      "last_seen_at": "2026-11-06T05:56:58.501474+00:00",
+      "title": "Software Engineer II, iOS- Maps Mobile Platform",
+      "url": "https://jobs.uber.com/en/jobs/303601/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "809a97abd734": {
+      "first_seen_at": "2026-11-06T05:56:58.501474+00:00",
+      "last_seen_at": "2026-11-06T05:56:58.501474+00:00",
+      "title": "Sr Software Engineer - Streaming Data Platform",
+      "url": "https://jobs.uber.com/en/jobs/304231/",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }
