@@ -60,7 +60,7 @@
       "title": "Software Engineer II - Engineer",
       "url": "https://jobs.uber.com/en/jobs/304446/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "07966762a73d": {
@@ -564,7 +564,7 @@
       "title": "Software Engineer II, iOS- Maps Mobile Platform",
       "url": "https://jobs.uber.com/en/jobs/303601/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "809a97abd734": {
@@ -573,7 +573,7 @@
       "title": "Sr Software Engineer - Streaming Data Platform",
       "url": "https://jobs.uber.com/en/jobs/304231/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
