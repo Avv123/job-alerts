@@ -582,7 +582,7 @@
       "title": "Sr Software Engineer - Mobile and Edge Networking",
       "url": "https://jobs.uber.com/en/jobs/304520/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "85e5082f0fd6": {
@@ -600,7 +600,7 @@
       "title": "Sr Software Engineer - Core Build",
       "url": "https://jobs.uber.com/en/jobs/304060/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
