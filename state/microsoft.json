@@ -29,7 +29,7 @@
     },
     "49de440b101d": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II and/or Senior Software Engineer - AI Compilers",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942068",
       "location": "",
@@ -47,7 +47,7 @@
     },
     "fcceefb03986": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022605",
       "location": "United States, Washington, Redmond",
@@ -56,16 +56,16 @@
     },
     "d22473aec17e": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-22T21:32:29.228956+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Senior Software Engineer/ Principal Software Engineer - Copilot CLI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872425",
       "location": "United States, Washington, Redmond",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "178fa83126fc": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II and/or Senior Software Engineer - Backend",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556952551",
       "location": "United States, Washington, Redmond",
@@ -191,7 +191,7 @@
     },
     "57e5b15f1c25": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022605",
       "location": "",
@@ -200,16 +200,16 @@
     },
     "c5766a2075d1": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-22T21:32:29.228956+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Senior Software Engineer/ Principal Software Engineer - Copilot CLI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872425",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "92e5f020cb94": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II and/or Senior Software Engineer - Backend",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556952551",
       "location": "",
@@ -483,7 +483,7 @@
       "title": "Senior Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556928312",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "1de9abc5163e": {
@@ -515,9 +515,9 @@
     },
     "a44a69df98c0": {
       "first_seen_at": "2026-09-05T20:09:51.985443+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928312",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038849",
       "location": "",
       "active": true,
       "excluded": false
@@ -537,7 +537,7 @@
       "title": "Senior Software Engineer - Network Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855901",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d351b3ee2a20": {
@@ -546,7 +546,7 @@
       "title": "Senior Software Engineer - Network Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855901",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "231b65fdd51e": {
@@ -875,7 +875,7 @@
     },
     "05d1cead9815": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556992027",
       "location": "United States, Washington, Redmond",
@@ -884,7 +884,7 @@
     },
     "735564b9b2c9": {
       "first_seen_at": "2026-09-10T04:03:21.870442+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II/Sr. Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556992027",
       "location": "",
@@ -1113,7 +1113,7 @@
       "title": "Principal Software Engineer, M365 Enterprise Search Platform",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556980984",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b9f8346e9a05": {
@@ -1122,7 +1122,7 @@
       "title": "Principal Software Engineer, M365 Enterprise Search Platform",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556980984",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "90eed52b6577": {
@@ -1433,7 +1433,7 @@
     },
     "cb02086c94a7": {
       "first_seen_at": "2026-09-22T16:40:22.485439+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II and Senior Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556981927",
       "location": "United States, Washington, Redmond + 1 more",
@@ -1442,7 +1442,7 @@
     },
     "d4a65ce6d69f": {
       "first_seen_at": "2026-09-22T16:40:22.485439+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II and Senior Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556981927",
       "location": "",
@@ -1793,11 +1793,11 @@
     },
     "70c55b9ccf66": {
       "first_seen_at": "2026-10-11T05:07:35.139892+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Senior Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038849",
       "location": "Czech Republic, Multiple Locations, Multiple Locations",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "23992f552c39": {
@@ -1820,20 +1820,20 @@
     },
     "4b514c508ed4": {
       "first_seen_at": "2026-10-11T05:07:35.139892+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Senior Software Engineer, Billing GitHub",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557026434",
       "location": "Czech Republic, Multiple Locations, Multiple Locations",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "0e1e4a657e97": {
       "first_seen_at": "2026-10-11T05:07:35.139892+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Compiler Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556629151",
       "location": "Czech Republic, Multiple Locations, Multiple Locations",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "18b1a293ebd0": {
@@ -1874,20 +1874,20 @@
     },
     "642c6aa74605": {
       "first_seen_at": "2026-10-11T05:07:35.139892+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Senior Software Engineer, Billing GitHub",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557026434",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "6ceb8bac23d0": {
       "first_seen_at": "2026-10-11T05:07:35.139892+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Compiler Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556629151",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "1bf227bb65a8": {
@@ -1928,20 +1928,20 @@
     },
     "dfba2ad42469": {
       "first_seen_at": "2026-10-14T11:32:35.369367+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557027226",
       "location": "Czech Republic, Prague, Prague",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9dd52d81e79c": {
       "first_seen_at": "2026-10-14T11:32:35.369367+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "software engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557027226",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "fca8fe3d3d7a": {
@@ -2279,7 +2279,7 @@
     },
     "b9f4838e75f7": {
       "first_seen_at": "2026-11-03T13:55:13.556022+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer & Senior Software Engineer - Visual Studio",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053169",
       "location": "Czech Republic, Prague, Prague",
@@ -2288,7 +2288,7 @@
     },
     "695f18c0e735": {
       "first_seen_at": "2026-11-03T13:55:13.556022+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer & Senior Software Engineer - Visual Studio",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053169",
       "location": "",
@@ -2297,43 +2297,43 @@
     },
     "5fc401dea6b3": {
       "first_seen_at": "2026-11-03T23:04:15.963157+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Principal Software Engineer - GitHub Actions",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556994481",
       "location": "Czech Republic, Multiple Locations, Multiple Locations",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "252e5bb68111": {
       "first_seen_at": "2026-11-03T23:04:15.963157+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer - GitHub Copilot API",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040786",
       "location": "Czech Republic, Multiple Locations, Multiple Locations",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "5deb78a9fd34": {
       "first_seen_at": "2026-11-03T23:04:15.963157+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Principal Software Engineer - GitHub Actions",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556994481",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "fb27d8c3dc7f": {
       "first_seen_at": "2026-11-03T23:04:15.963157+00:00",
-      "last_seen_at": "2026-11-07T21:39:04.474181+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer - GitHub Copilot API",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040786",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "83b1177ba13f": {
       "first_seen_at": "2026-11-04T23:27:46.921733+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II & Senior Software Engineer - CoreAI Speech Team",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557047355",
       "location": "United States, Washington, Redmond",
@@ -2351,7 +2351,7 @@
     },
     "076eab52be37": {
       "first_seen_at": "2026-11-04T23:27:46.921733+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II & Senior Software Engineer - CoreAI Speech Team",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557047355",
       "location": "",
@@ -2369,7 +2369,7 @@
     },
     "813febdcd115": {
       "first_seen_at": "2026-11-05T05:59:51.481464+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II(s) + Senior Software Engineer(s)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053367",
       "location": "United States, Washington, Redmond",
@@ -2378,7 +2378,7 @@
     },
     "bf4e69f7ce32": {
       "first_seen_at": "2026-11-05T05:59:51.481464+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Principal Software Engineer(s) + Senior Software Engineer(s)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053368",
       "location": "United States, Washington, Redmond",
@@ -2387,7 +2387,7 @@
     },
     "1e915069c891": {
       "first_seen_at": "2026-11-05T05:59:51.481464+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Software Engineer II(s) + Senior Software Engineer(s)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053367",
       "location": "",
@@ -2396,7 +2396,7 @@
     },
     "ed49e5789c8e": {
       "first_seen_at": "2026-11-05T05:59:51.481464+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
       "title": "Principal Software Engineer(s) + Senior Software Engineer(s)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053368",
       "location": "",
@@ -2445,7 +2445,7 @@
       "title": "Principal Software Engineer, ML & Distributed Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556952147",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2b122a416d02": {
@@ -2454,7 +2454,7 @@
       "title": "Principal Software Engineer, Perception Platform and AI Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022469",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "ecc56d1f3517": {
@@ -2499,7 +2499,7 @@
       "title": "Principal Software Engineer, ML & Distributed Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556952147",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "17b16b1e2302": {
@@ -2508,7 +2508,7 @@
       "title": "Principal Software Engineer, Perception Platform and AI Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022469",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7c71e3001729": {
@@ -2535,7 +2535,7 @@
       "title": "Senior Software Engineering, Ads Platform",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942087",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0180b3c25448": {
@@ -2544,7 +2544,7 @@
       "title": "Principal Software Engineering Manager",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557008746",
       "location": "United States, Washington, Redmond",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "371ad7337013": {
@@ -2553,7 +2553,7 @@
       "title": "Senior Software Engineering, Ads Platform",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942087",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "45fba1388cb4": {
@@ -2562,8 +2562,26 @@
       "title": "Principal Software Engineering Manager",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557008746",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "3f58208dec52": {
+      "first_seen_at": "2026-11-10T01:22:07.344547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
+      "title": "Software Engineering - DevDiv Core AI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556633312",
+      "location": "Czech Republic, Multiple Locations, Multiple Locations",
       "active": true,
       "excluded": true
+    },
+    "f164bd64e259": {
+      "first_seen_at": "2026-11-10T01:22:07.344547+00:00",
+      "last_seen_at": "2026-11-10T01:22:07.344547+00:00",
+      "title": "Software Engineering - DevDiv Core AI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556633312",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
