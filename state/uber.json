@@ -60,7 +60,7 @@
       "title": "Software Engineer II - Engineer",
       "url": "https://jobs.uber.com/en/jobs/304685/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "07966762a73d": {
@@ -492,7 +492,7 @@
       "title": "Software Engineer II, Merchant Intel 5",
       "url": "https://jobs.uber.com/en/jobs/156028/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "c5b25db9e1f7": {
@@ -609,7 +609,7 @@
       "title": "Sr Software Engineer - Matching Platform",
       "url": "https://jobs.uber.com/en/jobs/304216/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3549fbe29410": {
@@ -618,7 +618,7 @@
       "title": "Sr. Software Engineer, Agentic",
       "url": "https://jobs.uber.com/en/jobs/304055/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "86f261b22388": {
@@ -627,7 +627,7 @@
       "title": "Staff Software Engineer, Agentic",
       "url": "https://jobs.uber.com/en/jobs/304059/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
