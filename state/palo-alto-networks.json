@@ -1190,11 +1190,11 @@
     },
     "d8a79140fb26": {
       "first_seen_at": "2026-10-29T12:40:10.807533+00:00",
-      "last_seen_at": "2026-10-29T12:40:10.807533+00:00",
+      "last_seen_at": "2026-11-12T23:24:20.467511+00:00",
       "title": "Manager, AI Software Engineering (CORA AI)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/96174880720",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/103216427824",
       "location": "Petach Tikva, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "253eb79d9548": {
@@ -1329,7 +1329,7 @@
       "title": "Senior Software Engineer - Threat Detection & Response - Idira",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-threat-detection-and-response-idira/47263/96174880608",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
