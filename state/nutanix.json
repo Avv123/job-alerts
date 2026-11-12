@@ -132,7 +132,7 @@
       "title": "Software Engineer 2 \u2013 AHV / Linux Kernel",
       "url": "https://careers.nutanix.com/en/jobs/33021/software-engineer-2-ahv-linux-kernel/",
       "location": "San Jose, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "93d5bb4f5a2b": {
@@ -141,7 +141,7 @@
       "title": "Software Engineer on Hybrid Cloud DataStore (2+ years of experience)",
       "url": "https://careers.nutanix.com/en/jobs/33020/software-engineer-on-hybrid-cloud-datastore-2plus-years-of-experience/",
       "location": "Belgrade, Serbia",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
