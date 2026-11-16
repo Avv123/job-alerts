@@ -1190,11 +1190,11 @@
     },
     "d8a79140fb26": {
       "first_seen_at": "2026-10-29T12:40:10.807533+00:00",
-      "last_seen_at": "2026-11-13T05:58:26.602793+00:00",
+      "last_seen_at": "2026-11-16T15:21:34.093484+00:00",
       "title": "Manager, AI Software Engineering (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/103216427824",
       "location": "Petach Tikva, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "253eb79d9548": {
@@ -1217,11 +1217,11 @@
     },
     "06279dcd4f8d": {
       "first_seen_at": "2026-11-02T15:18:12.442273+00:00",
-      "last_seen_at": "2026-11-02T15:18:12.442273+00:00",
+      "last_seen_at": "2026-11-16T15:21:34.093484+00:00",
       "title": "Principal/ Senior Principal Software Engineer | Cortex Detection team",
-      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/96174872896",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/103381104592",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "98f7ca01a34b": {
@@ -1338,12 +1338,12 @@
       "title": "Senior Software Engineer \u2013 Cloud Migration Tooling (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-cloud-migration-tooling-idira/47263/103338620336",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3c9fa10e494b": {
       "first_seen_at": "2026-11-15T22:39:54.980688+00:00",
-      "last_seen_at": "2026-11-16T05:47:00.923862+00:00",
+      "last_seen_at": "2026-11-16T15:21:34.093484+00:00",
       "title": "Senior Software Engineer - Identity Security (ITDR)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-identity-security-itdr/47263/103338619632",
       "location": "Tel Aviv-Yafo, Israel",
@@ -1356,7 +1356,7 @@
       "title": "Principal Software Engineer \u2013 Cloud & Distributed Systems (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-cloud-and-distributed-systems-idira/47263/102007123872",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b3f268f64c2b": {
@@ -1365,6 +1365,15 @@
       "title": "Senior Software Engineer \u2013 Cloud Migration Tooling (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-cloud-migration-tooling-idira/47263/103338620336",
       "location": "Petah Tikva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "1102cb8c3c57": {
+      "first_seen_at": "2026-11-16T15:21:34.093484+00:00",
+      "last_seen_at": "2026-11-16T15:21:34.093484+00:00",
+      "title": "Principal Software Engineer - Platform (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-software-engineer-platform-cortex/47263/103381122784",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }
