@@ -29,11 +29,11 @@
     },
     "5395062008": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-11-13T05:58:26.602793+00:00",
+      "last_seen_at": "2026-11-17T15:45:28.309851+00:00",
       "title": "Manager, Software Engineering",
       "url": "https://job-boards.greenhouse.io/newrelic/jobs/5395062008",
       "location": "Bangalore, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "5324847008": {
@@ -101,7 +101,7 @@
     },
     "5368437008": {
       "first_seen_at": "2026-09-02T10:59:33.803203+00:00",
-      "last_seen_at": "2026-11-17T01:46:31.209026+00:00",
+      "last_seen_at": "2026-11-17T15:45:28.309851+00:00",
       "title": "Software Engineer Manager (Database Observability)",
       "url": "https://job-boards.greenhouse.io/newrelic/jobs/5368437008",
       "location": "Hyderabad, India",
@@ -182,7 +182,7 @@
     },
     "5431024008": {
       "first_seen_at": "2026-09-23T16:33:43.044108+00:00",
-      "last_seen_at": "2026-11-17T01:46:31.209026+00:00",
+      "last_seen_at": "2026-11-17T15:45:28.309851+00:00",
       "title": "Senior Software Engineer",
       "url": "https://job-boards.greenhouse.io/newrelic/jobs/5431024008",
       "location": "Barcelona, Spain",
