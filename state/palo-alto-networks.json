@@ -1194,7 +1194,7 @@
       "title": "Manager, AI Software Engineering (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/103216427824",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "253eb79d9548": {
@@ -1221,7 +1221,7 @@
       "title": "Principal/ Senior Principal Software Engineer | Cortex Detection team",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/103381104592",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "98f7ca01a34b": {
@@ -1347,7 +1347,7 @@
       "title": "Senior Software Engineer - Identity Security (ITDR)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-identity-security-itdr/47263/103338619632",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8a3325ccfa84": {
@@ -1374,7 +1374,7 @@
       "title": "Principal Software Engineer - Platform (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-software-engineer-platform-cortex/47263/103381122784",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
