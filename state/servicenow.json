@@ -3498,7 +3498,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000161721289",
       "location": "Santa Clara, CALIFORNIA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000161813119": {
@@ -3507,7 +3507,7 @@
       "title": "Staff Software Engineer (Armis/Veza)",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000161813119",
       "location": "Tel Aviv",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000161772132": {
@@ -3516,7 +3516,7 @@
       "title": "Staff Software Engineer, Full Stack",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000161772132",
       "location": "Hyderabad, Telangana",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000161760969": {
@@ -3530,10 +3530,28 @@
     },
     "744000161948425": {
       "first_seen_at": "2026-11-17T01:46:31.209026+00:00",
-      "last_seen_at": "2026-11-17T15:45:28.309851+00:00",
+      "last_seen_at": "2026-11-18T00:48:39.666941+00:00",
       "title": "Senior Software Engineer - Conversational AI",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000161948425",
       "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000162190099": {
+      "first_seen_at": "2026-11-18T00:48:39.666941+00:00",
+      "last_seen_at": "2026-11-18T00:48:39.666941+00:00",
+      "title": "Software Engineer, Agentic Systems - Moveworks",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162190099",
+      "location": "Mountain View, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162158379": {
+      "first_seen_at": "2026-11-18T00:48:39.666941+00:00",
+      "last_seen_at": "2026-11-18T00:48:39.666941+00:00",
+      "title": "Senior Software Engineer, Developer Experience - Moveworks",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162158379",
+      "location": "Mountain View, California",
       "active": true,
       "excluded": true
     }
