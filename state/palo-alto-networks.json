@@ -803,11 +803,11 @@
     },
     "062431d5ea65": {
       "first_seen_at": "2026-10-13T13:55:21.789291+00:00",
-      "last_seen_at": "2026-10-19T12:42:56.162995+00:00",
+      "last_seen_at": "2026-11-19T15:31:31.291665+00:00",
       "title": "Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/102133647648",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "98daba38842a": {
@@ -1100,11 +1100,11 @@
     },
     "66e4bf216a08": {
       "first_seen_at": "2026-10-25T15:51:52.657598+00:00",
-      "last_seen_at": "2026-10-26T04:09:32.109462+00:00",
+      "last_seen_at": "2026-11-19T15:31:31.291665+00:00",
       "title": "Senior/Principal Software Engineer (AI transformation - QA)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-software-engineer-ai-transformation-qa/47263/101022371888",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "69e640adb61e": {
@@ -1383,7 +1383,7 @@
       "title": "Sr. Staff FinOps Software Engineer (AI Infrastructure)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-finops-software-engineer-ai-infrastructure/47263/102182122176",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "cf682ae52e43": {
@@ -1392,7 +1392,7 @@
       "title": "Senior Staff FinOps Software Engineer (AI Infrastructure)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-finops-software-engineer-ai-infrastructure/47263/99699014768",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c50cd324b542": {
@@ -1401,7 +1401,7 @@
       "title": "Senior Software Engineer, Prisma SD-WAN (Platform & Networking) - NetSec",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-software-engineer-prisma-sd-wan-platform-and-networking-netsec/47263/99021616400",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }
