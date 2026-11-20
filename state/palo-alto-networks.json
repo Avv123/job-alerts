@@ -128,11 +128,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:58:50.850027+00:00",
-      "last_seen_at": "2026-11-09T15:46:30.384547+00:00",
+      "last_seen_at": "2026-11-20T15:10:14.662960+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486912",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -1410,7 +1410,7 @@
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "San Jose, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8ce3fb8fd585": {
@@ -1419,7 +1419,7 @@
       "title": "Staff Software Engineer - AI",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer-ai/47263/103531770432",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0d1bf47d74c4": {
@@ -1428,6 +1428,15 @@
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "77661c60d370": {
+      "first_seen_at": "2026-11-20T15:10:14.662960+00:00",
+      "last_seen_at": "2026-11-20T15:10:14.662960+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
+      "location": "Hyderabad, India, Madhapur, India",
       "active": true,
       "excluded": true
     }

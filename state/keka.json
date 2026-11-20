@@ -56,7 +56,7 @@
     },
     "1f6679182526": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-20T00:28:39.275142+00:00",
+      "last_seen_at": "2026-11-20T15:10:14.662960+00:00",
       "title": "Principal Software Engineer",
       "url": "https://hr.keka.com/careers/jobdetails/112261",
       "location": "Bengaluru",
@@ -78,17 +78,26 @@
       "title": "Lead Software Engineer",
       "url": "https://hr.keka.com/careers/jobdetails/84857",
       "location": "Hyderabad",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "02830dc5dd27": {
       "first_seen_at": "2026-09-29T12:30:33.199314+00:00",
-      "last_seen_at": "2026-11-20T00:28:39.275142+00:00",
+      "last_seen_at": "2026-11-20T15:10:14.662960+00:00",
       "title": "Senior Software Engineer",
       "url": "https://hr.keka.com/careers/jobdetails/137674",
       "location": "Bengaluru",
       "active": true,
       "excluded": false
+    },
+    "b750d41f029e": {
+      "first_seen_at": "2026-11-20T15:10:14.662960+00:00",
+      "last_seen_at": "2026-11-20T15:10:14.662960+00:00",
+      "title": "Lead Software Engineer",
+      "url": "https://hr.keka.com/careers/jobdetails/84857",
+      "location": "Bengaluru",
+      "active": true,
+      "excluded": true
     }
   }
 }
