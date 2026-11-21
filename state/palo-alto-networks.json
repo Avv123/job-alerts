@@ -132,7 +132,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -1437,6 +1437,15 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "Hyderabad, India, Madhapur, India",
+      "active": false,
+      "excluded": true
+    },
+    "3743c1210196": {
+      "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "last_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer/47263/99699014768",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

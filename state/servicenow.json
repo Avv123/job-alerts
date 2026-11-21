@@ -3642,7 +3642,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162621260",
       "location": "Santa Clara, CALIFORNIA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000162621689": {
@@ -3651,7 +3651,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162621689",
       "location": "Santa Clara, California",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000162615219": {
@@ -3660,7 +3660,7 @@
       "title": "Staff Software Engineer- Agentic AI - Federal",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162615219",
       "location": "Santa Clara, CALIFORNIA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000162575369": {
@@ -3669,7 +3669,7 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162575369",
       "location": "San Diego, California",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000162555394": {
@@ -3678,7 +3678,7 @@
       "title": "Sr Staff Software Engineer - infrastructure team (Veza/Armis)",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162555394",
       "location": "Tel Aviv-Yafo, Tel Aviv District",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000162697254": {
@@ -3687,7 +3687,7 @@
       "title": "Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162697254",
       "location": "Hyderabad",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "744000162622849": {
@@ -3696,6 +3696,51 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162622849",
       "location": "Santa Clara, California",
+      "active": false,
+      "excluded": true
+    },
+    "744000162834109": {
+      "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "last_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162834109",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162827365": {
+      "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "last_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "title": "Security Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162827365",
+      "location": "Kirkland, Washington",
+      "active": true,
+      "excluded": true
+    },
+    "744000162813509": {
+      "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "last_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162813509",
+      "location": "Petah Tikva",
+      "active": true,
+      "excluded": true
+    },
+    "744000162797123": {
+      "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "last_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "title": "Sr Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162797123",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162794742": {
+      "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "last_seen_at": "2026-11-20T23:51:38.757183+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162794742",
+      "location": "Santa Clara, CALIFORNIA",
       "active": true,
       "excluded": true
     }
