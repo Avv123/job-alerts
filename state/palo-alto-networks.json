@@ -1448,6 +1448,24 @@
       "location": "Santa Clara, California, United States of America",
       "active": false,
       "excluded": true
+    },
+    "f5a25bda155d": {
+      "first_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "title": "Principal Software Engineer Linux - (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-linux-global-protect/47263/101633315968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "b52a94307331": {
+      "first_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "title": "Principal Software Engineer Linux - (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-linux-global-protect/47263/101633315968",
+      "location": "Santa Clara, California, United States",
+      "active": true,
+      "excluded": true
     }
   }
 }
