@@ -11,7 +11,7 @@
     },
     "ff896f8058c3": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineering",
       "url": "https://www.metacareers.com/teams/technology/software-engineering/",
       "location": "",
@@ -186,7 +186,7 @@
       "title": "Embedded Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1380163667611704",
       "location": "Hsinchu, Taiwan",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "1595f91f4c45": {
@@ -402,30 +402,30 @@
       "title": "Software Engineer, Product",
       "url": "https://www.metacareers.com/profile/job_details/1613643980303295",
       "location": "Bellevue, WA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "64e2cab9f9f3": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer, Systems",
-      "url": "https://www.metacareers.com/profile/job_details/1402699157903809",
+      "url": "https://www.metacareers.com/profile/job_details/2216077149311950",
       "location": "Bellevue, WA",
       "active": true,
       "excluded": true
     },
     "ae7bec430b25": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-21T06:32:03.957333+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer, iOS",
       "url": "https://www.metacareers.com/profile/job_details/1087742840660039",
       "location": "San Francisco, CA",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "f099211c14f2": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer, Product",
       "url": "https://www.metacareers.com/profile/job_details/1613643980303295",
       "location": "Menlo Park, CA",
@@ -434,25 +434,25 @@
     },
     "eac619863d99": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer",
-      "url": "https://www.metacareers.com/profile/job_details/1426828819426854",
+      "url": "https://www.metacareers.com/profile/job_details/1124937540046351",
       "location": "Bellevue, WA",
       "active": true,
       "excluded": true
     },
     "f26ae1855b93": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer",
-      "url": "https://www.metacareers.com/profile/job_details/1426828819426854",
+      "url": "https://www.metacareers.com/profile/job_details/1124937540046351",
       "location": "New York, NY",
       "active": true,
       "excluded": true
     },
     "dc80ecb55662": {
       "first_seen_at": "2026-11-21T18:57:02.397310+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer - Android",
       "url": "https://www.metacareers.com/profile/job_details/1407489568097442",
       "location": "Menlo Park, CA",
@@ -461,7 +461,7 @@
     },
     "662bae7bd165": {
       "first_seen_at": "2026-11-21T18:57:02.397310+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-23T23:39:39.896546+00:00",
       "title": "Software Engineer (Product)",
       "url": "https://www.metacareers.com/profile/job_details/1110323608323248",
       "location": "New York, NY",
