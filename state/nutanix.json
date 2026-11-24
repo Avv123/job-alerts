@@ -143,6 +143,24 @@
       "location": "Belgrade, Serbia",
       "active": false,
       "excluded": true
+    },
+    "89cdb7cc3dd1": {
+      "first_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "last_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "title": "Sr. Software Engineer - Security/Kernel",
+      "url": "https://careers.nutanix.com/en/jobs/33090/sr-software-engineer-securitykernel/",
+      "location": "San Jose, United States",
+      "active": true,
+      "excluded": true
+    },
+    "7005bf0b3c34": {
+      "first_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "last_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "title": "Sr. Software Engineer - Kernel",
+      "url": "https://careers.nutanix.com/en/jobs/33089/sr-software-engineer-kernel/",
+      "location": "San Jose, United States",
+      "active": true,
+      "excluded": true
     }
   }
 }

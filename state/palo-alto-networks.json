@@ -1466,6 +1466,15 @@
       "location": "Santa Clara, California, United States",
       "active": false,
       "excluded": true
+    },
+    "14f23e3886fe": {
+      "first_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "last_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "title": "Principal Software Engineer C/C++ Linux Kernel - (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-c-c-linux-kernel-global-protect/47263/101633315968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
     }
   }
 }
