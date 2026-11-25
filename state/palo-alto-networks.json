@@ -731,11 +731,11 @@
     },
     "f105e409d9c3": {
       "first_seen_at": "2026-10-07T23:01:13.548720+00:00",
-      "last_seen_at": "2026-10-08T05:29:08.246830+00:00",
+      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
       "title": "Staff IT Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "8b58a22d2085": {
@@ -1469,10 +1469,46 @@
     },
     "14f23e3886fe": {
       "first_seen_at": "2026-11-24T22:10:48.699926+00:00",
-      "last_seen_at": "2026-11-24T22:10:48.699926+00:00",
+      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
       "title": "Principal Software Engineer C/C++ Linux Kernel - (Global Protect)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-c-c-linux-kernel-global-protect/47263/101633315968",
       "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "965ac95d9e0f": {
+      "first_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "title": "Principal Platform Software Engineer (Console)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-francisco/principal-platform-software-engineer-console/47263/103758814768",
+      "location": "San Francisco, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "649d3364391a": {
+      "first_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "title": "Sr Manager, IT Software Engineering",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-manager-it-software-engineering/47263/101886010608",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "dd6d2eb30d11": {
+      "first_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "title": "Sr. Staff AI Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-ai-software-engineer/47263/102182122176",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "42e4c62bd50a": {
+      "first_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "title": "Principal Software Engineer (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/99771556016",
+      "location": "Santa Clara, California, United States",
       "active": true,
       "excluded": true
     }
