@@ -69,8 +69,17 @@
       "title": "Senior Software Development Engineer",
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4747004005",
       "location": "Bengaluru",
-      "active": true,
+      "active": false,
       "excluded": false
+    },
+    "4746998005": {
+      "first_seen_at": "2026-11-25T21:26:53.294936+00:00",
+      "last_seen_at": "2026-11-25T21:26:53.294936+00:00",
+      "title": "Lead Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746998005",
+      "location": "Bengaluru",
+      "active": true,
+      "excluded": true
     }
   }
 }
