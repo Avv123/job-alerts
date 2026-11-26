@@ -731,11 +731,11 @@
     },
     "f105e409d9c3": {
       "first_seen_at": "2026-10-07T23:01:13.548720+00:00",
-      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "last_seen_at": "2026-11-26T07:43:53.713202+00:00",
       "title": "Staff IT Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "8b58a22d2085": {
@@ -1510,6 +1510,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/99771556016",
       "location": "Santa Clara, California, United States",
       "active": false,
+      "excluded": true
+    },
+    "7ba90bddc7f7": {
+      "first_seen_at": "2026-11-26T07:43:53.713202+00:00",
+      "last_seen_at": "2026-11-26T07:43:53.713202+00:00",
+      "title": "Senior Principal Software Engineer (PAN OS)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-pan-os/47263/103170829680",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }
