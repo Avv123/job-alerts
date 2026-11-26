@@ -636,8 +636,17 @@
       "title": "Software Engineer II - ML Engineer",
       "url": "https://jobs.uber.com/en/jobs/304446/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
+    },
+    "1ae95461a1d6": {
+      "first_seen_at": "2026-11-26T21:13:54.809562+00:00",
+      "last_seen_at": "2026-11-26T21:13:54.809562+00:00",
+      "title": "Software Development Engineer in Test (SDET) Lead",
+      "url": "https://jobs.uber.com/en/jobs/305053/",
+      "location": "",
+      "active": true,
+      "excluded": true
     }
   }
 }

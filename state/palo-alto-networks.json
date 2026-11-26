@@ -735,7 +735,7 @@
       "title": "Staff IT Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8b58a22d2085": {
@@ -1518,8 +1518,17 @@
       "title": "Senior Principal Software Engineer (PAN OS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-pan-os/47263/103170829680",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
+    },
+    "aabcaf5ed885": {
+      "first_seen_at": "2026-11-26T21:13:54.809562+00:00",
+      "last_seen_at": "2026-11-26T21:13:54.809562+00:00",
+      "title": "Software Engineer with C#/.NET",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/software-engineer-with-c-net/47263/103820237392",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }
