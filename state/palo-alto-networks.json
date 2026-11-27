@@ -1145,20 +1145,20 @@
     },
     "59ff439ad4c9": {
       "first_seen_at": "2026-10-27T17:47:33.650921+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Principal Software Engineer, Device Security & Containers (NGFW) - NetSec",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-software-engineer-device-security-and-containers-ngfw-netsec/47263/102508099568",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "cb67436e677c": {
       "first_seen_at": "2026-10-27T17:47:33.650921+00:00",
-      "last_seen_at": "2026-10-27T17:47:33.650921+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Sr. Staff Software Engineer, Device Firmware & Platform (NGFW) - NetSec",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-device-firmware-and-platform-ngfw-netsec/47263/102508099552",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "2711ede80775": {
@@ -1527,7 +1527,7 @@
       "title": "Software Engineer with C#/.NET",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/software-engineer-with-c-net/47263/103820237392",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "c02e48c40856": {
@@ -1536,7 +1536,7 @@
       "title": "Principal Software Engineer in Test (Cloud Security Services)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-in-test-cloud-security-services/47263/100093057600",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "cac626415598": {
@@ -1545,7 +1545,7 @@
       "title": "Principal/ Senior Principal Software Engineer- Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-pipelines-cortex/47263/103381104592",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "30b17cade541": {
@@ -1554,7 +1554,7 @@
       "title": "Principal Software Engineer in Test (Cloud Security Services)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-in-test-cloud-security-services/47263/100093057600",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3dee836689fa": {
@@ -1563,6 +1563,24 @@
       "title": "Principal/ Senior Principal Software Engineer- Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-pipelines-cortex/47263/103381104592",
       "location": "Tel Aviv, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "71da7898ad4c": {
+      "first_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "title": "Senior / Principal Software Engineer, Secrets Hub Team",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-principal-software-engineer-secrets-hub-team/47263/101398226208",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
+    },
+    "c3cd642f7366": {
+      "first_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "title": "Principal Software Engineer, Device Security & Containers (NGFW) - NetSec",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-software-engineer-device-security-and-containers-ngfw-netsec/47263/102508099568",
+      "location": "Bengaluru, India",
       "active": true,
       "excluded": true
     }

@@ -146,11 +146,11 @@
     },
     "bb30e240656e": {
       "first_seen_at": "2026-09-17T04:22:30.751819+00:00",
-      "last_seen_at": "2026-09-17T04:22:30.751819+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer II - Machine Learning Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302439/",
+      "url": "https://jobs.uber.com/en/jobs/304583/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "59e33285457a": {
@@ -645,7 +645,7 @@
       "title": "Software Development Engineer in Test (SDET) Lead",
       "url": "https://jobs.uber.com/en/jobs/305053/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

@@ -146,7 +146,7 @@
     },
     "89cdb7cc3dd1": {
       "first_seen_at": "2026-11-24T22:10:48.699926+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Sr. Software Engineer - Security/Kernel",
       "url": "https://careers.nutanix.com/en/jobs/33090/sr-software-engineer-securitykernel/",
       "location": "San Jose, United States",
@@ -155,10 +155,19 @@
     },
     "7005bf0b3c34": {
       "first_seen_at": "2026-11-24T22:10:48.699926+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Sr. Software Engineer - Kernel",
       "url": "https://careers.nutanix.com/en/jobs/33089/sr-software-engineer-kernel/",
       "location": "San Jose, United States",
+      "active": true,
+      "excluded": true
+    },
+    "1c27cc6804c1": {
+      "first_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "title": "MTS 3 (Golang + Linux + Infrastructure + Backend) | 4\u20136 Years Bengalore",
+      "url": "https://careers.nutanix.com/en/jobs/33148/mts-3-golang-plus-linux-plus-infrastructure-plus-backend-4-6-years-bengalore/",
+      "location": "Bangalore, India",
       "active": true,
       "excluded": true
     }

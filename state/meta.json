@@ -11,7 +11,7 @@
     },
     "ff896f8058c3": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineering",
       "url": "https://www.metacareers.com/teams/technology/software-engineering/",
       "location": "",
@@ -182,11 +182,11 @@
     },
     "fd6d2cb5b53b": {
       "first_seen_at": "2026-09-21T12:29:10.122698+00:00",
-      "last_seen_at": "2026-11-23T06:52:56.594015+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Embedded Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1380163667611704",
       "location": "Hsinchu, Taiwan",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "1595f91f4c45": {
@@ -195,7 +195,7 @@
       "title": "Embedded Software Engineer, Firmware",
       "url": "https://www.metacareers.com/profile/job_details/893276690137821",
       "location": "Sunnyvale, CA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d3488ebb64f9": {
@@ -407,7 +407,7 @@
     },
     "64e2cab9f9f3": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer, Systems",
       "url": "https://www.metacareers.com/profile/job_details/2666686747134642",
       "location": "Bellevue, WA",
@@ -416,11 +416,11 @@
     },
     "ae7bec430b25": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-25T07:53:01.944052+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer, iOS",
       "url": "https://www.metacareers.com/profile/job_details/1087742840660039",
       "location": "San Francisco, CA",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "f099211c14f2": {
@@ -434,9 +434,9 @@
     },
     "eac619863d99": {
       "first_seen_at": "2026-11-20T23:51:38.757183+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer",
-      "url": "https://www.metacareers.com/profile/job_details/2026090611401041",
+      "url": "https://www.metacareers.com/profile/job_details/2188713048675088",
       "location": "Bellevue, WA",
       "active": true,
       "excluded": true
@@ -465,12 +465,12 @@
       "title": "Software Engineer (Product)",
       "url": "https://www.metacareers.com/profile/job_details/1110323608323248",
       "location": "New York, NY",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2dfaa8bc5023": {
       "first_seen_at": "2026-11-25T21:26:53.294936+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer (Systems)",
       "url": "https://www.metacareers.com/profile/job_details/1153878043863573",
       "location": "Bellevue, WA",
@@ -479,7 +479,7 @@
     },
     "c7cf7c426a7e": {
       "first_seen_at": "2026-11-25T21:26:53.294936+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer, Systems",
       "url": "https://www.metacareers.com/profile/job_details/2666686747134642",
       "location": "New York, NY",
@@ -492,15 +492,24 @@
       "title": "Software Engineer (Machine Learning)",
       "url": "https://www.metacareers.com/profile/job_details/1061344469849575",
       "location": "Bellevue, WA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "01e51ab46f7c": {
       "first_seen_at": "2026-11-25T21:26:53.294936+00:00",
-      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
       "title": "Software Engineer, Machine Learning",
       "url": "https://www.metacareers.com/profile/job_details/2542490782884946",
       "location": "Menlo Park, CA",
+      "active": true,
+      "excluded": true
+    },
+    "6e211ced60fd": {
+      "first_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "last_seen_at": "2026-11-27T20:56:47.648433+00:00",
+      "title": "Software Engineer, Systems",
+      "url": "https://www.metacareers.com/profile/job_details/2666686747134642",
+      "location": "Sunnyvale, CA",
       "active": true,
       "excluded": true
     }
