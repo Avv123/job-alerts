@@ -1523,12 +1523,48 @@
     },
     "aabcaf5ed885": {
       "first_seen_at": "2026-11-26T21:13:54.809562+00:00",
-      "last_seen_at": "2026-11-26T21:13:54.809562+00:00",
+      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
       "title": "Software Engineer with C#/.NET",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/software-engineer-with-c-net/47263/103820237392",
       "location": "",
       "active": true,
       "excluded": false
+    },
+    "c02e48c40856": {
+      "first_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "title": "Principal Software Engineer in Test (Cloud Security Services)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-in-test-cloud-security-services/47263/100093057600",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "cac626415598": {
+      "first_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "title": "Principal/ Senior Principal Software Engineer- Data Pipelines (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-pipelines-cortex/47263/103381104592",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "30b17cade541": {
+      "first_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "title": "Principal Software Engineer in Test (Cloud Security Services)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-in-test-cloud-security-services/47263/100093057600",
+      "location": "Santa Clara, California, United States",
+      "active": true,
+      "excluded": true
+    },
+    "3dee836689fa": {
+      "first_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "last_seen_at": "2026-11-27T07:43:26.352590+00:00",
+      "title": "Principal/ Senior Principal Software Engineer- Data Pipelines (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-pipelines-cortex/47263/103381104592",
+      "location": "Tel Aviv, Israel",
+      "active": true,
+      "excluded": true
     }
   }
 }
